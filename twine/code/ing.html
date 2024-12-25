@@ -1,0 +1,155 @@
+<div id="chat-history"></div>
+<div style="margin-top: 10px; display: flex; align-items: center;">
+    <button id="end-conversation-button">结束对话</button>
+    <input type="text" id="user-input" placeholder="输入你的问题..." />
+    <button id="send-button">发送</button>
+</div>
+
+<<script>>
+    (function() {
+        let conversationHistory = [];
+        let socket;
+        let isSocketConnected = false;
+        let isEndingConversation = false;
+        let hasNavigatedToPassage = false; // 标志位，防止多次跳转
+        const prompt = "你扮演的是奥菲莉娅，《哈姆雷特》中的年轻女主角。您是一个善良且多愁善感的角色，对哈姆雷特有着深深的爱意，但同时也被家人（波洛涅斯和雷欧提斯）所控制。您的言辞应该优雅而内敛，充满诗意。无论玩家（哈姆雷特）如何回应，你都要保持角色的一致性，同时表现出细腻的情绪波动。请确保你的回答符合这一角色设定，并体现出奥菲莉娅的性格特点和情感状态。现在是第三幕第一场。波洛涅斯认为，哈姆雷特的情感是虚假的，或者说即使是真的，也不适合继续发展，因为你的身份和家族地位无法与王室联姻。因此他要求你将你们的爱情信物退还给哈姆莱特。目前您所有亲戚都活着，不要说你的父亲或者母亲死了！您现在正在读书，假装与哈姆雷特偶遇，以下是哈姆莱特对你说的话：";
+
+        function updateChatHistory() {
+            const chatHistoryDiv = $("#chat-history");
+            chatHistoryDiv.html(conversationHistory.map(msg => {
+                return `<p><strong>${msg.role === "user" ? "你" : "奥菲莉娅"}:</strong> ${msg.content}</p>`;
+            }).join(""));
+            chatHistoryDiv.scrollTop(chatHistoryDiv.prop("scrollHeight"));
+        }
+
+        function sendToWebSocket(message) {
+            const payload = {
+                "header": {
+                    "app_id": '8b85b9c2',
+                    "uid": '8b85b9c2',
+                    "patch_id": ["1868135224229920768"]
+                },
+                "parameter": {
+                    "chat": {
+                        "domain": "xqwen257bchat",
+                        "temperature": 0.5
+                    }
+                },
+                "payload": {
+                    "message": {
+                        "text": [{"role": "user", "content": prompt + message}]
+                    }
+                }
+            };
+            if (socket && socket.readyState === WebSocket.OPEN) {
+                socket.send(JSON.stringify(payload));
+            } else {
+                console.error('WebSocket is not open.');
+            }
+        }
+
+        async function callGPT(message) {
+            const apiUrl = "wss://maas-api.cn-huabei-1.xf-yun.com/v1.1/chat";
+            socket = new WebSocket(apiUrl);
+
+            socket.onopen = () => {
+                console.log('WebSocket connected');
+                isSocketConnected = true;
+                sendToWebSocket(message);
+            };
+
+            socket.onerror = (error) => {
+                console.error('WebSocket Error', error);
+            };
+
+            socket.onclose = () => {
+                console.log('WebSocket closed');
+                isSocketConnected = false;
+            };
+
+            socket.onmessage = (event) => {
+                try {
+                    const response = JSON.parse(event.data);
+
+                    if (response.payload && response.payload.choices && response.payload.choices.text) {
+                        const textChunks = response.payload.choices.text;
+                        let choice = "";
+
+                        textChunks.forEach(chunk => {
+                            const content = chunk.content || "";
+
+                            if (isEndingConversation) {
+                                if (conversationHistory.length > 0 && conversationHistory[conversationHistory.length - 1].role === "assistant") {
+                                    conversationHistory[conversationHistory.length - 1].content += content;
+                                } else {
+                                    choice = content;
+                                }
+                                processEndConversationResponse(choice);
+                            } else {
+                                if (conversationHistory.length > 0 && conversationHistory[conversationHistory.length - 1].role === "assistant") {
+                                    conversationHistory[conversationHistory.length - 1].content += content;
+                                } else {
+                                    conversationHistory.push({ "role": "assistant", "content": content });
+                                }
+
+                                updateChatHistory();
+                            }
+                        });
+                    } else {
+                        console.error('Unexpected WebSocket response structure:', response);
+                    }
+                } catch (error) {
+                    console.error('Error parsing WebSocket data:', error);
+                }
+            };
+        }
+
+        function handleUserInput() {
+            const userInput = $("#user-input").val().trim();
+            if (!userInput) return;
+
+            conversationHistory.push({"role": "user", "content": userInput});
+            updateChatHistory();
+            $("#user-input").val("");
+
+            callGPT(userInput);
+        }
+
+        function endConversation() {
+            const chatHistoryText = conversationHistory.map(msg => `${msg.role === "user" ? "你" : "奥菲莉娅"}: ${msg.content}`).join("\n");
+            const messageToSend = prompt + "以下是你们的历史对话：" + chatHistoryText + 
+                                "请根据历史消息回答，你愿意私下找哈姆莱特谈心吗？只能回答是或者不是。";
+            isEndingConversation = true;
+            callGPT(messageToSend);
+        }
+
+        function processEndConversationResponse(response) {
+            if (hasNavigatedToPassage) return; // 如果已经跳转过，则直接返回
+
+            console.log('结束对话的AI回答：', response);
+            const targetPassage = response.includes("不") ? "不愿意沟通" : "愿意沟通";
+            State.variables.targetPassage = targetPassage; // 使用 SugarCube 的 State 变量
+            console.log(`跳转到 passage: "${targetPassage}"`);
+
+            hasNavigatedToPassage = true; // 标志位设置为 true
+            SugarCube.Engine.play(targetPassage); // 跳转到目标 passage
+        }
+
+        $(document).ready(function() {
+            $("#user-input").on("keydown", function(event) {
+                if (event.key === "Enter") {
+                    event.preventDefault();
+                    handleUserInput();
+                }
+            });
+            $("#send-button").on("click", handleUserInput);
+            $("#end-conversation-button").on("click", endConversation);
+        });
+    })();
+<</script>>
+
+<<if $targetPassage>>
+    <<goto $targetPassage>>
+<<else>>
+    <p>对不起，目标 passage 未找到。</p>
+<</if>>
