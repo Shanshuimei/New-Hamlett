@@ -1,0 +1,944 @@
+TV_ID,Dialogue_ID,Utterance_ID,Speaker,Gender,Age,Neuroticism,Extraversion,Openness,Agreeableness,Conscientiousness,Scene,FacePosition_LU,FacePosition_RD,Sentiment,Emotion,DA,Utterance
+29,29_259,29_259_003,关谷神奇,male,young,high,low,high,high,high,other-venue,131_12,334_248,negative,anger,statement-non-opinion,我原以为世界人民都是相亲相爱相好的一家人
+27,27_236,27_236_005,吕子乔,male,young,low,high,high,high,low,restaurant,258_45,396_195,negative,anger,statement-opinion,你脑袋被门挤了
+36,36_056,36_056_000,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,329_40,450_219,negative,anger,other,东海
+27,27_163,27_163_014,陆展博,female,young,high,low,high,high,high,home,358_109,475_218,negative,anger,statement-non-opinion,我出3000
+27,27_187,27_187_010,陈美嘉,female,young,high,high,low,high,low,home,0_0,0_0,negative,anger,statement-non-opinion,你本来就有一顶
+27,27_383,27_383_001,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,office,232_121,420_319,negative,anger,statement-opinion,我领悟的更加透彻
+27,27_038,27_038_008,吕子乔,male,young,low,high,high,high,low,home,190_14,346_182,negative,anger,statement-non-opinion,你再来一下试试
+27,27_237,27_237_003,吕子乔,male,young,low,high,high,high,low,restaurant,308_19,483_192,negative,anger,question,你能不能别乱摔东西
+27,27_466,27_466_012,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,entertainment-venue,97_101,347_313,negative,anger,conventional-closing,贤儿我要先走了
+29,29_385,29_385_001,曾小贤,male,young,high,high,low,high,low,office,268_22,536_319,negative,anger,statement-non-opinion,容不得任何第三者的沙图诺兰
+37,37_146,37_146_010,刘梅,female,middle-aged,high,high,low,high,high,home,322_42,493_275,negative,anger,statement-non-opinion,甭提了
+30,30_132,30_132_004,吕子乔,male,young,low,high,high,high,low,home,372_33,478_202,negative,anger,question,你他妈谁啊
+27,27_252,27_252_001,陆展博,female,young,high,low,high,high,high,home,491_21,634_153,negative,anger,statement-non-opinion,我在大学里很受欢迎的
+28,28_145,28_145_003,秦羽墨,female,young,high,high,high,high,high,home,54_80,150_212,negative,anger,statement-non-opinion,该死
+27,27_038,27_038_000,陈美嘉,female,young,high,high,low,high,low,home,0_0,0_0,negative,anger,question,泼妇骂谁
+37,37_156,37_156_007,刘梅,female,middle-aged,high,high,low,high,high,school,0_0,0_0,negative,anger,question,拉什么去
+30,30_003,30_003_007,曾小贤,male,young,high,high,low,high,low,outdoor,386_25,565_273,negative,anger,reject,我才不会为了80块钱相信你的血光之灾
+36,36_115,36_115_011,刘梅,female,middle-aged,high,high,low,high,high,home,0_0,0_0,negative,anger,question,你又管姥姥要钱了你
+31,31_126,31_126_012,陈美嘉,female,young,high,high,low,high,low,other-venue,405_92,481_185,negative,anger,question,成全你们
+30,30_232,30_232_000,曾小贤,male,young,high,high,low,high,low,entertainment-venue,0_0,0_0,negative,anger,statement-non-opinion,吕子乔
+31,31_114,31_114_006,吕子乔,male,young,low,high,high,high,low,home,357_88,453_218,negative,anger,statement-non-opinion,改行做地产销售了
+28,28_204,28_204_003,曾小贤,male,young,high,high,low,high,low,home,468_33,641_308,negative,anger,statement-opinion,我们爱情公寓都是一群没见过世面的哈妹
+37,37_034,37_034_018,刘梅,female,middle-aged,high,high,low,high,high,home,326_49,503_300,negative,anger,question,还刷什么刷
+36,36_080,36_080_003,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,290_38,520_263,negative,anger,statement-opinion,除非是月亮撞地球
+28,28_075,28_075_002,胡一菲,female,young,low,high,low,low,high,outdoor,0_0,0_0,negative,anger,statement-non-opinion,有一个主持人
+29,29_109,29_109_009,吕子乔,male,young,low,high,high,high,low,home,435_34,609_243,negative,anger,statement-non-opinion,正面你跳
+30,30_039,30_039_007,胡一菲,female,young,low,high,low,low,high,school,0_0,0_0,negative,anger,statement-non-opinion,有功夫在这哭
+28,28_279,28_279_003,曾小贤,male,young,high,high,low,high,low,other-venue,391_27,662_328,negative,anger,statement-non-opinion,算你狠
+37,37_147,37_147_017,刘梅,female,middle-aged,high,high,low,high,high,home,0_0,0_0,negative,anger,question,我们要看不见
+27,27_533,27_533_000,陈美嘉,female,young,high,high,low,high,low,home,0_0,0_0,negative,anger,statement-opinion,吕子乔 你，你太过分了
+34,34_355,34_355_017,邓小可母亲,female,elderly,high,high,low,high,high,home,333_75,488_240,negative,anger,question,那是他骗你是吧
+30,30_012,30_012_005,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,entertainment-venue,154_45,318_223,negative,anger,statement-non-opinion,我是有执照的
+27,27_082,27_082_002,陈美嘉,female,young,high,high,low,high,low,home,262_39,563_348,negative,anger,statement-non-opinion,我还要伺候你个少爷冲马桶
+31,31_033,31_033_006,诸葛大力,female,young,low,low,high,low,high,school,493_148,577_235,negative,anger,statement-non-opinion,那是我邮箱的自动回复
+31,31_066,31_066_001,胡一菲,female,young,low,high,low,low,high,home,415_86,500_203,negative,anger,statement-non-opinion,楼下都投诉了
+27,27_183,27_183_007,陈美嘉,female,young,high,high,low,high,low,home,471_88,667_278,negative,anger,statement-non-opinion,246是我的
+27,27_057,27_057_004,曾小贤,male,young,high,high,low,high,low,home,253_36,374_168,negative,anger,statement-opinion,绿帽子
+34,34_203,34_203_018,魏山山,female,young,low,low,high,high,high,outdoor,236_160,304_243,negative,anger,question,搞清楚我干嘛呀
+37,37_021,37_021_018,刘梅,female,middle-aged,high,high,low,high,high,home,194_69,316_220,negative,anger,statement-opinion,我正式通知你这事就这么定了
+29,29_130,29_130_007,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,entertainment-venue,94_22,261_199,negative,anger,statement-non-opinion,我早就该想到 我当初怎么会相信他
+34,34_203,34_203_019,魏山山,female,young,low,low,high,high,high,outdoor,147_144,222_245,negative,anger,question,你到底想干嘛呀
+35,35_074,35_074_006,刘梅,female,middle-aged,high,high,low,high,high,home,0_0,0_0,negative,anger,question,幸灾乐祸是不是
+36,36_146,36_146_000,刘梅,female,middle-aged,high,high,low,high,high,home,248_40,404_199,negative,anger,question,怎么就不能轮上我
+29,29_258,29_258_004,关谷神奇,male,young,high,low,high,high,high,other-venue,205_27,420_268,negative,anger,statement-non-opinion,听着
+31,31_023,31_023_004,吕子乔,male,young,low,high,high,high,low,home,355_51,438_170,negative,anger,question,毁我面试干嘛
+37,37_089,37_089_006,刘星,male,teenager,high,high,high,high,low,home,283_38,455_245,negative,anger,statement-non-opinion,我告诉你我头悬梁锥刺股
+37,37_023,37_023_008,刘梅,female,middle-aged,high,high,low,high,high,home,228_37,317_164,negative,anger,statement-opinion,不许装 给我好好弹
+37,37_038,37_038_010,刘梅,female,middle-aged,high,high,low,high,high,home,319_60,489_304,negative,anger,statement-opinion,让我添堵
+36,36_058,36_058_003,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,247_26,477_274,negative,anger,question,刘星就吃得消
+28,28_068,28_068_010,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,entertainment-venue,175_26,386_283,negative,anger,statement-opinion,不要自找麻烦
+28,28_020,28_020_008,吕子乔,male,young,low,high,high,high,low,home,344_19,526_265,negative,anger,question,你能不能帮我跟羽墨撮合一下
+27,27_408,27_408_004,胡一菲,female,young,low,high,low,low,high,home,500_96,684_289,negative,anger,statement-opinion,你要是没带来你就死定了
+37,37_041,37_041_017,刘梅,female,middle-aged,high,high,low,high,high,home,154_74,323_273,negative,anger,statement-opinion,你什么也别管
+30,30_107,30_107_005,吕子乔,male,young,low,high,high,high,low,restaurant,221_23,411_284,negative,anger,statement-non-opinion,你知不知道就在刚才你一个同学 活生生要回去500块礼金
+28,28_013,28_013_002,胡一菲,female,young,low,high,low,low,high,home,264_56,418_287,negative,anger,statement-opinion,那你纯属找死了
+28,28_155,28_155_007,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,463_57,663_300,negative,anger,statement-non-opinion,他非要我向他求婚
+27,27_252,27_252_000,陆展博,female,young,high,low,high,high,high,home,419_21,636_227,negative,anger,question,谁说我不擅长社交的
+37,37_154,37_154_007,刘梅,female,middle-aged,high,high,low,high,high,home,258_50,434_264,negative,anger,statement-non-opinion,您家孩子第几
+37,37_041,37_041_009,刘梅,female,middle-aged,high,high,low,high,high,home,237_41,400_266,negative,anger,statement-non-opinion,我干这行多少年了
+30,30_196,30_196_000,关谷神奇,male,young,high,low,high,high,high,home,0_0,0_0,negative,anger,statement-opinion,开玩笑
+29,29_056,29_056_007,陈美嘉,female,young,high,high,low,high,low,home,373_23,545_233,negative,anger,command,你把毛巾留下
+28,28_004,28_004_005,胡一菲,female,young,low,high,low,low,high,home,511_11,593_131,negative,anger,statement-opinion,一个农村姑娘来到城里又没文化
+27,27_011,27_011_003,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,other-venue,0_0,0_0,negative,anger,question,不是你说让我砸墙了吗
+36,36_024,36_024_004,夏雪,female,teenager,high,low,high,low,high,home,0_0,0_0,negative,anger,statement-non-opinion,你赔我一新的吧
+29,29_011,29_011_006,曾小贤,male,young,high,high,low,high,low,home,480_25,572_121,negative,anger,question,博士论文
+37,37_037,37_037_002,刘梅,female,middle-aged,high,high,low,high,high,home,338_37,507_299,negative,anger,statement-opinion,我就添堵
+27,27_084,27_084_002,曾小贤,male,young,high,high,low,high,low,home,311_30,550_241,negative,anger,statement-opinion,他们就会告诉你ADD OCb n double a CPA BC d根本听不懂的专有名词
+34,34_181,34_181_011,沈画,female,young,high,high,low,high,high,home,0_0,0_0,negative,anger,question,我什么我呀 化妆品退不了是吧
+27,27_466,27_466_011,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,entertainment-venue,135_90,324_309,negative,anger,conventional-closing,我今天不想讨论这个问题了
+36,36_079,36_079_010,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,0_0,0_0,negative,anger,question,幸灾乐祸是不是你
+29,29_371,29_371_006,吕子乔,male,young,low,high,high,high,low,outdoor,214_16,394_211,negative,anger,statement-non-opinion,让大家警惕色狼重则报警
+27,27_146,27_146_003,吕子乔,male,young,low,high,high,high,low,home,322_24,491_219,negative,anger,question,你没看见我在打电话了吗
+28,28_004,28_004_006,胡一菲,female,young,low,high,low,low,high,home,525_27,610_148,negative,anger,statement-opinion,看见子乔就以为是纯爷们
+36,36_124,36_124_001,刘梅,female,middle-aged,high,high,low,high,high,home,0_0,0_0,negative,anger,question,你跟姥姥怎么说的
+27,27_018,27_018_009,曾小贤,male,young,high,high,low,high,low,home,244_35,567_381,negative,anger,statement-opinion,中国传统 天经地义
+36,36_002,36_002_002,刘梅,female,middle-aged,high,high,low,high,high,home,323_55,483_260,negative,anger,question,还吃个什么劲
+28,28_212,28_212_006,唐悠悠,female,young,high,high,high,high,high,home,426_48,562_236,negative,astonished,statement-non-opinion,后来这个印度人去了美国
+29,29_182,29_182_002,林宛瑜,female,young,low,high,high,high,high,restaurant,189_37,384_244,negative,astonished,question,这是什么
+31,31_082,31_082_001,吕子乔,male,young,low,high,high,high,low,home,391_69,471_182,negative,astonished,question,你哪来的私房钱
+29,29_244,29_244_002,胡一菲,female,young,low,high,low,low,high,car,473_59,688_292,negative,astonished,question,我们现在怎么办
+31,31_035,31_035_006,赵海棠,male,young,low,high,high,high,high,home,451_97,532_196,negative,astonished,question,孩子
+28,28_035,28_035_000,曾小贤,male,young,high,high,low,high,low,office,330_16,546_297,negative,astonished,statement-opinion,这个可能是某种暗语
+28,28_093,28_093_000,唐悠悠,female,young,high,high,high,high,high,home,469_52,579_196,negative,astonished,question,什么盒
+27,27_119,27_119_003,曾小贤,male,young,high,high,low,high,low,home,197_23,409_256,negative,astonished,question,你身上什么味道 这么臭啊
+30,30_081,30_081_000,唐悠悠,female,young,high,high,high,high,high,home,473_35,596_156,negative,astonished,disagreement,不行美嘉是个孕妇
+37,37_144,37_144_003,夏东海,male,middle-aged,low,high,high,high,high,outdoor,250_47,451_279,negative,astonished,statement-non-opinion,说刘星请了两天假不上课
+30,30_155,30_155_004,吕子乔,male,young,low,high,high,high,low,entertainment-venue,359_21,612_344,negative,astonished,question,你不会真是童姥吧
+35,35_193,35_193_000,夏雪,female,teenager,high,low,high,low,high,home,0_0,0_0,negative,astonished,disagreement,开玩笑
+30,30_119,30_119_004,吕子乔,male,young,low,high,high,high,low,entertainment-venue,425_43,612_311,negative,astonished,question,强迫症 我 你想多了
+27,27_103,27_103_001,关谷神奇,male,young,high,low,high,high,high,home,211_65,436_344,negative,astonished,statement-opinion,不
+29,29_087,29_087_007,曾小贤,male,young,high,high,low,high,low,entertainment-venue,416_254,417_257,negative,astonished,question,怎么可能 说好挂三天的
+29,29_227,29_227_002,胡一菲,female,young,low,high,low,low,high,home,272_35,439_269,negative,astonished,statement-non-opinion,结婚 他戒指都没带啊
+35,35_115,35_115_003,夏雪,female,teenager,high,low,high,low,high,home,249_59,421_268,negative,astonished,question,这是怎么回事
+27,27_454,27_454_000,吕子乔,male,young,low,high,high,high,low,home,208_61,370_235,negative,astonished,statement-opinion,这个预约本来就是找备胎
+28,28_222,28_222_002,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,entertainment-venue,183_22,336_234,negative,astonished,question,你说什么
+29,29_406,29_406_003,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,0_0,0_0,negative,astonished,statement-non-opinion,可一小时前她还跟我吃饭呢
+28,28_212,28_212_013,曾小贤,male,young,high,high,low,high,low,home,156_23,294_196,negative,astonished,question,怎么个混乱法
+29,29_260,29_260_004,吕子乔,male,young,low,high,high,high,low,other-venue,168_24,393_298,negative,astonished,question,靠这也可以
+34,34_329,34_329_000,邓小可母亲,female,elderly,high,high,low,high,high,home,342_112,517_312,negative,astonished,question,嫌我唠叨了
+27,27_483,27_483_002,曾小贤,male,young,high,high,low,high,low,entertainment-venue,469_13,734_243,negative,astonished,question,林宛瑜
+37,37_212,37_212_000,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,267_53,459_279,negative,astonished,question,你叫刘星
+27,27_139,27_139_004,关谷神奇,male,young,high,low,high,high,high,entertainment-venue,527_1,775_159,negative,astonished,statement-opinion,怎么会 你一直都做得很好
+36,36_092,36_092_003,刘星,male,teenager,high,high,high,high,low,home,340_35,501_235,negative,astonished,question,你要抱着这破石头睡觉
+30,30_183,30_183_009,张伟,male,young,low,low,low,high,high,home,265_33,433_280,negative,astonished,question,他们都在耍我
+30,30_214,30_214_005,张伟,male,young,low,low,low,high,high,home,228_34,374_225,negative,astonished,statement-opinion,我只是随便地推理一下
+30,30_131,30_131_000,吕子乔,male,young,low,high,high,high,low,entertainment-venue,195_47,371_285,negative,astonished,question,你又是从哪听来的
+29,29_175,29_175_001,关谷神奇,male,young,high,low,high,high,high,home,186_25,427_266,negative,astonished,question,你把MTV发掉干嘛
+27,27_163,27_163_004,陆展博,female,young,high,low,high,high,high,home,0_0,0_0,negative,astonished,statement-opinion,去偷啊
+35,35_041,35_041_004,胡一统,male,middle-aged,high,high,low,low,low,home,272_11,454_226,negative,astonished,question,这么热闹
+30,30_117,30_117_018,胡一菲,female,young,low,high,low,low,high,home,0_0,0_0,negative,astonished,question,你又要干嘛
+36,36_009,36_009_012,刘梅,female,middle-aged,high,high,low,high,high,home,263_44,469_268,negative,astonished,question,我什么做的
+28,28_277,28_277_010,胡一菲,female,young,low,high,low,low,high,home,266_40,388_197,negative,astonished,statement-non-opinion,张伟
+28,28_027,28_027_000,吕子乔,male,young,low,high,high,high,low,home,0_0,0_0,negative,astonished,question,这有什么稀奇的
+28,28_004,28_004_000,关谷神奇,male,young,high,low,high,high,high,home,407_118,480_219,negative,astonished,question,真的吗
+29,29_436,29_436_000,唐悠悠,female,young,high,high,high,high,high,home,182_39,398_286,negative,astonished,question,收费
+27,27_359,27_359_024,胡一菲,female,young,low,high,low,low,high,other-venue,257_40,417_268,negative,astonished,question,你是说光着脚可以同时在腿上和头上套300个呼啦圈的梅花姐姐
+29,29_324,29_324_005,曾小贤,male,young,high,high,low,high,low,car,459_124,597_269,negative,astonished,statement-non-opinion,你别开玩笑
+36,36_098,36_098_002,夏东海,male,middle-aged,low,high,high,high,high,home,489_95,536_150,negative,astonished,statement-opinion,不可能
+30,30_018,30_018_002,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,0_0,0_0,negative,astonished,question,你这是干嘛
+28,28_224,28_224_001,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,entertainment-venue,241_39,403_257,negative,astonished,statement-opinion,没想到你是这么轻浮草率的一个人
+34,34_000,34_000_004,邓小可,female,young,low,high,high,high,high,restaurant,0_0,0_0,negative,astonished,question,谁这么说我呀
+31,31_143,31_143_000,胡一菲,female,young,low,high,low,low,high,other-venue,290_76,376_200,negative,astonished,question,回老家？
+29,29_339,29_339_002,关谷神奇,male,young,high,low,high,high,high,home,408_108,556_290,negative,astonished,question,汇丰也有信用卡了
+31,31_149,31_149_003,吕子乔,male,young,low,high,high,high,low,sports-venue,265_63,331_160,negative,astonished,question,我还是个家暴男
+34,34_218,34_218_008,沈画,female,young,high,high,low,high,high,restaurant,0_0,0_0,negative,astonished,question,为什么呀
+30,30_073,30_073_015,胡一菲,female,young,low,high,low,low,high,other-venue,224_32,391_258,negative,astonished,statement-opinion,太邪门了
+29,29_002,29_002_000,曾小贤,male,young,high,high,low,high,low,other-venue,0_0,0_0,negative,astonished,question,在这儿
+27,27_070,27_070_007,关谷神奇,male,young,high,low,high,high,high,home,244_29,463_342,negative,astonished,acknowledge,哦 南极下了冻雨
+37,37_130,37_130_003,刘梅,female,middle-aged,high,high,low,high,high,outdoor,475_52,668_292,negative,astonished,question,我有什么值得你同情的呀
+31,31_071,31_071_006,吕子乔,male,young,low,high,high,high,low,home,0_0,0_0,negative,astonished,question,大娃
+31,31_109,31_109_007,陈美嘉,female,young,high,high,low,high,low,home,0_0,0_0,negative,astonished,statement-non-opinion,动了
+27,27_129,27_129_010,丽萨,female,young,low,low,low,low,high,home,393_63,590_299,negative,astonished,question,粉红玛丽
+27,27_111,27_111_007,陈美嘉,female,young,high,high,low,high,low,home,190_45,412_302,negative,astonished,question,你哪来这么多标签
+28,28_173,28_173_003,唐悠悠,female,young,high,high,high,high,high,home,281_22,477_306,negative,astonished,question,你卖谁了
+31,31_023,31_023_009,吕子乔,male,young,low,high,high,high,low,home,0_0,0_0,negative,astonished,statement-non-opinion,才20岁
+28,28_078,28_078_001,张伟,male,young,low,low,low,high,high,home,0_0,0_0,negative,astonished,question,哪儿有啊 我只是注意到你一个星期没有洗衣服
+29,29_247,29_247_000,胡一菲,female,young,low,high,low,low,high,car,0_0,0_0,negative,astonished,statement-non-opinion,那你还这么肯定
+29,29_297,29_297_000,陆展博,male,young,high,low,high,high,high,home,132_19,267_158,negative,astonished,question,怎么办
+34,34_113,34_113_006,郑海潮,male,young,low,high,high,high,high,restaurant,0_0,0_0,negative,astonished,statement-opinion,你这快得有点夸张
+27,27_163,27_163_000,胡一菲,female,young,low,high,low,low,high,home,0_0,0_0,negative,astonished,statement-opinion,这怎么可能
+27,27_439,27_439_000,曾小贤,male,young,high,high,low,high,low,restaurant,303_38,550_329,negative,astonished,question,你还有男朋友
+29,29_222,29_222_002,陆展博,male,young,high,low,high,high,high,home,295_39,494_219,negative,astonished,question,去哪儿
+37,37_039,37_039_002,刘梅,female,middle-aged,high,high,low,high,high,home,0_0,0_0,negative,astonished,question,咱家钢琴呢
+28,28_212,28_212_007,唐悠悠,female,young,high,high,high,high,high,home,441_59,558_207,negative,astonished,statement-non-opinion,据说还演过肥皂剧
+27,27_223,27_223_000,关谷神奇,male,young,high,low,high,high,high,home,416_15,638_279,negative,astonished,question,是吗
+31,31_118,31_118_002,陈美嘉,female,young,high,high,low,high,low,home,427_115,486_185,negative,astonished,question,你怎么回来了
+28,28_268,28_268_017,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,248_64,369_226,negative,astonished,statement-non-opinion,我没想到读心术居然有教育意义
+35,35_170,35_170_001,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,380_40,478_146,negative,astonished,question,你这孩子 怎么吓我一跳
+30,30_273,30_273_004,张伟,male,young,low,low,low,high,high,home,0_0,0_0,negative,astonished,question,女性
+34,34_297,34_297_000,邓小可母亲,female,elderly,high,high,low,high,high,home,422_53,583_241,negative,astonished,question,不 不带
+27,27_377,27_377_001,林宛瑜,female,young,low,high,high,high,high,office,120_79,338_297,negative,astonished,question,律师 擅长离婚纠纷
+34,34_344,34_344_005,邓小可母亲,female,elderly,high,high,low,high,high,outdoor,400_82,536_256,negative,astonished,question,国外也有这婆媳关系
+37,37_096,37_096_000,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,outdoor,103_5,280_203,negative,depress,answer,我特烦
+29,29_272,29_272_000,林宛瑜,female,young,low,high,high,high,high,home,144_53,348_285,negative,depress,answer,我也不知道
+37,37_129,37_129_002,刘梅,female,middle-aged,high,high,low,high,high,outdoor,294_52,477_297,negative,depress,statement-non-opinion,哪个角度看他也是一健康的孩子
+27,27_176,27_176_004,吕子乔,male,young,low,high,high,high,low,restaurant,195_49,382_327,negative,depress,statement-non-opinion,我是一个很传统的人
+27,27_263,27_263_012,曾小贤,male,young,high,high,low,high,low,home,202_36,485_307,negative,depress,statement-opinion,我巴不得替你
+29,29_204,29_204_005,胡一菲,female,young,low,high,low,low,high,home,268_24,397_160,negative,depress,statement-non-opinion,妈我都在这好几年了
+29,29_245,29_245_003,胡一菲,female,young,low,high,low,low,high,car,0_0,0_0,negative,depress,statement-non-opinion,star
+28,28_053,28_053_003,唐悠悠,female,young,high,high,high,high,high,home,200_23,344_197,negative,depress,statement-non-opinion,还吃了过期的巧克力
+30,30_114,30_114_009,陆展博,male,young,high,low,high,high,high,home,478_80,552_190,negative,depress,question,帮我个忙行吗
+28,28_275,28_275_001,曾小贤,male,young,high,high,low,high,low,office,311_47,473_249,negative,depress,question,什么奇迹
+30,30_064,30_064_014,胡一菲,female,young,low,high,low,low,high,other-venue,366_18,579_263,negative,depress,statement-opinion,我是说生活就应该豁达一点嘛
+28,28_194,28_194_007,秦羽墨,female,young,high,high,high,high,high,home,0_0,0_0,negative,depress,statement-opinion,你带我去哪
+35,35_184,35_184_000,胡一统,male,middle-aged,high,high,low,low,low,home,282_38,412_198,negative,depress,statement-opinion,我还想问你
+36,36_011,36_011_007,刘星,male,teenager,high,high,high,high,low,home,315_41,466_240,negative,depress,statement-opinion,我正有一肚子委屈没地儿倾诉
+37,37_091,37_091_003,刘星,male,teenager,high,high,high,high,low,home,0_0,0_0,negative,depress,answer,看书呢 学习 
+29,29_378,29_378_001,胡一菲,female,young,low,high,low,low,high,outdoor,442_67,567_163,negative,depress,statement-non-opinion,废话
+31,31_047,31_047_004,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,other-venue,220_121,283_194,negative,depress,statement-opinion,现在这个市场 行不通
+35,35_202,35_202_003,刘星,male,teenager,high,high,high,high,low,home,272_42,456_246,negative,depress,acknowledge,行
+29,29_092,29_092_003,曾小贤,male,young,high,high,low,high,low,home,250_37,352_165,negative,depress,statement-non-opinion,皇上不急
+36,36_165,36_165_002,夏东海,male,middle-aged,low,high,high,high,high,home,278_33,439_226,negative,depress,statement-opinion,我现在整个一生活在刘梅的白色恐怖之下
+30,30_002,30_002_003,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,outdoor,253_52,413_252,negative,depress,statement-non-opinion,你还没付钱
+35,35_203,35_203_008,刘星,male,teenager,high,high,high,high,low,home,0_0,0_0,negative,depress,answer,不是不识货吗
+27,27_224,27_224_006,曾小贤,male,young,high,high,low,high,low,office,200_33,376_197,negative,depress,statement-opinion,也不能所有的电话都不接进来
+37,37_072,37_072_014,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,265_45,409_270,negative,depress,statement-opinion,可在没找着之前
+28,28_239,28_239_000,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,entertainment-venue,408_3,613_153,negative,depress,question,你们不是好姐妹吗
+27,27_537,27_537_008,陈美嘉,female,young,high,high,low,high,low,home,250_31,448_233,negative,depress,statement-non-opinion,就你，光天化日之下
+30,30_122,30_122_005,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,other-venue,448_26,574_174,negative,depress,statement-opinion,我不是让你脱衣服
+28,28_195,28_195_000,唐悠悠,female,young,high,high,high,high,high,home,0_0,0_0,negative,depress,statement-opinion,去超市买冰淇淋
+27,27_310,27_310_007,吕子乔,male,young,low,high,high,high,low,home,168_32,349_239,negative,depress,question,上次不是演戏吗
+37,37_170,37_170_000,刘星,male,teenager,high,high,high,high,low,home,208_113,358_284,negative,depress,statement-non-opinion,这可是JJ啊
+27,27_250,27_250_000,陆展博,female,young,high,low,high,high,high,home,255_49,457_271,negative,depress,statement-non-opinion,我一不缺锌
+28,28_238,28_238_002,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,entertainment-venue,343_26,492_237,negative,depress,statement-non-opinion,好了我还是送你回家
+30,30_190,30_190_000,胡一菲,female,young,low,high,low,low,high,outdoor,0_0,0_0,negative,depress,question,找他
+34,34_301,34_301_003,邓小可,female,young,low,high,high,high,high,home,458_82,519_154,negative,depress,statement-non-opinion,妈 我不喝汤
+37,37_059,37_059_002,夏雨,male,teenager,high,low,high,high,low,home,306_38,447_237,negative,depress,statement-opinion,所以就成不了了
+27,27_342,27_342_010,吕子乔,male,young,low,high,high,high,low,home,281_22,568_340,negative,depress,statement-non-opinion,虐待我
+28,28_022,28_022_002,唐悠悠,female,young,high,high,high,high,high,home,500_58,663_280,negative,depress,agreement,太同意了
+27,27_381,27_381_003,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,office,153_73,409_263,negative,depress,question,Ok
+36,36_118,36_118_007,刘梅,female,middle-aged,high,high,low,high,high,home,213_47,322_207,negative,depress,statement-opinion,多不好
+35,35_029,35_029_008,夏东海,male,middle-aged,low,high,high,high,high,home,401_45,548_231,negative,depress,statement-opinion,我现在就去找他谈
+35,35_083,35_083_005,刘星,male,teenager,high,high,high,high,low,home,224_44,426_298,negative,depress,statement-opinion,可是现在让他打我还真难
+29,29_093,29_093_011,曾小贤,male,young,high,high,low,high,low,home,230_26,452_319,negative,depress,statement-non-opinion,你根本就没玩过愤怒的小鸟
+28,28_154,28_154_004,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,0_0,0_0,negative,depress,statement-opinion,你知道我跟云云谈了都有5年多了
+27,27_226,27_226_002,曾小贤,male,young,high,high,low,high,low,office,318_38,547_310,negative,depress,statement-opinion,这就属于严重的反人类
+35,35_180,35_180_009,刘梅,female,middle-aged,high,high,low,high,high,home,314_38,514_241,negative,depress,statement-non-opinion,反正我们领导说让我先在家歇几天
+30,30_115,30_115_022,陆展博,male,young,high,low,high,high,high,home,437_40,571_208,negative,depress,statement-opinion,我想 也该轮到我了
+29,29_437,29_437_004,唐悠悠,female,young,high,high,high,high,high,home,156_29,297_191,negative,depress,conventional-closing,医生你好
+29,29_370,29_370_002,吕子乔,male,young,low,high,high,high,low,outdoor,368_192,401_231,negative,depress,statement-non-opinion,这是我借来的
+35,35_004,35_004_004,夏雨,male,teenager,high,low,high,high,low,home,360_21,546_238,negative,depress,question,为什么蚊子只咬我不咬刘星
+37,37_217,37_217_006,刘星,male,teenager,high,high,high,high,low,home,302_44,508_296,negative,depress,statement-non-opinion,而且还把我这么纯洁这么善良的心给想歪了
+28,28_019,28_019_006,吕子乔,male,young,low,high,high,high,low,home,433_17,625_247,negative,depress,acknowledge,知道了
+29,29_078,29_078_002,关谷神奇,male,young,high,low,high,high,high,home,415_72,656_324,negative,depress,statement-non-opinion,他是个人
+37,37_117,37_117_001,夏雨,male,teenager,high,low,high,high,low,home,322_53,492_235,negative,depress,statement-non-opinion,拿来吧
+30,30_051,30_051_001,曾小贤,male,young,high,high,low,high,low,other-venue,336_43,397_115,negative,depress,question,可拖着我干嘛
+27,27_534,27_534_005,陈美嘉,female,young,high,high,low,high,low,home,0_0,0_0,negative,depress,statement-opinion,那是他们
+27,27_460,27_460_005,曾小贤,male,young,high,high,low,high,low,home,472_22,682_257,negative,depress,statement-opinion,我承认我心眼不大
+30,30_115,30_115_004,胡一菲,female,young,low,high,low,low,high,home,306_75,406_216,negative,depress,statement-non-opinion,自从宛瑜离开以后
+34,34_243,34_243_002,邓小可,female,young,low,high,high,high,high,outdoor,127_162,225_280,negative,depress,answer,不知道随便吗
+27,27_419,27_419_007,陈美嘉,female,young,high,high,low,high,low,home,505_112,642_251,negative,depress,other,关谷君
+30,30_180,30_180_002,关谷神奇,male,young,high,low,high,high,high,home,405_65,531_244,negative,depress,statement-opinion,我邀请了他们也不一定会来
+29,29_344,29_344_011,关谷神奇,male,young,high,low,high,high,high,home,440_26,581_189,negative,depress,statement-non-opinion,而且如果不是我发现你竟然还不告诉我
+28,28_038,28_038_005,曾小贤,male,young,high,high,low,high,low,entertainment-venue,430_42,554_187,negative,depress,statement-opinion,我运气也很好
+31,31_015,31_015_000,张伟,male,young,low,low,low,high,high,home,552_155,614_219,negative,depress,other,咖喱酱
+28,28_183,28_183_010,张伟,male,young,low,low,low,high,high,outdoor,229_32,319_139,negative,depress,statement-opinion,我真不是什么名流
+36,36_138,36_138_001,刘梅,female,middle-aged,high,high,low,high,high,home,335_61,525_292,negative,depress,statement-opinion,你也得给我这机会
+30,30_022,30_022_004,唐悠悠,female,young,high,high,high,high,high,home,324_42,429_176,negative,depress,statement-non-opinion,都快成强迫症了
+36,36_186,36_186_008,夏东海,male,middle-aged,low,high,high,high,high,home,379_52,525_187,negative,depress,statement-opinion,你也得把人思想工作做通了
+30,30_171,30_171_001,吕子乔,male,young,low,high,high,high,low,home,437_37,517_137,negative,depress,statement-opinion,别烦我
+35,35_220,35_220_000,夏东海,male,middle-aged,low,high,high,high,high,home,327_15,495_194,negative,depress,question,你说你也真是 我就不明白你怎么稀里糊涂就给答应了呢
+29,29_050,29_050_005,陈美嘉,female,young,high,high,low,high,low,home,537_167,679_328,negative,depress,statement-non-opinion,可他不会像艾派德一样
+27,27_441,27_441_003,曾小贤,male,young,high,high,low,high,low,restaurant,476_78,618_223,negative,depress,statement-opinion,我只是有点头晕
+29,29_268,29_268_002,陆展博,male,young,high,low,high,high,high,home,380_91,462_206,negative,depress,statement-non-opinion,想不到还能替我们熟身
+28,28_189,28_189_017,秦羽墨,female,young,high,high,high,high,high,restaurant,379_64,531_283,negative,depress,statement-opinion,以前不是
+31,31_120,31_120_003,吕子乔,male,young,low,high,high,high,low,home,277_56,344_147,negative,depress,statement-non-opinion,上次买房那大老板看我服务态度好
+30,30_172,30_172_003,吕子乔,male,young,low,high,high,high,low,home,341_35,478_220,negative,depress,statement-non-opinion,他居然让我做他的蓝朋友
+27,27_463,27_463_004,曾小贤,male,young,high,high,low,high,low,home,339_14,563_232,negative,depress,statement-opinion,可是另一个自己对我说
+29,29_307,29_307_007,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,hospital,390_13,603_209,negative,disgust,question,你捂着左腿干嘛
+27,27_120,27_120_007,曾小贤,male,young,high,high,low,high,low,home,484_89,643_284,negative,disgust,command,全世界都该服你了 走开
+27,27_205,27_205_008,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,office,112_45,211_159,negative,disgust,question,有没有点新鲜的东西给我听
+29,29_108,29_108_005,吕子乔,male,young,low,high,high,high,low,home,0_0,0_0,negative,disgust,statement-non-opinion,一菲和曾老师好像是你关的吧
+30,30_242,30_242_007,陈美嘉,female,young,high,high,low,high,low,home,316_54,455_234,negative,disgust,irony,不是不务正业是什么
+31,31_043,31_043_001,吕子乔,male,young,low,high,high,high,low,outdoor,485_150,518_190,negative,disgust,statement-non-opinion,那你是没看到那些机械鼠 机械蛇 云养猫 黄老板都感兴趣
+29,29_409,29_409_001,陆展博,male,young,high,low,high,high,high,home,165_31,387_271,negative,disgust,statement-non-opinion,别逗了
+27,27_123,27_123_000,丽萨,female,young,low,low,low,low,high,home,0_0,0_0,negative,disgust,question,你刚才是不是吃过炭烤八爪鱼
+36,36_010,36_010_010,夏东海,male,middle-aged,low,high,high,high,high,home,0_0,0_0,negative,disgust,reject,我不吃了
+37,37_054,37_054_006,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,0_0,0_0,negative,disgust,statement-non-opinion,知道还问
+36,36_093,36_093_007,夏雪,female,teenager,high,low,high,low,high,home,328_28,472_238,negative,disgust,statement-opinion,我看您即使试验了100次
+27,27_119,27_119_011,曾小贤,male,young,high,high,low,high,low,home,518_180,689_378,negative,disgust,command,你赶紧放完走人
+37,37_210,37_210_004,刘梅,female,middle-aged,high,high,low,high,high,home,247_45,429_268,negative,disgust,question,就只改喝铁观音了
+37,37_010,37_010_011,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,139_87,320_321,negative,disgust,statement-non-opinion,没见过什么世面
+27,27_282,27_282_020,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,entertainment-venue,85_114,354_391,negative,disgust,statement-opinion,听起来有点贱
+27,27_120,27_120_003,曾小贤,male,young,high,high,low,high,low,home,406_22,590_264,negative,disgust,statement-opinion,发挥 你还是把你身上的味道挥发一下
+37,37_215,37_215_006,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,310_22,487_277,negative,disgust,statement-non-opinion,放纵自己
+27,27_164,27_164_000,曾小贤,male,young,high,high,low,high,low,home,0_0,0_0,negative,disgust,statement-opinion,这年头真是世风日下
+27,27_110,27_110_013,丽萨,female,young,low,low,low,low,high,office,165_42,416_302,negative,disgust,statement-non-opinion,你才是最后一个
+37,37_149,37_149_011,刘星,male,teenager,high,high,high,high,low,home,0_0,0_0,negative,disgust,statement-non-opinion,你想啊咱退一万步说
+27,27_018,27_018_002,曾小贤,male,young,high,high,low,high,low,home,315_17,488_197,negative,disgust,statement-non-opinion,新郎新娘又不是外国人
+37,37_013,37_013_008,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,outdoor,218_47,361_236,negative,disgust,question,你能不能提高一下你自己的品位和修养
+27,27_032,27_032_009,陈美嘉,female,young,high,high,low,high,low,home,345_37,557_241,negative,disgust,statement-non-opinion,那你就整天跑到人家婚礼上推销什么
+35,35_210,35_210_001,刘星,male,teenager,high,high,high,high,low,home,419_36,552_182,negative,disgust,statement-non-opinion,您这叫投机
+27,27_433,27_433_010,胡一菲,female,young,low,high,low,low,high,entertainment-venue,256_48,345_133,negative,disgust,statement-opinion,你不要恶心我
+30,30_184,30_184_002,曾小贤,male,young,high,high,low,high,low,home,404_25,587_267,negative,disgust,question,你什么口味
+27,27_104,27_104_011,陈美嘉,female,young,high,high,low,high,low,home,481_80,630_234,negative,disgust,statement-opinion,你还真是损人不利己
+36,36_035,36_035_001,夏雪,female,teenager,high,low,high,low,high,home,344_32,500_244,negative,disgust,statement-opinion,我没工夫跟你打哑谜出去玩
+37,37_179,37_179_007,夏雪,female,teenager,high,low,high,low,high,home,294_57,453_268,negative,disgust,question,就得过一次
+27,27_071,27_071_003,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,230_66,422_251,negative,disgust,statement-non-opinion,说自己有亲戚住在纳尼亚
+27,27_430,27_430_003,林宛瑜,female,young,low,high,high,high,high,entertainment-venue,416_32,684_343,negative,disgust,statement-non-opinion,我不喜欢英文不好的男孩子
+29,29_062,29_062_003,吕子乔,male,young,low,high,high,high,low,other-venue,0_0,0_0,negative,disgust,question,你不是还说画展上都是忽悠的作品
+27,27_210,27_210_000,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,office,18_67,247_312,negative,disgust,statement-opinion,我不要你的身
+36,36_183,36_183_005,刘梅,female,middle-aged,high,high,low,high,high,home,282_33,482_264,negative,disgust,statement-opinion,以为那就是文艺细胞
+27,27_196,27_196_002,陈美嘉,female,young,high,high,low,high,low,home,253_55,432_306,negative,disgust,statement-opinion,你还在火车站卖
+27,27_109,27_109_009,丽萨,female,young,low,low,low,low,high,office,215_49,391_254,negative,disgust,statement-non-opinion,我只是制片人
+29,29_045,29_045_008,胡一菲,female,young,low,high,low,low,high,home,426_57,640_282,negative,disgust,statement-non-opinion,这是恶俗的三角恋
+29,29_100,29_100_004,陈美嘉,female,young,high,high,low,high,low,home,432_57,544_189,negative,disgust,statement-non-opinion,骗你的
+27,27_037,27_037_005,吕子乔,male,young,low,high,high,high,low,home,0_0,0_0,negative,disgust,disagreement,少来 经济问题就是原则问题
+27,27_374,27_374_000,陈美嘉,female,young,high,high,low,high,low,home,0_0,0_0,negative,disgust,question,你还有没有人性
+34,34_057,34_057_003,魏山山,female,young,low,low,high,high,high,outdoor,0_0,0_0,negative,disgust,statement-non-opinion,差点被你撞倒的缘分
+29,29_193,29_193_009,曾小贤,male,young,high,high,low,high,low,home,522_31,706_207,negative,disgust,statement-non-opinion,吕子乔 所有的母亲都不会想听你那些破事儿
+29,29_209,29_209_010,苑春丽,female,middle-aged,high,high,low,high,high,home,367_8,555_221,negative,disgust,statement-non-opinion,我说怎么取这个名字呢
+27,27_120,27_120_009,曾小贤,male,young,high,high,low,high,low,home,0_0,0_0,negative,disgust,statement-non-opinion,拜托你赶紧回自己屋
+27,27_425,27_425_009,胡一菲,female,young,low,high,low,low,high,home,214_44,521_405,negative,disgust,statement-opinion,你也没问 看见人家 就口水都流成河了
+27,27_032,27_032_013,吕子乔,male,young,low,high,high,high,low,home,198_30,420_255,negative,disgust,statement-opinion,要不是当年你对我的拖累
+27,27_282,27_282_014,胡一菲,female,young,low,high,low,low,high,entertainment-venue,418_44,489_191,negative,disgust,statement-opinion,拿根双节棍一边玩去
+30,30_012,30_012_002,曾小贤,male,young,high,high,low,high,low,entertainment-venue,0_0,0_0,negative,disgust,question,怎么啦 卖跌打酒卖到酒吧来了
+27,27_120,27_120_006,曾小贤,male,young,high,high,low,high,low,home,453_32,645_250,negative,disgust,question,你怎么可以臭到这个程度
+29,29_105,29_105_002,胡一菲,female,young,low,high,low,low,high,home,353_25,543_242,negative,disgust,statement-non-opinion,你别唱了还是说吧
+36,36_154,36_154_000,刘梅,female,middle-aged,high,high,low,high,high,home,0_0,0_0,negative,disgust,question,夏东海别唱了行不行
+27,27_018,27_018_008,胡一菲,female,young,low,high,low,low,high,home,98_61,290_278,negative,disgust,question,你这是结婚还是上坟对吧
+27,27_541,27_541_008,吕子乔,male,young,low,high,high,high,low,home,418_57,585_233,negative,disgust,irony,你不是孬种
+29,29_136,29_136_005,吕子乔,male,young,low,high,high,high,low,outdoor,428_140,462_168,negative,disgust,statement-non-opinion,说了多少遍
+27,27_000,27_000_005,林宛瑜,female,young,low,high,high,high,high,car,431_50,604_223,negative,disgust,statement-non-opinion,借你这儿躲一下
+27,27_026,27_026_002,吕子乔,male,young,low,high,high,high,low,outdoor,190_21,297_147,negative,disgust,statement-non-opinion,这好像应该是我的台词
+37,37_088,37_088_010,刘星,male,teenager,high,high,high,high,low,home,277_34,450_242,negative,disgust,quotation,人也有失足的时候
+29,29_333,29_333_005,关谷神奇,male,young,high,low,high,high,high,home,237_158,327_248,negative,disgust,statement-non-opinion,他们做的都是盗版
+27,27_074,27_074_006,胡一菲,female,young,low,high,low,low,high,home,184_47,399_291,negative,disgust,statement-opinion,总比听那些只会说风凉话的广播节目主持人要强吧
+27,27_541,27_541_009,吕子乔,male,young,low,high,high,high,low,home,436_55,609_210,negative,disgust,question,那你怕什么
+28,28_021,28_021_001,唐悠悠,female,young,high,high,high,high,high,home,0_0,0_0,negative,disgust,statement-opinion,太拗口了
+27,27_162,27_162_002,胡一菲,female,young,low,high,low,low,high,home,284_41,492_304,negative,disgust,statement-opinion,千万别说你是我弟弟
+29,29_328,29_328_004,关谷神奇,male,young,high,low,high,high,high,car,192_109,296_203,negative,disgust,statement-non-opinion,你反应太慢了
+36,36_093,36_093_008,夏雪,female,teenager,high,low,high,low,high,home,290_40,460_245,negative,disgust,statement-opinion,苹果也照样飞不起来
+35,35_148,35_148_006,刘星,male,teenager,high,high,high,high,low,home,184_35,280_131,negative,disgust,statement-non-opinion,整个一绿毛怪
+36,36_022,36_022_008,刘星,male,teenager,high,high,high,high,low,home,284_28,502_283,negative,disgust,statement-opinion,还不让我妈一票给否决了
+27,27_030,27_030_003,陈美嘉,female,young,high,high,low,high,low,outdoor,477_105,683_289,negative,disgust,question,你这件大褂也是坑来的吧
+30,30_010,30_010_000,唐悠悠,female,young,high,high,high,high,high,home,228_53,351_199,negative,disgust,question,你要死啊
+28,28_217,28_217_004,秦羽墨,female,young,high,high,high,high,high,home,0_0,0_0,negative,disgust,question,恐怕不是我吧
+27,27_418,27_418_008,陈美嘉,female,young,high,high,low,high,low,home,0_0,0_0,negative,disgust,statement-opinion,什么蝗虫蜈蚣的 还蚂蚱呢 你以后就不要跟电视上再学了
+27,27_042,27_042_005,胡一菲,female,young,low,high,low,low,high,home,497_26,722_300,negative,disgust,statement-opinion,我最讨厌口是心非的男人了
+36,36_087,36_087_011,刘星,male,teenager,high,high,high,high,low,home,430_26,614_215,negative,disgust,statement-opinion,人家顶多到你这还比你瘦
+36,36_173,36_173_010,刘梅,female,middle-aged,high,high,low,high,high,home,414_45,602_228,negative,disgust,statement-opinion,你瞧他那肚子也快发起来了
+37,37_217,37_217_000,刘星,male,teenager,high,high,high,high,low,home,0_0,0_0,negative,disgust,other,诶呀 姥姥
+29,29_383,29_383_006,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,office,119_92,307_296,negative,disgust,statement-non-opinion,大哥你用十二指肠想想好不好
+28,28_284,28_284_001,关谷神奇,male,young,high,low,high,high,high,other-venue,150_23,355_287,negative,disgust,statement-opinion,什么乱七八糟的
+37,37_022,37_022_015,刘星,male,teenager,high,high,high,high,low,home,409_37,474_127,negative,fear,question,这好什么
+29,29_139,29_139_005,陈美嘉,female,young,high,high,low,high,low,school,0_0,0_0,negative,fear,question,不会有错的
+29,29_381,29_381_012,关谷神奇,male,young,high,low,high,high,high,outdoor,414_25,636_232,negative,fear,reject,我那都不去
+36,36_156,36_156_004,夏东海,male,middle-aged,low,high,high,high,high,home,203_53,306_188,negative,fear,statement-opinion,真没事 没什么
+30,30_023,30_023_003,陈美嘉,female,young,high,high,low,high,low,home,372_31,516_226,negative,fear,statement-non-opinion,比如说蝙蝠侠里的小丑
+29,29_161,29_161_002,胡一菲,female,young,low,high,low,low,high,home,333_133,418_233,negative,fear,statement-non-opinion,我帮你拿 只有这个
+37,37_034,37_034_002,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,286_96,366_198,negative,fear,reject,我把地扫了
+28,28_051,28_051_006,张伟,male,young,low,low,low,high,high,home,163_18,390_291,negative,fear,statement-opinion,我只能采用一些必要的行动
+35,35_057,35_057_005,夏东海,male,middle-aged,low,high,high,high,high,home,0_0,0_0,negative,fear,question,什么事我怎么了
+37,37_034,37_034_022,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,239_35,415_238,negative,fear,statement-opinion,我从我那退休金里头我拿2万块钱给你
+29,29_151,29_151_002,陈美嘉,female,young,high,high,low,high,low,home,473_39,612_195,negative,fear,other,一菲姐
+29,29_314,29_314_001,曾小贤,male,young,high,high,low,high,low,home,0_0,0_0,negative,fear,other,美嘉
+30,30_127,30_127_004,吕子乔,male,young,low,high,high,high,low,entertainment-venue,172_42,343_274,negative,fear,statement-non-opinion,刚和卡塔尔谈了一个石油钻井项目
+28,28_185,28_185_011,张伟,male,young,low,low,low,high,high,entertainment-venue,230_39,361_238,negative,fear,apology,对不起
+27,27_313,27_313_003,胡一菲,female,young,low,high,low,low,high,home,302_144,484_340,negative,fear,statement-opinion,并不是一点收获都没有的嘛
+30,30_015,30_015_004,陈美嘉,female,young,high,high,low,high,low,home,370_52,540_273,negative,fear,question,没人看见你吧
+28,28_160,28_160_005,曾小贤,male,young,high,high,low,high,low,home,0_0,0_0,negative,fear,answer,当然不是
+30,30_023,30_023_009,陈美嘉,female,young,high,high,low,high,low,home,412_40,558_210,negative,fear,statement-non-opinion,验
+30,30_047,30_047_002,陈美嘉,female,young,high,high,low,high,low,hospital,98_105,234_287,negative,fear,question,搞不好一尸两命怎么办
+28,28_077,28_077_022,曾小贤,male,young,high,high,low,high,low,office,476_30,640_248,negative,fear,question,什么节目
+27,27_408,27_408_000,吕子乔,male,young,low,high,high,high,low,home,241_37,378_218,negative,fear,statement-non-opinion,我忘了
+30,30_087,30_087_000,胡一菲,female,young,low,high,low,low,high,home,425_11,612_248,negative,fear,statement-opinion,我多出20%
+30,30_089,30_089_005,胡一菲,female,young,low,high,low,low,high,home,0_0,0_0,negative,fear,question,关我什么事啊
+29,29_106,29_106_002,曾小贤,male,young,high,high,low,high,low,home,8_31,130_148,negative,fear,statement-non-opinion,蟑螂 是蟑螂
+27,27_396,27_396_010,曾小贤,male,young,high,high,low,high,low,office,215_25,433_315,negative,fear,statement-opinion,我怎么敢提要求
+30,30_247,30_247_006,唐悠悠,female,young,high,high,high,high,high,home,254_21,348_146,negative,fear,question,不然不然你就把我轰出教室
+27,27_100,27_100_015,陆展博,female,young,high,low,high,high,high,home,0_0,0_0,negative,fear,statement-non-opinion,这个会伤人的
+27,27_206,27_206_003,吕子乔,male,young,low,high,high,high,low,office,338_50,585_345,negative,fear,irony,我真的很兴奋
+30,30_171,30_171_004,吕子乔,male,young,low,high,high,high,low,home,385_32,544_226,negative,fear,statement-opinion,有些伤是由内而外的
+27,27_396,27_396_011,曾小贤,male,young,high,high,low,high,low,office,205_19,443_287,negative,fear,statement-opinion,一切听从领导安排
+36,36_041,36_041_002,刘星,male,teenager,high,high,high,high,low,home,0_0,0_0,negative,fear,statement-opinion,明明儿我上地摊给你买一个不就得了吗
+29,29_162,29_162_001,胡一菲,female,young,low,high,low,low,high,home,211_121,329_263,negative,fear,command,等一下
+29,29_263,29_263_003,陈美嘉,female,young,high,high,low,high,low,car,297_38,567_324,negative,fear,statement-non-opinion,可这一个人都没有
+37,37_022,37_022_022,刘梅,female,middle-aged,high,high,low,high,high,home,0_0,0_0,negative,fear,other,哎呦 大老虎把我给吃了吧
+36,36_120,36_120_001,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,272_57,449_240,negative,fear,question,他能忘得了我吗
+28,28_248,28_248_000,唐悠悠,female,young,high,high,high,high,high,home,408_26,585_246,negative,fear,statement-opinion,他们指的是子乔
+29,29_089,29_089_002,曾小贤,male,young,high,high,low,high,low,entertainment-venue,337_31,542_295,negative,fear,statement-non-opinion,我是觉得他实在缺乏市场敏感度
+27,27_413,27_413_006,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,entertainment-venue,330_54,584_337,negative,fear,statement-non-opinion,我以前的女朋友35岁
+28,28_257,28_257_007,张伟,male,young,low,low,low,high,high,home,0_0,0_0,negative,fear,statement-non-opinion,我们是同行
+35,35_183,35_183_000,刘梅,female,middle-aged,high,high,low,high,high,home,439_48,546_174,negative,fear,question,谁呀 找谁
+30,30_265,30_265_006,关谷神奇,male,young,high,low,high,high,high,home,242_17,390_212,negative,fear,statement-non-opinion,没想到他们记到现在
+30,30_224,30_224_013,陈美嘉,female,young,high,high,low,high,low,home,310_50,522_303,negative,fear,question,包大人是你在梦里吧 这哪有陪审团
+36,36_128,36_128_000,刘星,male,teenager,high,high,high,high,low,home,0_0,0_0,negative,fear,statement-opinion,他爸他妈呀最近出差了
+27,27_409,27_409_000,吕子乔,male,young,low,high,high,high,low,home,0_0,0_0,negative,fear,irony,怎么可能
+30,30_163,30_163_007,吕子乔,male,young,low,high,high,high,low,entertainment-venue,394_33,594_291,negative,fear,question,知不知道这个世上还有多少人没有水喝
+30,30_203,30_203_008,陈美嘉,female,young,high,high,low,high,low,home,170_119,311_321,negative,fear,statement-opinion,好像觉得有人在看我们
+29,29_071,29_071_013,陈美嘉,female,young,high,high,low,high,low,restaurant,164_35,469_332,negative,fear,statement-non-opinion,你千万不能告诉大家我求求你了好吗
+34,34_027,34_027_011,邓小可,female,young,low,high,high,high,high,home,242_66,359_211,negative,fear,statement-non-opinion,妈妈妈 我错了 我错了还不行吗
+30,30_162,30_162_003,吕子乔,male,young,low,high,high,high,low,entertainment-venue,344_30,541_296,negative,fear,statement-opinion,乖乖待着叔叔一会儿还有奖励
+28,28_057,28_057_010,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,office,400_30,594_253,negative,fear,statement-opinion,音乐优美
+37,37_048,37_048_002,刘星,male,teenager,high,high,high,high,low,home,0_0,0_0,negative,fear,statement-non-opinion,写作业
+35,35_070,35_070_001,刘梅,female,middle-aged,high,high,low,high,high,home,373_86,590_252,negative,fear,command,你去去 换边 换边 你上那边去
+35,35_068,35_068_003,刘梅,female,middle-aged,high,high,low,high,high,home,314_31,468_203,negative,fear,statement-opinion,特别像耗子
+27,27_486,27_486_004,曾小贤,male,young,high,high,low,high,low,home,317_18,571_310,negative,fear,statement-opinion,不用这么严肃吧
+34,34_112,34_112_003,邓小可母亲,female,elderly,high,high,low,high,high,restaurant,0_0,0_0,negative,fear,question,我哪能要你东西
+29,29_263,29_263_002,陈美嘉,female,young,high,high,low,high,low,car,308_40,505_259,negative,fear,statement-non-opinion,我好害怕
+30,30_064,30_064_001,曾小贤,male,young,high,high,low,high,low,other-venue,263_48,455_284,negative,fear,quotation,刀子嘴豆腐心
+29,29_128,29_128_003,陈美嘉,female,young,high,high,low,high,low,school,270_32,430_226,negative,fear,statement-non-opinion,是啊 等等
+28,28_272,28_272_003,张伟,male,young,low,low,low,high,high,home,0_0,0_0,negative,fear,statement-opinion,所以你是不是也应该
+28,28_034,28_034_005,曾小贤,male,young,high,high,low,high,low,office,459_20,583_173,negative,fear,statement-opinion,而且我真的保证以后这种低级的错误不会再发生了
+29,29_102,29_102_000,曾小贤,male,young,high,high,low,high,low,home,360_61,491_205,negative,fear,other,一菲
+27,27_426,27_426_011,吕子乔,male,young,low,high,high,high,low,home,431_14,621_228,negative,fear,apology,对不起一菲
+35,35_074,35_074_013,刘梅,female,middle-aged,high,high,low,high,high,home,366_42,520_215,negative,fear,statement-opinion,你快放下
+27,27_310,27_310_001,吕子乔,male,young,low,high,high,high,low,home,284_32,437_200,negative,fear,statement-opinion,我以后不自私了
+30,30_070,30_070_016,胡一菲,female,young,low,high,low,low,high,home,282_49,434_221,negative,fear,irony,二手房58同城多的是住哪不一样
+28,28_148,28_148_011,曾小贤,male,young,high,high,low,high,low,home,519_21,616_150,negative,fear,statement-non-opinion,我什么都没听见
+31,31_160,31_160_000,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,553_54,616_130,negative,fear,question,你能不能帮我签个字
+30,30_212,30_212_007,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,201_25,416_302,negative,fear,statement-opinion,她还真特别
+28,28_186,28_186_009,张伟,male,young,low,low,low,high,high,entertainment-venue,250_50,406_239,negative,fear,statement-non-opinion,其实都是群众演员
+29,29_329,29_329_004,曾小贤,male,young,high,high,low,high,low,car,418_10,586_192,negative,fear,answer,猫不见了
+36,36_125,36_125_000,刘星,male,teenager,high,high,high,high,low,home,0_0,0_0,negative,fear,statement-non-opinion,献爱心
+29,29_126,29_126_000,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,entertainment-venue,361_74,540_293,negative,fear,question,那怎么办
+28,28_164,28_164_004,曾小贤,male,young,high,high,low,high,low,home,165_29,343_276,negative,fear,statement-opinion,没错
+30,30_079,30_079_003,胡一菲,female,young,low,high,low,low,high,home,468_74,605_223,negative,fear,statement-non-opinion,只可惜晚了一步
+30,30_118,30_118_004,吕子乔,male,young,low,high,high,high,low,entertainment-venue,0_0,0_0,negative,fear,statement-non-opinion,看飞碟
+28,28_057,28_057_008,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,office,403_56,575_280,negative,fear,statement-opinion,很好
+37,37_199,37_199_005,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,0_0,0_0,positive,grateful,agreement,是啊
+29,29_286,29_286_005,林宛瑜,female,young,low,high,high,high,high,mall,194_59,309_195,positive,grateful,thanking,谢谢你
+30,30_250,30_250_008,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,227_26,400_260,positive,grateful,statement-non-opinion,有一天我要让你看到一个全新的我
+30,30_048,30_048_010,陈美嘉,female,young,high,high,low,high,low,hospital,370_21,596_275,positive,grateful,statement-opinion,姐妹情深
+28,28_117,28_117_002,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,hospital,259_48,546_324,positive,grateful,question,是你救了我
+28,28_190,28_190_003,秦羽墨,female,young,high,high,high,high,high,restaurant,376_76,551_320,positive,grateful,thanking,谢谢你子乔
+37,37_224,37_224_002,刘星,male,teenager,high,high,high,high,low,home,319_64,493_349,positive,grateful,statement-opinion,我这就派人打探情报去
+37,37_199,37_199_000,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,328_7,511_219,positive,grateful,thanking,刘姐真是太感谢你了
+29,29_113,29_113_004,关谷神奇,male,young,high,low,high,high,high,home,280_45,428_240,positive,grateful,thanking,谢谢你
+27,27_105,27_105_010,关谷神奇,male,young,high,low,high,high,high,home,163_26,469_350,positive,grateful,thanking,谢谢你 美嘉
+27,27_486,27_486_000,曾小贤,male,young,high,high,low,high,low,home,331_43,575_313,positive,grateful,thanking,谢谢你救了我
+29,29_287,29_287_004,林宛瑜,female,young,low,high,high,high,high,mall,309_51,387_144,positive,grateful,thanking,谢谢你一直都那么支持我
+27,27_493,27_493_006,吕子乔,male,young,low,high,high,high,low,outdoor,409_22,606_225,positive,grateful,thanking,所以我要谢谢你
+29,29_148,29_148_004,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,school,462_22,669_230,positive,grateful,other,老师
+28,28_227,28_227_023,唐悠悠,female,young,high,high,high,high,high,outdoor,0_0,0_0,positive,grateful,question,怎么了
+30,30_250,30_250_007,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,223_34,406_271,positive,grateful,statement-non-opinion,我一直在想着
+27,27_138,27_138_005,关谷神奇,male,young,high,low,high,high,high,entertainment-venue,422_33,622_238,positive,grateful,thanking,真的谢谢你
+27,27_138,27_138_006,关谷神奇,male,young,high,low,high,high,high,entertainment-venue,494_2,712_121,positive,grateful,statement-opinion,我的成功离不开你的帮助
+37,37_199,37_199_001,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,304_65,473_285,positive,grateful,statement-opinion,要是没你的话
+27,27_357,27_357_012,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,other-venue,143_114,261_214,positive,grateful,thanking,谢谢你
+30,30_250,30_250_006,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,0_0,0_0,positive,grateful,statement-non-opinion,你的话给了我鼓舞和信心
+37,37_199,37_199_002,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,311_65,486_289,positive,grateful,statement-opinion,我真是不知道该怎么办了
+30,30_095,30_095_000,吕子乔,male,young,low,high,high,high,low,home,269_34,400_198,positive,grateful,thanking,谢谢你替我解围
+37,37_224,37_224_004,刘星,male,teenager,high,high,high,high,low,home,353_55,522_294,positive,grateful,statement-opinion,我立马给你买个篮球去
+30,30_250,30_250_005,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,225_16,406_256,positive,grateful,question,我怎么会有今天
+27,27_493,27_493_008,吕子乔,male,young,low,high,high,high,low,outdoor,342_38,559_248,positive,grateful,statement-non-opinion,我还真拍不到这么经典的视频
+28,28_227,28_227_022,关谷神奇,male,young,high,low,high,high,high,outdoor,0_0,0_0,positive,grateful,other,悠悠
+29,29_148,29_148_005,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,school,440_16,658_246,positive,grateful,other,老师
+37,37_224,37_224_001,刘星,male,teenager,high,high,high,high,low,home,345_37,533_319,positive,grateful,statement-opinion,你算救了我了老弟
+30,30_250,30_250_004,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,186_40,293_189,positive,grateful,statement-non-opinion,要不是你那次拦着我做傻事
+27,27_493,27_493_007,吕子乔,male,young,low,high,high,high,low,outdoor,399_9,594_227,positive,grateful,statement-non-opinion,如果不是你一菲
+28,28_103,28_103_005,张伟,male,young,low,low,low,high,high,home,275_132,379_254,positive,happy,statement-non-opinion,后来他死了
+28,28_114,28_114_010,秦羽墨,female,young,high,high,high,high,high,home,446_31,605_250,positive,happy,statement-opinion,要不然他不会知道我的新地址的
+27,27_436,27_436_004,曾小贤,male,young,high,high,low,high,low,restaurant,367_36,589_285,positive,happy,statement-non-opinion,我竟然活着回来了
+27,27_294,27_294_002,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,entertainment-venue,0_0,0_0,positive,happy,question,进展如何
+35,35_041,35_041_001,胡一统,male,middle-aged,high,high,low,low,low,home,283_32,399_144,positive,happy,other,亲儿子 爸爸
+37,37_040,37_040_010,夏东海,male,middle-aged,low,high,high,high,high,home,277_48,446_219,positive,happy,statement-non-opinion,直接把琴拉走
+28,28_117,28_117_000,关谷神奇,male,young,high,low,high,high,high,hospital,232_16,505_332,positive,happy,statement-opinion,太好了
+29,29_108,29_108_012,陈美嘉,female,young,high,high,low,high,low,home,239_104,395_281,positive,happy,statement-non-opinion,然后借力滑到安全梯那边去 一定要抓住
+29,29_000,29_000_002,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,other-venue,98_52,248_228,positive,happy,statement-non-opinion,俺是你的粉丝
+29,29_028,29_028_001,胡一菲,female,young,low,high,low,low,high,home,220_39,388_255,positive,happy,statement-non-opinion,非常漂亮
+31,31_036,31_036_014,张伟,male,young,low,low,low,high,high,restaurant,0_0,0_0,positive,happy,statement-non-opinion,不行不行 好害羞
+27,27_036,27_036_005,吕子乔,male,young,low,high,high,high,low,home,298_63,449_249,positive,happy,statement-non-opinion,我的那份已经找到办法解决了
+27,27_401,27_401_000,胡一菲,female,young,low,high,low,low,high,entertainment-venue,0_0,0_0,positive,happy,statement-non-opinion,给我 我自己看
+27,27_206,27_206_002,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,office,180_36,416_317,positive,happy,statement-opinion,我们公司也不允许抽 不过谁让我是老板呢
+31,31_217,31_217_008,张伟,male,young,low,low,low,high,high,home,187_254,277_325,positive,happy,statement-non-opinion,不客气
+31,31_070,31_070_004,陈美嘉,female,young,high,high,low,high,low,home,456_79,542_185,positive,happy,statement-non-opinion,变大
+28,28_008,28_008_009,曾小贤,male,young,high,high,low,high,low,home,225_32,413_269,positive,happy,statement-non-opinion,我已经有准备了
+31,31_111,31_111_005,吕子乔,male,young,low,high,high,high,low,home,386_112,471_207,positive,happy,statement-non-opinion,这么多
+36,36_046,36_046_004,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,359_32,536_239,positive,happy,statement-non-opinion,我几乎没怎么吃过这样家里边炒的饭菜
+27,27_049,27_049_004,吕子乔,male,young,low,high,high,high,low,home,482_88,601_191,positive,happy,statement-non-opinion,我们千里有缘来相会
+29,29_363,29_363_001,唐悠悠,female,young,high,high,high,high,high,outdoor,197_30,395_265,positive,happy,statement-non-opinion,我可以去抓只夜莺呀
+30,30_181,30_181_000,唐悠悠,female,young,high,high,high,high,high,home,0_0,0_0,positive,happy,statement-non-opinion,关关
+29,29_381,29_381_010,唐悠悠,female,young,high,high,high,high,high,outdoor,319_79,466_223,positive,happy,statement-non-opinion,走 有东西吃了
+30,30_243,30_243_004,陈美嘉,female,young,high,high,low,high,low,home,356_43,481_202,positive,happy,statement-non-opinion,我还敲诈他请我吃了饭
+30,30_077,30_077_000,曾小贤,male,young,high,high,low,high,low,home,0_0,0_0,positive,happy,statement-opinion,这是我见过最有个性的选美
+29,29_097,29_097_010,陈美嘉,female,young,high,high,low,high,low,home,0_0,0_0,positive,happy,statement-non-opinion,不过5分钟以后就该上头了
+37,37_010,37_010_014,刘梅,female,middle-aged,high,high,low,high,high,home,450_56,611_272,positive,happy,statement-non-opinion,我小时候
+34,34_371,34_371_004,邓小可,female,young,low,high,high,high,high,outdoor,428_141,486_227,positive,happy,statement-non-opinion,借你口袋用一下
+29,29_102,29_102_003,胡一菲,female,young,low,high,low,low,high,home,0_0,0_0,positive,happy,statement-non-opinion,我们忙活了半天
+37,37_015,37_015_005,刘星,male,teenager,high,high,high,high,low,home,0_0,0_0,positive,happy,appreciation,虽然你现在的条件非常的艰苦
+29,29_171,29_171_006,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,202_27,415_275,positive,happy,statement-non-opinion,我很喜欢这种偷偷摸摸的感觉
+36,36_104,36_104_000,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,0_0,0_0,positive,happy,statement-opinion,100块还行给
+30,30_117,30_117_019,陆展博,male,young,high,low,high,high,high,home,0_0,0_0,positive,happy,statement-opinion,我终于知道自己为什么以前一直跳不过去了
+37,37_015,37_015_008,刘星,male,teenager,high,high,high,high,low,home,0_0,0_0,positive,happy,appreciation,永不放弃
+28,28_007,28_007_001,张伟,male,young,low,low,low,high,high,mall,276_18,452_281,positive,happy,disagreement,不 是你的益达
+27,27_192,27_192_000,关谷神奇,male,young,high,low,high,high,high,home,364_41,555_267,positive,happy,question,这些都是他准备的吗
+30,30_094,30_094_001,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,217_40,397_253,positive,happy,statement-opinion,生化危机绝对不仅仅只是一个游戏哦
+30,30_272,30_272_022,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,321_24,534_290,positive,happy,statement-non-opinion,老板说一缘一份
+31,31_103,31_103_007,陈美嘉,female,young,high,high,low,high,low,home,0_0,0_0,positive,happy,statement-non-opinion,耶！
+35,35_193,35_193_002,刘星,male,teenager,high,high,high,high,low,home,456_91,576_223,positive,happy,statement-non-opinion,我明天保准洗三次脚
+27,27_356,27_356_006,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,other-venue,162_39,392_289,positive,happy,question,老毕
+30,30_093,30_093_009,陆展博,male,young,high,low,high,high,high,restaurant,404_12,603_261,positive,happy,question,真的下次我介绍这两个你认识
+27,27_051,27_051_000,陈美嘉,female,young,high,high,low,high,low,home,0_0,0_0,positive,happy,statement-non-opinion,记得来找我
+35,35_205,35_205_018,夏雪,female,teenager,high,low,high,low,high,home,319_20,594_237,positive,happy,statement-non-opinion,真的您唱两句
+27,27_042,27_042_007,胡一菲,female,young,low,high,low,low,high,home,481_41,677_287,positive,happy,quotation,快刀斩乱麻
+36,36_078,36_078_000,刘梅,female,middle-aged,high,high,low,high,high,home,363_50,517_212,positive,happy,question,这孩子 你怎么这么懂事了
+37,37_040,37_040_007,夏东海,male,middle-aged,low,high,high,high,high,home,281_25,435_220,positive,happy,statement-non-opinion,你要想要我就看在交情的份上先让给你
+27,27_145,27_145_006,陆展博,female,young,high,low,high,high,high,home,327_47,526_293,positive,happy,statement-non-opinion,只要追溯到500万年前
+30,30_054,30_054_003,陆展博,male,young,high,low,high,high,high,home,603_228,658_306,positive,happy,question,他怎么样
+30,30_074,30_074_001,陆展博,male,young,high,low,high,high,high,home,0_0,0_0,positive,happy,statement-non-opinion,帮个忙
+34,34_372,34_372_008,郑海潮,male,young,low,high,high,high,high,outdoor,121_3,336_185,positive,happy,statement-non-opinion,其实你心里想着别的男孩的时候吧
+30,30_263,30_263_006,陈美嘉,female,young,high,high,low,high,low,restaurant,212_35,383_255,positive,happy,answer,看日剧啊
+28,28_211,28_211_013,胡一菲,female,young,low,high,low,low,high,home,403_87,403_87,positive,happy,statement-opinion,请不要考验我的理智
+27,27_490,27_490_002,胡一菲,female,young,low,high,low,low,high,restaurant,0_0,0_0,positive,happy,question,怎么会不太投机呢
+27,27_158,27_158_016,陈美嘉,female,young,high,high,low,high,low,home,345_45,509_207,positive,happy,statement-non-opinion,他很好奇
+36,36_109,36_109_007,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,0_0,0_0,positive,happy,statement-opinion,不管是小事大事 只要是好事就得表扬 什么时候捡的
+27,27_150,27_150_014,吕子乔,male,young,low,high,high,high,low,home,512_29,701_244,positive,happy,statement-opinion,祝你和你的MR.倒霉蛋
+27,27_421,27_421_003,吕子乔,male,young,low,high,high,high,low,home,390_76,605_339,positive,happy,question,喝点什么
+34,34_371,34_371_008,郑海潮,male,young,low,high,high,high,high,outdoor,151_64,331_291,positive,happy,statement-non-opinion,我这愿望都没许成
+28,28_291,28_291_009,秦羽墨,female,young,high,high,high,high,high,home,0_0,0_0,positive,happy,statement-opinion,手再往前一点
+36,36_016,36_016_003,夏东海,male,middle-aged,low,high,high,high,high,home,264_41,411_238,positive,happy,statement-opinion,得了
+31,31_157,31_157_011,咖喱酱,female,young,low,high,high,high,low,home,429_89,519_200,positive,happy,statement-non-opinion,我现在就去试试
+31,31_076,31_076_025,陈美嘉,female,young,high,high,low,high,low,home,318_109,406_222,positive,happy,statement-non-opinion,我也有礼物送给你
+30,30_088,30_088_008,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,457_126,566_233,positive,happy,thanking,谢谢你给我出的主意
+31,31_018,31_018_003,张伟,male,young,low,low,low,high,high,home,563_146,619_202,positive,happy,question,小姐今天来是想咨询 结婚
+27,27_194,27_194_003,关谷神奇,male,young,high,low,high,high,high,home,0_0,0_0,positive,happy,statement-non-opinion,但是我感觉得到
+27,27_326,27_326_006,陈美嘉,female,young,high,high,low,high,low,home,498_110,662_276,positive,happy,statement-non-opinion,我们家还有气球
+27,27_432,27_432_007,胡一菲,female,young,low,high,low,low,high,entertainment-venue,374_34,673_360,positive,happy,question,你看怎么样
+29,29_024,29_024_017,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,other-venue,183_44,401_247,positive,happy,statement-non-opinion,总有一天你一定会成功
+29,29_296,29_296_007,陆展博,male,young,high,low,high,high,high,home,494_12,727_297,positive,happy,statement-non-opinion,就是那些我们以前谈到过却一直没有实现的事情
+29,29_000,29_000_007,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,other-venue,53_39,315_319,positive,happy,statement-non-opinion,祝你前程似锦
+34,34_022,34_022_003,沈画,female,young,high,high,low,high,high,home,0_0,0_0,positive,happy,statement-opinion,三层真够大的
+29,29_119,29_119_002,陈美嘉,female,young,high,high,low,high,low,home,377_6,501_134,positive,happy,statement-non-opinion,就等你这句话
+27,27_121,27_121_002,曾小贤,male,young,high,high,low,high,low,home,362_20,599_326,positive,happy,statement-non-opinion,请进
+31,31_112,31_112_000,吕子乔,male,young,low,high,high,high,low,home,368_94,448_186,positive,happy,statement-non-opinion,你自己说的嘛 鸡蛋不要放在同一个篮子里 快拿走
+27,27_120,27_120_019,吕子乔,male,young,low,high,high,high,low,home,367_94,442_180,positive,happy,question,然后我马上就过来好吧
+27,27_435,27_435_024,曾小贤,male,young,high,high,low,high,low,restaurant,327_48,614_348,negative,negative-other,statement-non-opinion,可是对方却挂掉了电话
+27,27_209,27_209_005,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,office,232_36,449_284,negative,negative-other,statement-opinion,当然不是
+34,34_099,34_099_003,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,0_0,0_0,negative,negative-other,agreement,可不是嘛
+35,35_214,35_214_000,夏东海,male,middle-aged,low,high,high,high,high,home,403_66,620_188,negative,negative-other,irony,够亲昵了
+36,36_082,36_082_004,刘梅,female,middle-aged,high,high,low,high,high,home,278_57,371_150,negative,negative-other,statement-opinion,老戴你这保密工作做得太严实了
+27,27_339,27_339_005,陆展博,female,young,high,low,high,high,high,home,265_55,478_333,negative,negative-other,statement-non-opinion,举目无亲
+37,37_155,37_155_018,刘星,male,teenager,high,high,high,high,low,school,0_0,0_0,negative,negative-other,statement-non-opinion,洗就洗
+35,35_028,35_028_000,夏东海,male,middle-aged,low,high,high,high,high,home,398_27,507_179,negative,negative-other,statement-opinion,你想一想
+31,31_017,31_017_002,张伟,male,young,low,low,low,high,high,home,0_0,0_0,negative,negative-other,statement-opinion,叫我张律师
+36,36_108,36_108_009,刘星,male,teenager,high,high,high,high,low,home,0_0,0_0,negative,negative-other,statement-non-opinion,我还没刷牙呢
+27,27_542,27_542_008,吕子乔,male,young,low,high,high,high,low,home,485_101,644_267,negative,negative-other,statement-opinion,我现在知道为什么没人理你了
+35,35_005,35_005_013,夏雨,male,teenager,high,low,high,high,low,home,403_33,587_233,negative,negative-other,statement-opinion,我不想上学
+34,34_269,34_269_003,魏山山,female,young,low,low,high,high,high,office,489_110,620_258,negative,negative-other,statement-opinion,我 我 我不去
+29,29_010,29_010_000,唐悠悠,female,young,high,high,high,high,high,entertainment-venue,305_42,522_317,negative,negative-other,statement-non-opinion,一共才三个
+27,27_538,27_538_007,胡一菲,female,young,low,high,low,low,high,home,213_23,358_175,negative,negative-other,statement-opinion,那我就扭送你出去游街示众
+27,27_435,27_435_013,曾小贤,male,young,high,high,low,high,low,restaurant,357_82,607_348,negative,negative-other,statement-non-opinion,一次一次在一个漆黑的夜晚
+36,36_030,36_030_000,夏雨,male,teenager,high,low,high,high,low,home,428_62,569_203,negative,negative-other,question,你告诉我 你为什么闻鸡起跑
+27,27_463,27_463_010,曾小贤,male,young,high,high,low,high,low,home,316_14,591_270,negative,negative-other,statement-opinion,那么潇洒
+29,29_430,29_430_013,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,228_25,469_299,negative,negative-other,statement-non-opinion,气质是关键
+35,35_097,35_097_002,刘梅,female,middle-aged,high,high,low,high,high,home,377_64,516_212,negative,negative-other,question,你干嘛来了
+29,29_386,29_386_013,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,office,409_21,626_227,negative,negative-other,statement-non-opinion,看来我不签不行了
+34,34_279,34_279_007,沈画,female,young,high,high,low,high,high,home,0_0,0_0,negative,negative-other,statement-non-opinion,我想找一个男的 他爱我
+36,36_183,36_183_007,刘梅,female,middle-aged,high,high,low,high,high,home,286_25,476_262,negative,negative-other,statement-opinion,没有好处
+27,27_155,27_155_007,曾小贤,male,young,high,high,low,high,low,entertainment-venue,322_57,594_343,negative,negative-other,statement-opinion,我以为只有展博才喜欢这种东西
+35,35_028,35_028_002,夏东海,male,middle-aged,low,high,high,high,high,home,424_40,565_223,negative,negative-other,statement-non-opinion,又说当时天气多么好了
+29,29_030,29_030_003,吕子乔,male,young,low,high,high,high,low,car,308_42,548_335,negative,negative-other,statement-non-opinion,家里有件蓝色的羊毛衫
+35,35_195,35_195_006,夏东海,male,middle-aged,low,high,high,high,high,home,305_21,516_272,negative,negative-other,statement-non-opinion,做家长的应该当润滑剂
+36,36_159,36_159_012,刘梅,female,middle-aged,high,high,low,high,high,home,269_50,536_298,negative,negative-other,question,必须得熬夜才行
+31,31_126,31_126_007,吕子乔,male,young,low,high,high,high,low,other-venue,164_8,269_129,negative,negative-other,statement-non-opinion,好好好
+29,29_405,29_405_001,陆展博,male,young,high,low,high,high,high,home,190_16,395_260,negative,negative-other,statement-non-opinion,她很忙
+30,30_243,30_243_001,陈美嘉,female,young,high,high,low,high,low,home,306_30,454_194,negative,negative-other,statement-non-opinion,也没怎么上课
+34,34_357,34_357_007,邓小可,female,young,low,high,high,high,high,outdoor,528_158,611_265,negative,negative-other,statement-non-opinion,还不是你啊 馊主意 丢人了吧
+27,27_346,27_346_008,曾小贤,male,young,high,high,low,high,low,other-venue,336_51,481_242,negative,negative-other,statement-non-opinion,不过我的车已经在高架上了
+27,27_273,27_273_004,林宛瑜,female,young,low,high,high,high,high,entertainment-venue,0_0,0_0,negative,negative-other,question,找个聪明一点的
+27,27_532,27_532_005,吕子乔,male,young,low,high,high,high,low,home,239_34,449_271,negative,negative-other,statement-non-opinion,我把场地租给别人开party
+34,34_167,34_167_014,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,578_111,665_197,negative,negative-other,statement-non-opinion,本来是件很小的事
+27,27_349,27_349_008,曾小贤,male,young,high,high,low,high,low,other-venue,8_0,128_127,negative,negative-other,statement-non-opinion,你看 什么 我的车速太快了
+34,34_125,34_125_010,邓小可母亲,female,elderly,high,high,low,high,high,home,165_78,257_192,negative,negative-other,statement-opinion,我还是看重你
+36,36_101,36_101_014,刘星,male,teenager,high,high,high,high,low,home,208_32,403_242,negative,negative-other,statement-opinion,您再把房给卖了
+35,35_076,35_076_007,夏雪,female,teenager,high,low,high,low,high,home,230_38,457_292,negative,negative-other,statement-opinion,除了爸爸
+35,35_188,35_188_001,夏雪,female,teenager,high,low,high,low,high,home,335_28,556_248,negative,negative-other,command,但是在你进屋之前必须得先敲下门
+29,29_344,29_344_002,唐悠悠,female,young,high,high,high,high,high,home,363_46,531_225,negative,negative-other,statement-non-opinion,摄影制片要送礼
+27,27_263,27_263_014,曾小贤,male,young,high,high,low,high,low,home,131_74,272_283,negative,negative-other,statement-opinion,不行 我是来劝架的
+29,29_206,29_206_013,胡一菲,female,young,low,high,low,low,high,home,0_0,0_0,negative,negative-other,statement-non-opinion,妈，关谷是日本人
+29,29_048,29_048_007,陈美嘉,female,young,high,high,low,high,low,home,190_53,374_292,negative,negative-other,statement-non-opinion,可是我都离开这么久了
+29,29_334,29_334_006,唐悠悠,female,young,high,high,high,high,high,home,418_69,664_313,negative,negative-other,statement-non-opinion,化妆品太贵了
+36,36_155,36_155_006,刘梅,female,middle-aged,high,high,low,high,high,home,461_84,576_190,negative,negative-other,statement-non-opinion,就是喜欢抽烟喝酒熬夜不锻炼身体好吃肥肉
+27,27_463,27_463_011,曾小贤,male,young,high,high,low,high,low,home,227_42,456_293,negative,negative-other,statement-opinion,有魅力
+29,29_295,29_295_005,陆展博,male,young,high,low,high,high,high,home,351_42,525_229,negative,negative-other,statement-non-opinion,忘记换拖鞋了
+29,29_335,29_335_000,唐悠悠,female,young,high,high,high,high,high,home,0_0,0_0,negative,negative-other,statement-non-opinion,是居安思危
+29,29_182,29_182_001,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,0_0,0_0,negative,negative-other,statement-non-opinion,如果说真是你的 尺寸应该正好 小姐把你的手借一下
+27,27_236,27_236_000,吕子乔,male,young,low,high,high,high,low,restaurant,0_0,0_0,negative,negative-other,statement-non-opinion,现在就已经开始了
+36,36_169,36_169_003,戴天高,male,middle-aged,low,high,high,high,high,home,253_63,382_233,negative,negative-other,statement-opinion,整天有你这么个人管着
+27,27_119,27_119_010,曾小贤,male,young,high,high,low,high,low,home,524_187,628_289,negative,negative-other,question,So你这鱼是怎么带回来的
+35,35_097,35_097_001,胡一统,male,middle-aged,high,high,low,low,low,home,298_37,498_239,negative,negative-other,statement-non-opinion,长高了
+35,35_059,35_059_004,刘梅,female,middle-aged,high,high,low,high,high,home,296_35,467_237,negative,negative-other,command,你都给我解释清楚
+29,29_388,29_388_004,曾小贤,male,young,high,high,low,high,low,office,283_14,537_300,negative,negative-other,statement-non-opinion,您就当没看过这份
+37,37_186,37_186_017,刘星,male,teenager,high,high,high,high,low,home,307_57,480_267,negative,negative-other,statement-non-opinion,成 不信
+27,27_482,27_482_002,曾小贤,male,young,high,high,low,high,low,entertainment-venue,0_0,0_0,negative,negative-other,question,请问你能把我怎么地
+36,36_091,36_091_005,刘星,male,teenager,high,high,high,high,low,home,277_41,428_218,negative,negative-other,statement-opinion,准疯了你
+36,36_106,36_106_013,刘梅,female,middle-aged,high,high,low,high,high,home,0_0,0_0,negative,negative-other,question,管姥姥要的
+29,29_341,29_341_000,唐悠悠,female,young,high,high,high,high,high,home,185_176,265_272,negative,negative-other,statement-non-opinion,我忘了交了
+29,29_144,29_144_006,陈美嘉,female,young,high,high,low,high,low,school,179_25,410_242,negative,negative-other,statement-non-opinion,因为教学楼没有这么高的楼层
+29,29_183,29_183_004,林宛瑜,female,young,low,high,high,high,high,home,347_4,543_184,negative,negative-other,question,他怎么会说我订婚了
+36,36_095,36_095_005,夏雨,male,teenager,high,low,high,high,low,home,460_138,610_331,negative,negative-other,question,您昨天说谎了
+27,27_527,27_527_003,陈美嘉,female,young,high,high,low,high,low,home,376_46,603_256,negative,negative-other,statement-opinion,你可能不能跟我们一起献爱心
+30,30_007,30_007_010,关谷神奇,male,young,high,low,high,high,high,home,0_0,0_0,negative,negative-other,statement-non-opinion,人家想不通难受啊
+30,30_064,30_064_002,曾小贤,male,young,high,high,low,high,low,other-venue,0_0,0_0,negative,negative-other,question,你笑什么
+28,28_042,28_042_001,曾小贤,male,young,high,high,low,high,low,entertainment-venue,226_55,352_236,negative,negative-other,statement-opinion,我才不会拿我的职业生涯来开玩笑
+27,27_199,27_199_002,林宛瑜,female,young,low,high,high,high,high,home,364_75,563_324,negative,negative-other,interjection,好吧
+27,27_130,27_130_011,吕子乔,male,young,low,high,high,high,low,home,0_0,0_0,negative,negative-other,statement-opinion,别 别抱歉
+31,31_049,31_049_008,吕子乔,male,young,low,high,high,high,low,other-venue,523_31,570_91,negative,negative-other,question,现在怎么办
+36,36_021,36_021_011,夏东海,male,middle-aged,low,high,high,high,high,home,263_15,419_249,negative,negative-other,statement-opinion,今天不是过年吗
+34,34_110,34_110_022,邓小可母亲,female,elderly,high,high,low,high,high,restaurant,553_75,623_153,negative,negative-other,statement-non-opinion,我跟你讲 我肯定不能要
+30,30_085,30_085_002,胡一菲,female,young,low,high,low,low,high,home,453_24,613_231,negative,negative-other,statement-opinion,我改主意了
+37,37_156,37_156_006,刘星,male,teenager,high,high,high,high,low,school,382_45,556_277,negative,negative-other,statement-opinion,我现在就拉去
+34,34_223,34_223_003,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,office,256_106,321_181,neutral,neutral,statement-opinion,潮哥 我觉得 您还是打一电话
+34,34_081,34_081_002,陈佳,female,young,low,high,high,high,high,restaurant,0_0,0_0,neutral,neutral,statement-non-opinion,已经是他们的了
+34,34_251,34_251_002,郑海潮,male,young,low,high,high,high,high,home,551_36,662_160,neutral,neutral,statement-non-opinion,你说你 你这属于借宿一宿
+37,37_012,37_012_000,刘梅,female,middle-aged,high,high,low,high,high,home,0_0,0_0,neutral,neutral,statement-non-opinion,那就给买一手风琴
+29,29_193,29_193_006,吕子乔,male,young,low,high,high,high,low,home,315_70,488_238,neutral,neutral,statement-non-opinion,想必他听说过关于我很多的传奇故事
+31,31_203,31_203_012,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,240_98,319_200,neutral,neutral,statement-opinion,我觉得张律师处理情感纠纷很专业
+27,27_358,27_358_001,曾小贤,male,young,high,high,low,high,low,other-venue,444_54,616_262,neutral,neutral,statement-non-opinion,我要像摩托车那样两个轮子的
+30,30_255,30_255_000,唐悠悠,female,young,high,high,high,high,high,home,84_188,244_339,neutral,neutral,statement-non-opinion,谁让你当年改变他的人生
+31,31_043,31_043_000,胡一菲,female,young,low,high,low,low,high,outdoor,357_148,380_189,neutral,neutral,question,那玩意能拿到黄老板的投资
+28,28_064,28_064_021,唐悠悠,female,young,high,high,high,high,high,hospital,248_34,439_272,neutral,neutral,statement-non-opinion,你好好休息
+30,30_042,30_042_007,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,other-venue,268_25,471_293,neutral,neutral,statement-non-opinion,他可以调节情绪
+31,31_041,31_041_018,陈美嘉,female,young,high,high,low,high,low,restaurant,0_0,0_0,neutral,neutral,question,行不行
+27,27_230,27_230_004,曾小贤,male,young,high,high,low,high,low,office,244_40,530_327,neutral,neutral,question,能听见吗
+36,36_026,36_026_000,夏东海,male,middle-aged,low,high,high,high,high,home,321_30,495_259,neutral,neutral,acknowledge,你说的很对
+31,31_076,31_076_018,吕子乔,male,young,low,high,high,high,low,home,703_74,788_251,neutral,neutral,statement-non-opinion,听说可以吸收甲醛
+28,28_220,28_220_003,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,entertainment-venue,0_0,0_0,neutral,neutral,question,你不累啊
+27,27_324,27_324_007,陈美嘉,female,young,high,high,low,high,low,home,177_3,410_87,neutral,neutral,statement-opinion,你错了
+34,34_164,34_164_005,陈佳,female,young,low,high,high,high,high,office,195_110,305_246,neutral,neutral,statement-opinion,这样不太好吧
+28,28_166,28_166_006,秦羽墨,female,young,high,high,high,high,high,home,589_69,750_370,neutral,neutral,statement-opinion,我也不是蠢货
+27,27_269,27_269_007,林宛瑜,female,young,low,high,high,high,high,home,126_43,275_222,neutral,neutral,statement-non-opinion,因为 因为关谷的师兄要来
+28,28_226,28_226_016,唐悠悠,female,young,high,high,high,high,high,outdoor,239_15,435_249,neutral,neutral,statement-non-opinion,那个时候有个男孩子很喜欢我
+30,30_176,30_176_003,关谷神奇,male,young,high,low,high,high,high,home,0_0,0_0,neutral,neutral,statement-opinion,总结来说
+27,27_076,27_076_009,曾小贤,male,young,high,high,low,high,low,home,352_17,590_335,neutral,neutral,statement-opinion,我们要送温暖
+35,35_223,35_223_003,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,403_81,563_272,neutral,neutral,statement-opinion,怎么玩着就能念好书
+28,28_020,28_020_018,唐悠悠,female,young,high,high,high,high,high,home,235_50,402_284,neutral,neutral,quotation,长幼有序
+30,30_175,30_175_001,关谷神奇,male,young,high,low,high,high,high,home,0_0,0_0,neutral,neutral,statement-non-opinion,今天下午我们让他在20种情景下进行选择
+27,27_475,27_475_004,陈美嘉,female,young,high,high,low,high,low,home,165_148,291_300,neutral,neutral,answer,没有
+36,36_053,36_053_002,戴天高,male,middle-aged,low,high,high,high,high,home,431_13,597_205,neutral,neutral,statement-opinion,你说明明在你们家 有你照顾
+34,34_037,34_037_006,邓小可,female,young,low,high,high,high,high,restaurant,262_72,440_281,neutral,neutral,statement-non-opinion,你要一下把这电话号码给刷出来
+29,29_036,29_036_006,胡一菲,female,young,low,high,low,low,high,home,403_57,544_218,neutral,neutral,question,你想怎样
+34,34_106,34_106_005,郑海潮,male,young,low,high,high,high,high,outdoor,335_156,499_372,neutral,neutral,statement-non-opinion,要不然这样
+27,27_464,27_464_011,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,118_19,430_349,neutral,neutral,statement-opinion,我知道
+27,27_252,27_252_006,胡一菲,female,young,low,high,low,low,high,home,0_0,0_0,neutral,neutral,question,你这也算社交
+27,27_425,27_425_005,胡一菲,female,young,low,high,low,low,high,home,186_92,314_201,neutral,neutral,question,你鄙视单亲妈妈
+34,34_084,34_084_000,陈佳,female,young,low,high,high,high,high,restaurant,0_0,0_0,neutral,neutral,statement-non-opinion,害怕再一次地失去一切
+28,28_215,28_215_010,吕子乔,male,young,low,high,high,high,low,entertainment-venue,442_55,617_275,neutral,neutral,statement-opinion,订婚派对是所有派对当中最不容错过的派对之一
+27,27_543,27_543_010,吕子乔,male,young,low,high,high,high,low,home,430_37,616_252,neutral,neutral,statement-opinion,小伙子
+27,27_109,27_109_006,丽萨,female,young,low,low,low,low,high,office,155_66,360_277,neutral,neutral,thanking,谢谢
+27,27_349,27_349_001,丽萨,female,young,low,low,low,low,high,office,382_46,570_225,neutral,neutral,question,你不是开的挺顺畅吗
+29,29_024,29_024_010,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,other-venue,246_50,447_295,neutral,neutral,question,你没看新闻吗
+27,27_337,27_337_002,林宛瑜,female,young,low,high,high,high,high,home,0_0,0_0,neutral,neutral,answer,是怎么了
+27,27_152,27_152_005,曾小贤,male,young,high,high,low,high,low,entertainment-venue,353_79,553_329,neutral,neutral,question,这有什么关系
+27,27_085,27_085_003,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,278_75,371_181,neutral,neutral,question,你刚才带我去的那间也是你的
+37,37_107,37_107_008,夏雨,male,teenager,high,low,high,high,low,home,0_0,0_0,neutral,neutral,question,什么问题
+29,29_021,29_021_004,胡一菲,female,young,low,high,low,low,high,restaurant,442_14,662_241,neutral,neutral,statement-non-opinion,听上去比博士后有意思
+34,34_363,34_363_001,向飞,male,middle-aged,low,low,low,high,high,restaurant,268_87,427_303,neutral,neutral,question,你要干嘛去呀
+29,29_216,29_216_005,苑春丽,female,middle-aged,high,high,low,high,high,home,145_57,378_321,neutral,neutral,question,有多优秀
+27,27_073,27_073_000,胡一菲,female,young,low,high,low,low,high,home,239_58,377_232,neutral,neutral,statement-non-opinion,疗养院说最近姑姑的情况挺稳定的
+35,35_029,35_029_002,夏东海,male,middle-aged,low,high,high,high,high,home,358_63,519_242,neutral,neutral,statement-opinion,我去跟小雪好好谈谈
+31,31_058,31_058_008,吕子乔,male,young,low,high,high,high,low,home,422_84,483_175,neutral,neutral,statement-non-opinion,规定了必须穿正装
+27,27_109,27_109_007,丽萨,female,young,low,low,low,low,high,office,210_49,417_315,neutral,neutral,statement-opinion,我觉得你应该去医院看一下
+36,36_065,36_065_015,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,287_26,403_139,neutral,neutral,agreement,那倒也是 穿衣服 走
+30,30_213,30_213_014,张伟,male,young,low,low,low,high,high,home,201_16,328_184,neutral,neutral,statement-opinion,但是你心里掩藏着强烈的自我暗示
+27,27_327,27_327_006,陈美嘉,female,young,high,high,low,high,low,home,420_117,574_265,neutral,neutral,statement-opinion,你也没有 看好了
+27,27_380,27_380_010,林宛瑜,female,young,low,high,high,high,high,office,284_77,557_321,neutral,neutral,statement-non-opinion,排水系统已经失效
+27,27_165,27_165_002,曾小贤,male,young,high,high,low,high,low,home,329_61,524_320,neutral,neutral,statement-opinion,人不能在一棵树上吊死
+30,30_270,30_270_009,曾小贤,male,young,high,high,low,high,low,home,241_51,367_231,neutral,neutral,statement-non-opinion,马上就要停工赔款了
+31,31_095,31_095_001,胡一菲,female,young,low,high,low,low,high,home,213_119,259_183,neutral,neutral,statement-non-opinion,不过展博是我带大的
+35,35_187,35_187_001,夏雪,female,teenager,high,low,high,low,high,home,328_46,493_271,neutral,neutral,question,你不好好看你的化学
+31,31_110,31_110_001,陈美嘉,female,young,high,high,low,high,low,home,148_54,273_214,neutral,neutral,statement-non-opinion,走 去看看
+34,34_012,34_012_013,郑海潮,male,young,low,high,high,high,high,restaurant,310_68,442_224,neutral,neutral,statement-non-opinion,B是不杀
+31,31_122,31_122_002,吕子乔,male,young,low,high,high,high,low,home,437_98,526_194,neutral,neutral,statement-non-opinion,别看我 我里面只穿了背心
+34,34_127,34_127_008,郑海潮,male,young,low,high,high,high,high,car,0_0,0_0,neutral,neutral,answer,我在广告公司 业务员
+36,36_151,36_151_000,夏雪,female,teenager,high,low,high,low,high,home,312_47,451_225,neutral,neutral,statement-opinion,想让您尝尝被人误解的滋味
+36,36_110,36_110_000,刘梅,female,middle-aged,high,high,low,high,high,home,205_33,332_203,neutral,neutral,answer,好像是昨天
+27,27_385,27_385_000,林宛瑜,female,young,low,high,high,high,high,home,214_79,354_250,neutral,neutral,question,美嘉你真的打算出钱资助关谷继续创作
+27,27_543,27_543_011,吕子乔,male,young,low,high,high,high,low,home,336_8,797_291,neutral,neutral,statement-opinion,你要上车吗
+30,30_125,30_125_001,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,other-venue,450_94,509_173,neutral,neutral,statement-opinion,也很正常
+31,31_214,31_214_006,张伟,male,young,low,low,low,high,high,home,260_90,341_185,neutral,neutral,statement-non-opinion,大力你看着她 我去了
+29,29_096,29_096_001,吕子乔,male,young,low,high,high,high,low,home,0_0,0_0,neutral,neutral,statement-non-opinion,我们得盯着点
+30,30_137,30_137_006,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,other-venue,334_23,510_277,neutral,neutral,question,你见过莱昂纳多掐自己就能醒过来了
+28,28_275,28_275_009,丽萨,female,young,low,low,low,low,high,car,322_44,524_317,neutral,neutral,other,喂
+34,34_327,34_327_009,邓小可母亲,female,elderly,high,high,low,high,high,home,329_138,526_336,neutral,neutral,statement-non-opinion,说我们山山哪 成熟稳重 这个比我们可儿强
+28,28_056,28_056_003,关谷神奇,male,young,high,low,high,high,high,home,0_0,0_0,neutral,neutral,acknowledge,行
+34,34_227,34_227_002,郑海潮,male,young,low,high,high,high,high,office,240_80,397_289,neutral,neutral,statement-non-opinion,我发现你野心不小
+35,35_029,35_029_001,夏东海,male,middle-aged,low,high,high,high,high,home,368_44,520_234,neutral,neutral,statement-opinion,这个事情包在我身上
+35,35_073,35_073_001,刘梅,female,middle-aged,high,high,low,high,high,home,401_115,549_275,positive,positive-other,statement-non-opinion,我对老鼠的研究相当透彻
+35,35_064,35_064_002,夏雪,female,teenager,high,low,high,low,high,home,0_0,0_0,positive,positive-other,answer,我喜欢那首要定你
+29,29_099,29_099_000,吕子乔,male,young,low,high,high,high,low,home,270_14,392_129,positive,positive-other,question,怎么样
+27,27_120,27_120_000,吕子乔,male,young,low,high,high,high,low,home,0_26,103_176,positive,positive-other,statement-opinion,那上司我更要看看他是不是美女了
+36,36_079,36_079_011,夏雪,female,teenager,high,low,high,low,high,home,0_0,0_0,positive,positive-other,statement-opinion,不是 哪能
+28,28_134,28_134_008,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,215_55,371_259,positive,positive-other,statement-opinion,而我可以去寻找我新的生活
+27,27_444,27_444_003,关谷神奇,male,young,high,low,high,high,high,home,326_27,586_331,positive,positive-other,statement-opinion,不喜欢猫
+35,35_072,35_072_007,夏雪,female,teenager,high,low,high,low,high,home,0_0,0_0,positive,positive-other,statement-non-opinion,阿姨你来逗逗他
+37,37_104,37_104_001,夏雨,male,teenager,high,low,high,high,low,home,336_44,565_296,positive,positive-other,question,是不是和今天下午找你的那个 长得特别像张柏芝的小女孩有关系
+29,29_005,29_005_000,曾小贤,male,young,high,high,low,high,low,home,672_24,782_186,positive,positive-other,greeting,早安关谷
+29,29_252,29_252_010,林宛瑜,female,young,low,high,high,high,high,restaurant,403_27,552_192,positive,positive-other,statement-non-opinion,还有圣托里尼的教堂里
+28,28_093,28_093_010,唐悠悠,female,young,high,high,high,high,high,home,469_36,581_196,positive,positive-other,statement-non-opinion,这次可能是他了
+27,27_154,27_154_007,林宛瑜,female,young,low,high,high,high,high,entertainment-venue,266_55,441_269,positive,positive-other,question,曾老师你也在网上卖东西啊
+27,27_193,27_193_002,关谷神奇,male,young,high,low,high,high,high,home,463_77,577_217,positive,positive-other,statement-non-opinion,我是从日本横滨来的
+27,27_333,27_333_005,陈美嘉,female,young,high,high,low,high,low,home,146_53,332_280,positive,positive-other,question,什么朋友
+29,29_046,29_046_000,陈美嘉,female,young,high,high,low,high,low,home,0_0,0_0,positive,positive-other,question,说说你和关谷 你们是怎么在一起的
+30,30_042,30_042_016,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,other-venue,209_21,416_254,positive,positive-other,statement-opinion,他就看开了
+27,27_516,27_516_002,曾小贤,male,young,high,high,low,high,low,home,371_42,546_260,positive,positive-other,statement-non-opinion,里面多闷
+29,29_108,29_108_007,陈美嘉,female,young,high,high,low,high,low,home,276_64,410_195,positive,positive-other,question,不如你爬到三楼阳台上去吧
+28,28_078,28_078_004,张伟,male,young,low,low,low,high,high,home,0_0,0_0,positive,positive-other,statement-opinion,一菲就没猜中我的
+29,29_120,29_120_003,胡一菲,female,young,low,high,low,low,high,school,413_23,538_150,positive,positive-other,statement-non-opinion,那还用你说 西南某高校的硬件是杠杠的
+35,35_125,35_125_005,夏雨,male,teenager,high,low,high,high,low,home,315_48,496_277,positive,positive-other,statement-opinion,会有的 我会想办法的
+28,28_198,28_198_001,张伟,male,young,low,low,low,high,high,home,0_0,0_0,positive,positive-other,question,你怎么知道你视频过了
+27,27_407,27_407_006,胡一菲,female,young,low,high,low,low,high,home,409_36,623_294,positive,positive-other,statement-non-opinion,小波可是接受邀请了
+28,28_112,28_112_007,唐悠悠,female,young,high,high,high,high,high,home,259_16,426_229,positive,positive-other,acknowledge,我明白了
+36,36_188,36_188_017,刘梅,female,middle-aged,high,high,low,high,high,home,297_48,470_276,positive,positive-other,statement-non-opinion,他爸爸是导演
+27,27_283,27_283_003,陆展博,female,young,high,low,high,high,high,entertainment-venue,216_46,455_294,positive,positive-other,statement-non-opinion,我老姐正在帮我把关面试
+27,27_378,27_378_005,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,office,281_46,521_286,positive,positive-other,statement-non-opinion,顺便问我是不是愿意跳槽
+34,34_317,34_317_006,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,335_111,495_284,positive,positive-other,statement-non-opinion,我想听你讲上次你跟我讲的那个故事
+37,37_186,37_186_010,刘星,male,teenager,high,high,high,high,low,home,327_34,500_252,positive,positive-other,statement-non-opinion,你从我屋随便挑一张碟出来一放一听前奏
+27,27_370,27_370_013,陈美嘉,female,young,high,high,low,high,low,home,154_54,396_304,positive,positive-other,statement-non-opinion,我也攒了不少钱
+27,27_472,27_472_009,曾小贤,male,young,high,high,low,high,low,home,175_41,442_368,positive,positive-other,statement-non-opinion,最近我正在跟他练习韩语
+35,35_132,35_132_007,刘梅,female,middle-aged,high,high,low,high,high,home,389_26,563_277,positive,positive-other,statement-non-opinion,他也不想想咱们这么精明的父母能被他蒙了吗
+36,36_116,36_116_001,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,468_149,563_255,positive,positive-other,statement-opinion,那是人家学校动员献爱心的钱
+30,30_076,30_076_015,陆展博,male,young,high,low,high,high,high,home,242_48,371_196,positive,positive-other,agreement,有道理
+27,27_434,27_434_014,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,190_46,420_281,positive,positive-other,statement-non-opinion,还好我还安然无恙
+29,29_318,29_318_003,陈美嘉,female,young,high,high,low,high,low,entertainment-venue,291_35,394_145,positive,positive-other,statement-non-opinion,关键不是结果
+37,37_097,37_097_011,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,outdoor,0_0,0_0,positive,positive-other,statement-opinion,你看我是女孩子
+35,35_072,35_072_004,夏雪,female,teenager,high,low,high,low,high,home,310_53,475_243,positive,positive-other,statement-non-opinion,现在我不再观察图片和电影了
+27,27_146,27_146_012,吕子乔,male,young,low,high,high,high,low,home,227_36,392_199,positive,positive-other,statement-non-opinion,一般都用笔名
+29,29_252,29_252_009,林宛瑜,female,young,low,high,high,high,high,restaurant,395_32,535_205,positive,positive-other,statement-non-opinion,在阿姆斯特丹塞纳河畔
+27,27_413,27_413_003,吕子乔,male,young,low,high,high,high,low,entertainment-venue,56_11,339_317,positive,positive-other,statement-non-opinion,只是因为长期得到爱情的滋润
+35,35_067,35_067_010,刘梅,female,middle-aged,high,high,low,high,high,home,213_92,401_295,positive,positive-other,statement-non-opinion,什么样的f我都能对付
+27,27_105,27_105_006,陈美嘉,female,young,high,high,low,high,low,home,0_0,0_0,positive,positive-other,statement-opinion,我给你熬一锅鲫鱼汤是最补脑子
+29,29_205,29_205_007,苑春丽,female,middle-aged,high,high,low,high,high,home,400_51,538_233,positive,positive-other,statement-non-opinion,有车有楼的好男人
+27,27_444,27_444_004,关谷神奇,male,young,high,low,high,high,high,home,327_23,596_349,positive,positive-other,statement-opinion,鱼很乖
+29,29_186,29_186_008,林宛瑜,female,young,low,high,high,high,high,home,437_38,617_267,positive,positive-other,statement-non-opinion,你是名人 粉丝多 帮我在微博天涯上问一问
+30,30_072,30_072_019,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,other-venue,450_36,642_269,positive,positive-other,disagreement,我这间是有区别的
+31,31_179,31_179_020,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,other-venue,252_109,319_192,positive,positive-other,statement-non-opinion,我仿佛看到我的女主角 我要让你复活
+35,35_210,35_210_003,刘星,male,teenager,high,high,high,high,low,home,401_37,493_155,positive,positive-other,statement-non-opinion,人才建设
+35,35_130,35_130_001,刘星,male,teenager,high,high,high,high,low,home,365_27,536_219,positive,positive-other,statement-opinion,咱家正在悄悄的发生一些事情
+29,29_074,29_074_011,唐悠悠,female,young,high,high,high,high,high,home,163_14,426_266,positive,positive-other,question,但不试你怎么知道呢
+30,30_227,30_227_009,胡一菲,female,young,low,high,low,low,high,entertainment-venue,194_23,380_267,positive,positive-other,statement-opinion,挺有意思的
+30,30_207,30_207_006,唐悠悠,female,young,high,high,high,high,high,home,166_43,347_276,positive,positive-other,statement-opinion,他走南闯北的没准会有好主意
+36,36_180,36_180_011,刘梅,female,middle-aged,high,high,low,high,high,home,272_39,464_289,positive,positive-other,statement-opinion,男孩子不好意思扒
+35,35_205,35_205_017,刘梅,female,middle-aged,high,high,low,high,high,home,268_34,511_320,positive,positive-other,statement-non-opinion,我们当时的宿舍里还有舍歌
+35,35_227,35_227_008,刘梅,female,middle-aged,high,high,low,high,high,home,275_16,476_238,positive,positive-other,question,您何必还那么客气
+35,35_120,35_120_001,刘梅,female,middle-aged,high,high,low,high,high,home,326_12,561_273,positive,positive-other,statement-opinion,我觉得什么都齐了
+37,37_096,37_096_003,刘星,male,teenager,high,high,high,high,low,outdoor,0_0,0_0,positive,positive-other,statement-opinion,我妈可 虚荣、虚伪
+35,35_136,35_136_005,刘星,male,teenager,high,high,high,high,low,home,284_9,501_303,positive,positive-other,statement-non-opinion,小雪自个在卫生间里哭天抹泪的
+29,29_333,29_333_019,关谷神奇,male,young,high,low,high,high,high,home,185_22,417_281,positive,positive-other,statement-non-opinion,有了他一定能让你棺材招人
+29,29_146,29_146_014,陈美嘉,female,young,high,high,low,high,low,school,230_25,424_226,positive,positive-other,statement-non-opinion,掌握了无数人的命运
+27,27_219,27_219_003,关谷神奇,male,young,high,low,high,high,high,home,462_27,590_186,positive,positive-other,statement-opinion,怎么会 替你高兴还来不及呢
+35,35_053,35_053_007,刘梅,female,middle-aged,high,high,low,high,high,home,388_22,558_219,positive,positive-other,statement-non-opinion,你肯定心里有巨大的落差
+37,37_185,37_185_000,夏雪,female,teenager,high,low,high,low,high,home,0_0,0_0,positive,positive-other,statement-opinion,真奇怪了
+27,27_107,27_107_007,曾小贤,male,young,high,high,low,high,low,office,447_22,712_208,positive,positive-other,answer,好
+35,35_072,35_072_005,夏雪,female,teenager,high,low,high,low,high,home,305_35,476_256,positive,positive-other,statement-non-opinion,我现在就观察真正的小老鼠
+29,29_008,29_008_007,关谷神奇,male,young,high,low,high,high,high,entertainment-venue,236_40,418_264,positive,positive-other,statement-non-opinion,我也有故事要跟你分享
+27,27_359,27_359_000,胡一菲,female,young,low,high,low,low,high,other-venue,280_65,456_283,positive,positive-other,statement-opinion,那个金刚很合我的胃口
+27,27_279,27_279_009,胡一菲,female,young,low,high,low,low,high,entertainment-venue,392_40,652_280,positive,positive-other,statement-opinion,你还真别说你这么一振作还真有效果
+29,29_356,29_356_005,曾小贤,male,young,high,high,low,high,low,restaurant,180_25,406_281,positive,positive-other,question,我有这么红吗
+27,27_107,27_107_008,曾小贤,male,young,high,high,low,high,low,office,384_43,638_329,positive,positive-other,statement-opinion,非常荣幸
+30,30_111,30_111_008,吕子乔,male,young,low,high,high,high,low,restaurant,0_0,0_0,positive,positive-other,statement-opinion,这样的这是我的泡妞无双技之一
+35,35_227,35_227_003,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,208_32,385_216,positive,positive-other,statement-non-opinion,等佳佳回来 直接奔这 厨师长就是我
+27,27_541,27_541_003,吕子乔,male,young,low,high,high,high,low,home,480_63,614_217,positive,positive-other,statement-non-opinion,有地球人、地球男人、地球女人还有中国女人
+27,27_393,27_393_001,吕子乔,male,young,low,high,high,high,low,entertainment-venue,60_19,350_303,positive,positive-other,statement-opinion,我只想了解一下街里街坊的多个朋友不是坏事
+34,34_091,34_091_001,邓小可母亲,female,elderly,high,high,low,high,high,restaurant,0_0,0_0,positive,relaxed,statement-non-opinion,别提了
+36,36_172,36_172_003,戴天高,male,middle-aged,low,high,high,high,high,home,250_72,408_269,positive,relaxed,statement-opinion,你放心这钱包在我身上了
+31,31_141,31_141_007,吕子乔,male,young,low,high,high,high,low,outdoor,0_0,0_0,positive,relaxed,statement-non-opinion,你慢点跑 慢点跑
+30,30_121,30_121_005,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,other-venue,433_46,561_227,positive,relaxed,statement-non-opinion,这没别人
+30,30_251,30_251_003,曾小贤,male,young,high,high,low,high,low,entertainment-venue,0_0,0_0,positive,relaxed,irony,我忘了
+27,27_185,27_185_003,吕子乔,male,young,low,high,high,high,low,home,230_41,430_308,positive,relaxed,statement-non-opinion,我是你表哥
+34,34_118,34_118_011,郑海潮,male,young,low,high,high,high,high,restaurant,320_106,510_334,positive,relaxed,statement-opinion,花了多少钱咱们不在乎
+28,28_041,28_041_001,吕子乔,male,young,low,high,high,high,low,entertainment-venue,351_25,533_225,positive,relaxed,question,还想赌吗
+37,37_191,37_191_005,夏雨,male,teenager,high,low,high,high,low,home,0_0,0_0,positive,relaxed,statement-non-opinion,如果要是有人
+28,28_249,28_249_000,唐悠悠,female,young,high,high,high,high,high,home,459_26,629_199,positive,relaxed,statement-non-opinion,原来是这样
+34,34_052,34_052_001,邓小可,female,young,low,high,high,high,high,home,0_0,0_0,positive,relaxed,statement-non-opinion,我过去以后 在那得得瑟瑟地弹钢琴呢
+30,30_226,30_226_007,胡一菲,female,young,low,high,low,low,high,entertainment-venue,248_27,395_206,positive,relaxed,quotation,阳光明媚
+37,37_135,37_135_002,刘梅,female,middle-aged,high,high,low,high,high,home,406_49,533_234,positive,relaxed,statement-non-opinion,我是没见过猪肉
+27,27_089,27_089_002,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,0_0,0_0,positive,relaxed,statement-non-opinion,姑姑讲错了
+27,27_521,27_521_016,吕子乔,male,young,low,high,high,high,low,home,0_0,0_0,positive,relaxed,statement-non-opinion,刚才碰到点意外耽搁了
+28,28_117,28_117_003,关谷神奇,male,young,high,low,high,high,high,hospital,0_0,0_0,positive,relaxed,statement-non-opinion,我只是路过你没事就好了
+34,34_122,34_122_006,邓小可,female,young,low,high,high,high,high,restaurant,243_161,301_238,positive,relaxed,conventional-closing,别聊了 回家吧
+29,29_189,29_189_001,苑春丽,female,middle-aged,high,high,low,high,high,home,160_30,351_259,positive,relaxed,statement-non-opinion,我自有安排了你们公寓里不是有很多男生吗
+28,28_122,28_122_013,秦羽墨,female,young,high,high,high,high,high,entertainment-venue,415_25,661_278,positive,relaxed,statement-opinion,这是我昏迷一年当中听到的唯一一句人话
+36,36_069,36_069_000,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,0_0,0_0,positive,relaxed,statement-non-opinion,你不是说的吗 参加了冬泳就不怕冷了
+34,34_049,34_049_008,沈画,female,young,high,high,low,high,high,home,0_0,0_0,positive,relaxed,statement-opinion,做女人就得对自己狠点
+28,28_191,28_191_006,唐悠悠,female,young,high,high,high,high,high,home,0_0,0_0,positive,relaxed,question,你那也叫一点
+35,35_222,35_222_003,夏东海,male,middle-aged,low,high,high,high,high,home,369_35,494_170,positive,relaxed,statement-opinion,明天再想
+29,29_131,29_131_008,曾小贤,male,young,high,high,low,high,low,entertainment-venue,420_20,619_266,positive,relaxed,statement-non-opinion,有的时候做一点小小的改变
+34,34_118,34_118_012,邓小可,female,young,low,high,high,high,high,restaurant,335_144,514_361,positive,relaxed,statement-opinion,我在乎 那是我的钱
+34,34_033,34_033_002,邓小可,female,young,low,high,high,high,high,restaurant,291_133,463_328,positive,relaxed,question,还是应该把你当小偷抓了呢
+37,37_004,37_004_003,刘星,male,teenager,high,high,high,high,low,home,342_145,584_328,positive,relaxed,statement-opinion,那倒也是
+30,30_272,30_272_010,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,425_49,595_267,positive,relaxed,statement-non-opinion,其实我想告诉你
+28,28_178,28_178_008,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,181_9,373_258,positive,relaxed,statement-opinion,真该让他听听
+30,30_226,30_226_002,胡一菲,female,young,low,high,low,low,high,entertainment-venue,227_106,311_217,positive,relaxed,statement-opinion,不错呀
+28,28_010,28_010_006,秦羽墨,female,young,high,high,high,high,high,home,269_47,422_247,positive,relaxed,statement-non-opinion,我只听说过张翼德
+37,37_038,37_038_018,夏东海,male,middle-aged,low,high,high,high,high,home,260_69,385_215,positive,relaxed,comfort,别生气
+34,34_222,34_222_006,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,office,342_149,498_324,positive,relaxed,statement-opinion,您就主动打个电话 劝劝呗
+27,27_263,27_263_013,吕子乔,male,young,low,high,high,high,low,home,532_53,707_244,positive,relaxed,statement-opinion,随便帮我挑一个胸大无脑者优先
+37,37_119,37_119_007,刘星,male,teenager,high,high,high,high,low,home,273_67,443_295,positive,relaxed,statement-non-opinion,特香 爸
+28,28_003,28_003_008,唐悠悠,female,young,high,high,high,high,high,outdoor,549_83,716_263,positive,relaxed,statement-opinion,不过这并不重要
+29,29_130,29_130_000,曾小贤,male,young,high,high,low,high,low,entertainment-venue,557_69,716_237,positive,relaxed,statement-non-opinion,Joey来瓶冰锐
+36,36_080,36_080_000,夏雪,female,teenager,high,low,high,low,high,home,0_0,0_0,positive,relaxed,statement-opinion,要想当你后妈
+36,36_037,36_037_007,刘星,male,teenager,high,high,high,high,low,home,251_51,482_324,positive,relaxed,statement-non-opinion,在家看着 让他一点自由都没有
+30,30_237,30_237_010,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,mall,0_0,0_0,positive,relaxed,statement-non-opinion,其实也没多久了
+28,28_095,28_095_003,张伟,male,young,low,low,low,high,high,home,251_63,367_208,positive,relaxed,statement-non-opinion,关谷这是我第一次跟别人睡同一张床
+28,28_132,28_132_003,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,148_58,259_203,positive,relaxed,statement-opinion,你有空多去看看你的前妻
+35,35_176,35_176_008,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,367_21,552_213,positive,relaxed,question,他还敢咬姥姥鼻子啊
+30,30_227,30_227_018,胡一菲,female,young,low,high,low,low,high,entertainment-venue,199_25,428_285,positive,relaxed,statement-opinion,了了诺澜一件心事
+31,31_053,31_053_006,张伟,male,young,low,low,low,high,high,outdoor,278_87,368_173,positive,relaxed,statement-non-opinion,爱伟儿
+31,31_083,31_083_004,陈美嘉,female,young,high,high,low,high,low,home,259_73,344_183,positive,relaxed,statement-non-opinion,还有一切非常隐蔽藏钱的地方
+34,34_051,34_051_009,沈画,female,young,high,high,low,high,high,home,339_100,461_257,positive,relaxed,statement-opinion,挺有意思的啊
+28,28_169,28_169_007,秦羽墨,female,young,high,high,high,high,high,home,248_22,412_244,positive,relaxed,statement-opinion,理查德成熟稳重
+28,28_132,28_132_005,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,235_51,420_282,positive,relaxed,statement-non-opinion,刚才曾老师都已经告诉我了
+29,29_424,29_424_000,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,0_0,0_0,positive,relaxed,statement-non-opinion,赚钱
+34,34_249,34_249_002,郑海潮,male,young,low,high,high,high,high,outdoor,289_88,454_293,positive,relaxed,answer,早没联系了
+29,29_434,29_434_006,唐悠悠,female,young,high,high,high,high,high,home,204_40,401_295,positive,relaxed,statement-non-opinion,没事以后有机会
+34,34_366,34_366_001,郑海潮,male,young,low,high,high,high,high,outdoor,333_109,363_145,positive,relaxed,question,是给机器充电呀还是来给人充电呀
+37,37_080,37_080_008,刘梅,female,middle-aged,high,high,low,high,high,home,228_31,332_170,positive,relaxed,statement-opinion,而且你跟我一样幼稚
+28,28_191,28_191_005,秦羽墨,female,young,high,high,high,high,high,home,0_0,0_0,positive,relaxed,question,就这么一点都在我碗里了
+28,28_264,28_264_004,关谷神奇,male,young,high,low,high,high,high,home,178_35,351_279,positive,relaxed,statement-non-opinion,我知道你知道的
+28,28_091,28_091_001,胡一菲,female,young,low,high,low,low,high,home,0_0,0_0,positive,relaxed,question,是不是很不服气
+37,37_191,37_191_006,刘星,male,teenager,high,high,high,high,low,home,0_0,0_0,positive,relaxed,statement-non-opinion,小雨 不用说了
+27,27_173,27_173_003,曾小贤,male,young,high,high,low,high,low,home,0_0,0_0,positive,relaxed,statement-non-opinion,看我的 没问题
+37,37_172,37_172_003,夏雨,male,teenager,high,low,high,high,low,home,0_0,0_0,positive,relaxed,question,这首诗是谁写的来着
+34,34_041,34_041_017,沈画,female,young,high,high,low,high,high,home,0_0,0_0,positive,relaxed,statement-opinion,不能吧
+37,37_062,37_062_000,刘星,male,teenager,high,high,high,high,low,home,436_71,538_165,positive,relaxed,statement-non-opinion,就在这里
+35,35_003,35_003_004,夏东海,male,middle-aged,low,high,high,high,high,home,436_34,573_174,positive,relaxed,statement-opinion,可爱的母亲
+30,30_281,30_281_012,张伟,male,young,low,low,low,high,high,home,0_0,0_0,positive,relaxed,statement-non-opinion,还有只天使在那飞啊飞啊飞啊
+34,34_339,34_339_000,郑海潮,male,young,low,high,high,high,high,restaurant,0_0,0_0,positive,relaxed,statement-opinion,因为你需要我的帮忙啊
+28,28_179,28_179_002,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,193_20,398_273,positive,relaxed,statement-non-opinion,我结婚都5年了
+34,34_307,34_307_000,邓小可,female,young,low,high,high,high,high,restaurant,337_67,397_141,positive,relaxed,statement-non-opinion,我乐意 管得着吗你
+27,27_378,27_378_008,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,office,0_0,0_0,positive,relaxed,statement-opinion,微软的挖掘对我来说只是一种认可而已
+36,36_173,36_173_001,夏东海,male,middle-aged,low,high,high,high,high,home,263_41,450_265,positive,relaxed,other,夫人
+37,37_224,37_224_010,夏雨,male,teenager,high,low,high,high,low,home,228_37,430_258,positive,relaxed,statement-opinion,老哥说实话你哪儿都好
+35,35_129,35_129_011,夏东海,male,middle-aged,low,high,high,high,high,home,313_5,490_218,positive,relaxed,statement-opinion,有点短
+35,35_207,35_207_005,刘星,male,teenager,high,high,high,high,low,home,303_42,458_231,positive,relaxed,question,老爸 刚这么会儿就挺不住了
+34,34_207,34_207_004,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,166_121,285_226,positive,relaxed,statement-non-opinion,如果你要是觉得可以的话
+35,35_176,35_176_003,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,411_29,561_216,positive,relaxed,question,专咬人耳朵那个
+29,29_149,29_149_016,吕子乔,male,young,low,high,high,high,low,entertainment-venue,129_18,352_251,positive,relaxed,statement-non-opinion,可要记得感激我
+34,34_322,34_322_012,刘旭刚,male,young,high,high,low,low,high,outdoor,0_0,0_0,positive,relaxed,statement-non-opinion,要是再没点体力干活
+28,28_146,28_146_010,秦羽墨,female,young,high,high,high,high,high,home,159_40,315_234,negative,sadness,question,他2个速冻饺子不成
+30,30_192,30_192_006,诺澜,female,young,low,low,high,high,high,outdoor,358_42,558_305,negative,sadness,statement-opinion,如果你接受不了
+27,27_082,27_082_009,吕子乔,male,young,low,high,high,high,low,home,0_0,0_0,negative,sadness,other,美嘉
+30,30_097,30_097_002,陈美嘉,female,young,high,high,low,high,low,home,0_0,0_0,negative,sadness,question,为什么不呢
+30,30_032,30_032_003,陈美嘉,female,young,high,high,low,high,low,home,398_14,592_271,negative,sadness,statement-opinion,我也不知道 悠悠能答应我
+28,28_028,28_028_011,曾小贤,male,young,high,high,low,high,low,home,246_28,399_241,negative,sadness,statement-opinion,奖金也泡汤了
+28,28_269,28_269_004,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,359_19,529_241,negative,sadness,statement-non-opinion,我妈去年刚过世
+35,35_019,35_019_011,刘梅,female,middle-aged,high,high,low,high,high,home,0_0,0_0,negative,sadness,statement-non-opinion,因为我爸妈反对 我光顾着对抗家长了
+37,37_092,37_092_001,刘梅,female,middle-aged,high,high,low,high,high,home,418_69,558_278,negative,sadness,question,你知道吗
+28,28_126,28_126_001,张伟,male,young,low,low,low,high,high,home,503_12,621_157,negative,sadness,statement-non-opinion,可是我要找个地方写信
+27,27_094,27_094_017,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,598_66,774_336,negative,sadness,statement-opinion,姑姑觉得很孤单
+37,37_130,37_130_002,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,outdoor,228_44,349_217,negative,sadness,statement-non-opinion,咱俩互相同情
+28,28_017,28_017_000,吕子乔,male,young,low,high,high,high,low,home,374_19,595_298,negative,sadness,statement-opinion,我知道你还在跟我赌气求求你
+29,29_271,29_271_000,林宛瑜,female,young,low,high,high,high,high,home,227_42,457_305,negative,sadness,question,别逼我好吗
+30,30_027,30_027_011,诺澜,female,young,low,low,high,high,high,home,170_52,372_322,negative,sadness,statement-opinion,在你心里一菲才是最重要的
+34,34_166,34_166_011,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,571_107,650_194,negative,sadness,statement-non-opinion,你说你们这么一整 给我整得挺寒心的
+27,27_053,27_053_007,关谷神奇,male,young,high,low,high,high,high,home,517_42,687_219,negative,sadness,statement-non-opinion,但是发行上觉得不够商业化
+28,28_148,28_148_003,秦羽墨,female,young,high,high,high,high,high,home,242_87,322_187,negative,sadness,statement-non-opinion,第一颗钻戒莫名失踪
+29,29_140,29_140_002,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,school,0_0,0_0,negative,sadness,statement-non-opinion,我本来以为至少能考到90分的
+36,36_150,36_150_011,刘梅,female,middle-aged,high,high,low,high,high,home,449_76,577_229,negative,sadness,statement-opinion,小雪我没想到你从心里这么看不起我
+37,37_033,37_033_000,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,0_0,0_0,negative,sadness,question,不是你干嘛去
+31,31_041,31_041_000,陈美嘉,female,young,high,high,low,high,low,restaurant,440_97,470_137,negative,sadness,statement-non-opinion,咖啡 酒精 糖分 都是我不能吃的
+28,28_127,28_127_000,张伟,male,young,low,low,low,high,high,home,512_25,633_163,negative,sadness,question,还记得我抽到那位小朋友的愿望清单吗
+28,28_147,28_147_006,秦羽墨,female,young,high,high,high,high,high,home,191_43,359_248,negative,sadness,statement-non-opinion,我说你可以慢慢来
+30,30_097,30_097_003,陈美嘉,female,young,high,high,low,high,low,home,349_33,533_277,negative,sadness,statement-opinion,孩子是无辜的
+36,36_047,36_047_005,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,300_19,476_235,negative,sadness,statement-non-opinion,我们家大铁门都不敢锁
+28,28_173,28_173_001,张伟,male,young,low,low,low,high,high,home,264_15,397_179,negative,sadness,statement-non-opinion,一共就卖了这么点
+28,28_109,28_109_006,吕子乔,male,young,low,high,high,high,low,home,238_34,431_264,negative,sadness,statement-non-opinion,好吧 我错了 你数吧
+28,28_188,28_188_011,吕子乔,male,young,low,high,high,high,low,restaurant,150_41,295_197,negative,sadness,statement-opinion,一起喝盐汽水
+28,28_290,28_290_000,张伟,male,young,low,low,low,high,high,hospital,378_162,436_219,negative,sadness,statement-non-opinion,这龙虾有毒
+28,28_016,28_016_010,吕子乔,male,young,low,high,high,high,low,home,403_13,613_304,negative,sadness,statement-opinion,我天生就和他个性相反
+27,27_332,27_332_007,陈美嘉,female,young,high,high,low,high,low,home,220_39,404_242,negative,sadness,statement-opinion,明明就是 我一个人在家多寂寞呀
+36,36_081,36_081_005,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,0_0,0_0,negative,sadness,statement-opinion,小雪我硌了腰也总比去闻那个生人味要强啊
+30,30_140,30_140_002,吕子乔,male,young,low,high,high,high,low,hospital,0_0,0_0,negative,sadness,answer,还没
+27,27_126,27_126_013,丽萨,female,young,low,low,low,low,high,home,135_35,442_364,negative,sadness,statement-opinion,对不起 这都是我个人的事情
+28,28_016,28_016_012,吕子乔,male,young,low,high,high,high,low,home,427_21,675_319,negative,sadness,statement-opinion,所以我愿意用我的感情
+30,30_113,30_113_004,陈美嘉,female,young,high,high,low,high,low,restaurant,243_88,371_259,negative,sadness,question,谁要和你搭档了
+28,28_016,28_016_007,吕子乔,male,young,low,high,high,high,low,home,406_15,618_317,negative,sadness,statement-non-opinion,吕小布 没关系 很多人都把我们搞错了
+27,27_094,27_094_016,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,397_72,528_216,negative,sadness,statement-non-opinion,你们都不来看我
+28,28_268,28_268_014,关谷神奇,male,young,high,low,high,high,high,home,0_0,0_0,negative,sadness,statement-non-opinion,可是神居然说要去看春晚
+28,28_180,28_180_012,秦羽墨,female,young,high,high,high,high,high,home,466_39,664_269,negative,sadness,statement-opinion,我发誓我一定要做一个坚强的女人
+31,31_072,31_072_020,赵海棠,male,young,low,high,high,high,high,restaurant,439_54,509_133,negative,sadness,statement-opinion,喝两瓶酒 唱几首歌 哭一场就好了
+29,29_230,29_230_003,陆展博,male,young,high,low,high,high,high,entertainment-venue,194_11,449_262,negative,sadness,statement-non-opinion,不行
+28,28_227,28_227_006,唐悠悠,female,young,high,high,high,high,high,outdoor,210_8,471_289,negative,sadness,statement-non-opinion,他说我没啥特别的
+37,37_092,37_092_000,刘梅,female,middle-aged,high,high,low,high,high,home,0_0,0_0,negative,sadness,statement-non-opinion,刘星
+36,36_150,36_150_004,刘梅,female,middle-aged,high,high,low,high,high,home,385_68,504_215,negative,sadness,statement-opinion,我这个妈妈做的很失败
+29,29_067,29_067_003,陈美嘉,female,young,high,high,low,high,low,restaurant,167_148,295_294,negative,sadness,statement-non-opinion,我跟艾派德都分手了
+29,29_271,29_271_010,陆展博,male,young,high,low,high,high,high,home,481_40,668_276,negative,sadness,question,你愿意嫁给我吗
+28,28_146,28_146_002,秦羽墨,female,young,high,high,high,high,high,home,260_39,385_244,negative,sadness,question,你以为我想今天我去超市买东西
+28,28_017,28_017_002,吕子乔,male,young,low,high,high,high,low,home,0_0,0_0,negative,sadness,statement-opinion,我比你看上去要脆弱的多
+37,37_092,37_092_023,刘梅,female,middle-aged,high,high,low,high,high,home,451_38,597_228,negative,sadness,question,你猜妈信吗
+28,28_160,28_160_018,秦羽墨,female,young,high,high,high,high,high,home,416_25,634_317,negative,sadness,question,我到底做错了什么
+34,34_258,34_258_013,邓小可母亲,female,elderly,high,high,low,high,high,home,259_98,401_253,negative,sadness,statement-non-opinion,但是你理解 妈对你那片心哪 那是着急啊
+28,28_109,28_109_004,吕子乔,male,young,low,high,high,high,low,home,217_47,421_297,negative,sadness,question,你刚才为什么不早说
+30,30_142,30_142_001,陈美嘉,female,young,high,high,low,high,low,hospital,0_0,0_0,negative,sadness,statement-opinion,我了解你 我不想逼你 我知道你本质不坏 你只是会害怕
+29,29_144,29_144_000,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,school,433_28,662_267,negative,sadness,statement-non-opinion,反正我已经无所谓了
+31,31_041,31_041_001,陈美嘉,female,young,high,high,low,high,low,restaurant,221_53,309_165,negative,sadness,statement-non-opinion,我还是回去吃海洋球吧
+28,28_180,28_180_013,秦羽墨,female,young,high,high,high,high,high,home,0_0,0_0,negative,sadness,statement-opinion,下辈子
+34,34_166,34_166_016,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,332_120,476_272,negative,sadness,question,你说你至于吗
+30,30_141,30_141_002,吕子乔,male,young,low,high,high,high,low,hospital,0_0,0_0,negative,sadness,answer,我都记得
+28,28_268,28_268_008,关谷神奇,male,young,high,low,high,high,high,home,467_19,629_213,negative,sadness,statement-non-opinion,因为有一个叔叔可以知道他们心里的想法
+37,37_020,37_020_008,刘梅,female,middle-aged,high,high,low,high,high,home,235_23,465_319,negative,sadness,statement-opinion,不擦这钢琴也坏了
+30,30_140,30_140_003,陈美嘉,female,young,high,high,low,high,low,hospital,0_0,0_0,negative,sadness,statement-non-opinion,是个男孩
+29,29_229,29_229_007,陆展博,male,young,high,low,high,high,high,entertainment-venue,185_29,434_299,negative,sadness,statement-non-opinion,不行 展博 我还没想好
+28,28_016,28_016_009,吕子乔,male,young,low,high,high,high,low,home,420_21,641_323,negative,sadness,question,可是怎么办
+37,37_072,37_072_008,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,276_35,421_256,negative,sadness,statement-opinion,孩子也没教育好
+28,28_147,28_147_012,秦羽墨,female,young,high,high,high,high,high,home,139_19,318_264,negative,sadness,statement-non-opinion,原来手机里的短信和照片都不能删删干净
+28,28_131,28_131_008,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,251_34,435_262,negative,sadness,statement-non-opinion,我很能理解你为什么这么做
+28,28_016,28_016_005,吕子乔,male,young,low,high,high,high,low,home,0_0,0_0,negative,sadness,statement-non-opinion,我替他向你道歉
+29,29_254,29_254_008,陆展博,male,young,high,low,high,high,high,restaurant,187_21,380_226,negative,sadness,statement-non-opinion,完了
+27,27_480,27_480_000,曾小贤,male,young,high,high,low,high,low,entertainment-venue,260_41,413_230,negative,sadness,statement-non-opinion,我就是想吃蛋炒饭
+30,30_192,30_192_010,胡一菲,female,young,low,high,low,low,high,outdoor,163_44,239_126,negative,sadness,statement-opinion,却又井水不犯河水
+28,28_253,28_253_003,唐悠悠,female,young,high,high,high,high,high,entertainment-venue,223_29,424_260,negative,sadness,statement-opinion,我这是咎由自取
+28,28_016,28_016_013,吕子乔,male,young,low,high,high,high,low,home,400_14,636_317,negative,sadness,statement-opinion,包括肉体替他弥补一切
+28,28_180,28_180_010,秦羽墨,female,young,high,high,high,high,high,home,514_52,626_179,negative,sadness,apology,我应该坚强的
+27,27_127,27_127_016,吕子乔,male,young,low,high,high,high,low,home,170_46,363_346,negative,sadness,statement-non-opinion,每天晚上做梦我都在呼喊你的名字
+35,35_002,35_002_002,刘梅,female,middle-aged,high,high,low,high,high,home,233_99,425_275,negative,worried,statement-opinion,真的让我当三个孩子的妈
+28,28_241,28_241_005,吕子乔,male,young,low,high,high,high,low,entertainment-venue,217_30,309_146,negative,worried,statement-non-opinion,否则你很快就丧失功能了
+28,28_205,28_205_005,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,236_14,408_254,negative,worried,question,你能不能再说一遍
+35,35_006,35_006_002,刘梅,female,middle-aged,high,high,low,high,high,home,368_34,563_229,negative,worried,statement-non-opinion,就说我真心的欢迎她来 他来了
+35,35_181,35_181_007,夏东海,male,middle-aged,low,high,high,high,high,home,0_0,0_0,negative,worried,statement-non-opinion,就天天在家里都没用
+34,34_055,34_055_008,邓小可,female,young,low,high,high,high,high,home,0_0,0_0,negative,worried,question,怎么了
+29,29_231,29_231_001,苑春丽,female,middle-aged,high,high,low,high,high,home,554_39,663_142,negative,worried,question,成功了没有
+31,31_188,31_188_002,胡一菲,female,young,low,high,low,low,high,home,265_85,347_183,negative,worried,statement-opinion,不要被那些漂亮的皮囊所迷惑
+28,28_189,28_189_001,吕子乔,male,young,low,high,high,high,low,restaurant,190_31,429_307,negative,worried,statement-opinion,人们往往为了逃避一个错误而去犯另外一个错误
+35,35_150,35_150_005,夏东海,male,middle-aged,low,high,high,high,high,home,272_45,458_256,negative,worried,acknowledge,也是 不是领导不是歌星
+29,29_013,29_013_007,曾小贤,male,young,high,high,low,high,low,home,440_74,600_266,negative,worried,question,你忘记你之前说过的那些话吗
+34,34_357,34_357_012,郑海潮,male,young,low,high,high,high,high,outdoor,248_111,380_287,negative,worried,question,怎么了
+30,30_180,30_180_000,唐悠悠,female,young,high,high,high,high,high,home,321_120,363_176,negative,worried,question,我们的婚礼你不会真的不邀请你爸妈参加吧
+30,30_227,30_227_010,曾小贤,male,young,high,high,low,high,low,entertainment-venue,366_21,594_315,negative,worried,question,是巧合吧
+31,31_165,31_165_004,张伟,male,young,low,low,low,high,high,home,291_100,327_139,negative,worried,statement-opinion,应该不会吧
+35,35_198,35_198_000,夏东海,male,middle-aged,low,high,high,high,high,home,312_48,528_273,negative,worried,question,你现在还恨你妈吗
+35,35_033,35_033_006,夏东海,male,middle-aged,low,high,high,high,high,home,356_32,521_219,negative,worried,statement-opinion,我觉得一会儿把那个照片收起来
+37,37_220,37_220_006,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,209_41,380_282,negative,worried,other,对了
+34,34_294,34_294_003,邓小可,female,young,low,high,high,high,high,home,379_118,436_186,negative,worried,question,走啦
+35,35_039,35_039_001,刘梅,female,middle-aged,high,high,low,high,high,home,262_76,354_169,negative,worried,statement-non-opinion,咱们俩都不在
+28,28_272,28_272_010,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,0_0,0_0,negative,worried,statement-opinion,五块
+29,29_065,29_065_004,胡一菲,female,young,low,high,low,low,high,home,270_18,430_199,negative,worried,statement-non-opinion,我就是不想让美嘉跟艾派德走
+34,34_259,34_259_007,邓小可,female,young,low,high,high,high,high,home,0_0,0_0,negative,worried,other,妈
+37,37_226,37_226_002,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,253_44,429_279,negative,worried,statement-opinion,可怜的孩子
+37,37_194,37_194_007,刘梅,female,middle-aged,high,high,low,high,high,home,259_28,421_246,negative,worried,statement-opinion,第二
+30,30_170,30_170_013,胡一菲,female,young,low,high,low,low,high,home,388_20,509_176,negative,worried,statement-non-opinion,既然上天安排我们听到
+28,28_186,28_186_001,张伟,male,young,low,low,low,high,high,entertainment-venue,194_13,365_259,negative,worried,statement-non-opinion,他发现自己喜欢的男人结了婚
+36,36_083,36_083_001,戴天高,male,middle-aged,low,high,high,high,high,home,350_17,534_215,negative,worried,statement-opinion,我跟你说我现在急的都不知道怎么着好了
+29,29_232,29_232_010,苑春丽,female,middle-aged,high,high,low,high,high,home,379_64,608_302,negative,worried,statement-non-opinion,展博不回来我睡不着
+31,31_219,31_219_014,胡一菲,female,young,low,high,low,low,high,other-venue,312_100,358_159,negative,worried,statement-opinion,你们还真是学习型情侣
+27,27_283,27_283_000,吕子乔,male,young,low,high,high,high,low,entertainment-venue,127_69,248_228,negative,worried,question,展博干嘛呢
+34,34_092,34_092_000,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,457_155,513_220,negative,worried,statement-non-opinion,又冷清又没有朋友 成天在家呆着
+36,36_082,36_082_002,戴天高,male,middle-aged,low,high,high,high,high,home,458_12,568_127,negative,worried,statement-opinion,我这正盼着你来快坐坐
+35,35_055,35_055_002,刘梅,female,middle-aged,high,high,low,high,high,home,490_132,623_291,negative,worried,question,你快说老师都说刘星什么了
+35,35_069,35_069_014,夏东海,male,middle-aged,low,high,high,high,high,home,398_49,606_306,negative,worried,statement-opinion,就是不知道你能坚持多长时间
+35,35_181,35_181_008,夏东海,male,middle-aged,low,high,high,high,high,home,259_19,431_234,negative,worried,statement-non-opinion,另外咱还有三个孩子
+30,30_150,30_150_007,丽萨,female,young,low,low,low,low,high,office,0_0,0_0,negative,worried,statement-non-opinion,等你回来
+31,31_150,31_150_000,吕子乔,male,young,low,high,high,high,low,sports-venue,242_64,310_161,negative,worried,statement-non-opinion,可就我那几招 在健身房忽悠傻白甜还行
+30,30_205,30_205_004,唐悠悠,female,young,high,high,high,high,high,home,0_0,0_0,negative,worried,question,插几期
+34,34_125,34_125_014,邓小可母亲,female,elderly,high,high,low,high,high,home,226_113,391_304,negative,worried,statement-non-opinion,对对对 她说了 给你
+27,27_245,27_245_001,胡一菲,female,young,low,high,low,low,high,home,212_36,369_186,negative,worried,question,展博 不开心
+28,28_181,28_181_002,吕子乔,male,young,low,high,high,high,low,home,0_0,0_0,negative,worried,statement-opinion,没错
+27,27_278,27_278_011,胡一菲,female,young,low,high,low,low,high,entertainment-venue,476_42,665_225,negative,worried,question,到时候怎么跟爸妈交代啊
+29,29_227,29_227_006,胡一菲,female,young,low,high,low,low,high,home,125_31,249_188,negative,worried,statement-non-opinion,你等着 我用飞的
+30,30_050,30_050_002,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,entertainment-venue,0_0,0_0,negative,worried,question,你确定他做过血检吗
+37,37_083,37_083_011,刘梅,female,middle-aged,high,high,low,high,high,home,332_39,501_272,negative,worried,statement-opinion,睡了吧也不长个儿也不长肉
+28,28_151,28_151_001,张伟,male,young,low,low,low,high,high,restaurant,147_20,255_148,negative,worried,answer,差不多了
+28,28_053,28_053_008,关谷神奇,male,young,high,low,high,high,high,home,398_39,554_219,negative,worried,statement-opinion,如果你生病了
+34,34_091,34_091_007,邓小可母亲,female,elderly,high,high,low,high,high,restaurant,0_0,0_0,negative,worried,statement-non-opinion,你说你真行 一句英文都不会
+37,37_194,37_194_008,刘梅,female,middle-aged,high,high,low,high,high,home,291_38,449_270,negative,worried,statement-opinion,被学生们簇拥着走进课堂
+27,27_349,27_349_005,丽萨,female,young,low,low,low,low,high,office,366_38,542_220,negative,worried,statement-non-opinion,今天是直播
+28,28_252,28_252_005,胡一菲,female,young,low,high,low,low,high,entertainment-venue,380_19,573_240,negative,worried,statement-non-opinion,要出事的
+27,27_244,27_244_006,陆展博,female,young,high,low,high,high,high,home,156_38,364_285,negative,worried,statement-non-opinion,如果你不喜欢
+28,28_226,28_226_003,唐悠悠,female,young,high,high,high,high,high,outdoor,502_26,575_129,negative,worried,question,声死恋了
+37,37_188,37_188_003,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,0_0,0_0,negative,worried,statement-non-opinion,哎刘星 你那车我给送车库去了
+36,36_056,36_056_002,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,456_43,552_157,negative,worried,statement-opinion,你可得管管他
+28,28_205,28_205_004,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,restaurant,242_17,418_266,negative,worried,apology,不好意思
+37,37_203,37_203_005,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,home,407_49,487_147,negative,worried,statement-opinion,刘姐你先在我们家待着
+29,29_090,29_090_008,曾小贤,male,young,high,high,low,high,low,entertainment-venue,0_0,0_0,negative,worried,answer,现在不是时候啊
+37,37_009,37_009_013,刘梅,female,middle-aged,high,high,low,high,high,home,432_42,567_229,negative,worried,statement-non-opinion,钢琴挺贵
+29,29_429,29_429_004,陈美嘉,female,young,high,high,low,high,low,home,0_0,0_0,negative,worried,statement-non-opinion,这才是你嘛
+35,35_221,35_221_004,夏东海,male,middle-aged,low,high,high,high,high,home,0_0,0_0,negative,worried,question,夫人 
+28,28_192,28_192_006,唐悠悠,female,young,high,high,high,high,high,home,0_0,0_0,negative,worried,question,羽墨 你什么变成宅女了
+29,29_233,29_233_000,苑春丽,female,middle-aged,high,high,low,high,high,home,475_3,555_40,negative,worried,question,你说婉瑜和展博为什么还没回来
+35,35_047,35_047_014,夏东海,male,middle-aged,low,high,high,high,high,home,244_29,416_252,negative,worried,statement-non-opinion,你突然成了我的儿子
+37,37_183,37_183_005,夏雨,male,teenager,high,low,high,high,low,home,264_50,450_294,negative,worried,question,哪你想不想从第三升到第二
+37,37_141,37_141_006,夏东海,male,middle-aged,low,high,high,high,high,outdoor,214_34,384_260,negative,worried,statement-non-opinion,不是梅梅你听我说
+37,37_130,37_130_016,其他,unknown,unknown,unknown,unknown,unknown,unknown,unknown,outdoor,0_0,0_0,negative,worried,statement-opinion,刘星就更不用说了
+34,34_286,34_286_002,郑海潮,male,young,low,high,high,high,high,restaurant,47_39,228_234,negative,worried,statement-non-opinion,想请你看芭蕾舞吧 也是为了创造一个良好的气氛给你道歉
+30,30_185,30_185_006,吕子乔,male,young,low,high,high,high,low,entertainment-venue,462_53,619_272,negative,worried,statement-opinion,为师仔细想了一下
+28,28_053,28_053_006,关谷神奇,male,young,high,low,high,high,high,home,398_32,566_243,negative,worried,question,可你为什么要让自己生病呢
+37,37_104,37_104_004,刘星,male,teenager,high,high,high,high,low,home,244_50,447_324,negative,worried,question,我跟你说话之前我说到什么了
+37,37_041,37_041_005,夏东海,male,middle-aged,low,high,high,high,high,home,416_46,539_214,negative,worried,question,咱慢慢来行吗
+37,37_081,37_081_003,夏东海,male,middle-aged,low,high,high,high,high,home,343_42,521_252,negative,worried,statement-opinion,我还真有点不放心
+29,29_234,29_234_002,苑春丽,female,middle-aged,high,high,low,high,high,home,432_30,672_238,negative,worried,statement-non-opinion,一菲 我刚才在展播房里看到 那个什么 他没带啊
+36,36_130,36_130_002,刘梅,female,middle-aged,high,high,low,high,high,home,0_0,0_0,negative,worried,question,你干嘛
