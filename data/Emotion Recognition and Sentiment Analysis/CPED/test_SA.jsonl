@@ -1,0 +1,2000 @@
+{"input": "好了没事了", "target": "neutral"}
+{"input": "谢谢你哦", "target": "neutral"}
+{"input": "没关系", "target": "negative"}
+{"input": "喂", "target": "negative"}
+{"input": "没事吧", "target": "negative"}
+{"input": "借你这儿躲一下", "target": "negative"}
+{"input": "不至于吧", "target": "negative"}
+{"input": "你踩着我的脚了", "target": "negative"}
+{"input": "不好意思", "target": "negative"}
+{"input": "没关系", "target": "neutral"}
+{"input": "谢谢你", "target": "positive"}
+{"input": "刚才那些坏人是谁", "target": "neutral"}
+{"input": "他们是坏人 很坏的人", "target": "neutral"}
+{"input": "叫我宛瑜吧", "target": "neutral"}
+{"input": "我叫展博", "target": "neutral"}
+{"input": "我们算认识了", "target": "neutral"}
+{"input": "你是来出差的吗", "target": "neutral"}
+{"input": "我刚从国外留学回来", "target": "neutral"}
+{"input": "学什么呀", "target": "neutral"}
+{"input": "计算机", "target": "neutral"}
+{"input": "我从小就在那念书", "target": "neutral"}
+{"input": "好久没回来了", "target": "neutral"}
+{"input": "你呢", "target": "neutral"}
+{"input": "我是来寻宝的", "target": "positive"}
+{"input": "寻宝", "target": "negative"}
+{"input": "我要找一个地方名字叫做爱情公寓", "target": "positive"}
+{"input": "爱情公寓", "target": "negative"}
+{"input": "对", "target": "positive"}
+{"input": "你知道啊", "target": "positive"}
+{"input": "从没听说过", "target": "neutral"}
+{"input": "你的藏宝图呢", "target": "negative"}
+{"input": "什么图", "target": "negative"}
+{"input": "你都说了是寻宝了", "target": "neutral"}
+{"input": "一定有藏宝图", "target": "neutral"}
+{"input": "我只带了这个", "target": "neutral"}
+{"input": "我说是藏宝图", "target": "neutral"}
+{"input": "你给我地图", "target": "negative"}
+{"input": "这还是张世界地图", "target": "negative"}
+{"input": "我要有藏宝图的话", "target": "negative"}
+{"input": "还用找 直接坐计程车去不就好了", "target": "negative"}
+{"input": "你可以找我姐姐", "target": "neutral"}
+{"input": "她这人超热心", "target": "neutral"}
+{"input": "说不定能帮上你", "target": "positive"}
+{"input": "真的吗", "target": "positive"}
+{"input": "我姐姐是大学老师", "target": "neutral"}
+{"input": "本来她应该今天来接我的", "target": "neutral"}
+{"input": "可听说她要做一场什么婚礼的总导演", "target": "negative"}
+{"input": "我就只能自己坐车过去", "target": "negative"}
+{"input": "导演", "target": "positive"}
+{"input": "那她一定很厉害吧", "target": "positive"}
+{"input": "我也好久没见她了", "target": "neutral"}
+{"input": "在我的印象里", "target": "neutral"}
+{"input": "记忆最深刻的就是她的眼睛明亮、睿智", "target": "neutral"}
+{"input": "还有他的手纤细温暖", "target": "neutral"}
+{"input": "我猜她现在一定比几年前更优雅一点", "target": "neutral"}
+{"input": "人们都亲切的用8个字来形容她", "target": "neutral"}
+{"input": "静若处子", "target": "neutral"}
+{"input": "动若疯兔", "target": "neutral"}
+{"input": "您好", "target": "neutral"}
+{"input": "曾老师吗", "target": "positive"}
+{"input": "好男人就是我", "target": "positive"}
+{"input": "我就是曾小贤", "target": "positive"}
+{"input": "我听了你的故事很感动", "target": "positive"}
+{"input": "可是你说的那人运气也忒好了点", "target": "negative"}
+{"input": "千万别这么说", "target": "positive"}
+{"input": "爱情就是这样", "target": "neutral"}
+{"input": "当你不知不觉的时候", "target": "neutral"}
+{"input": "他就来到了你的身边", "target": "neutral"}
+{"input": "可我总是时运不济怎么办", "target": "negative"}
+{"input": "这位听众", "target": "neutral"}
+{"input": "没有一个人会永远走运", "target": "neutral"}
+{"input": "也没有一个人会永远走背运", "target": "neutral"}
+{"input": "只要你坚定", "target": "neutral"}
+{"input": "你是不知道啊", "target": "negative"}
+{"input": "吃馄饨", "target": "negative"}
+{"input": "吃出樟脑丸", "target": "negative"}
+{"input": "打苍蝇手拍在钉子上去", "target": "negative"}
+{"input": "去青松观烧烧香", "target": "negative"}
+{"input": "手机掉到功德箱里拿不出来了", "target": "negative"}
+{"input": "这还不算啥", "target": "negative"}
+{"input": "刚才我听了你的故事", "target": "negative"}
+{"input": "我就想知道我隔壁住的是不是就是我的另一半", "target": "negative"}
+{"input": "很好", "target": "negative"}
+{"input": "勇敢的迈出第一步", "target": "neutral"}
+{"input": "你就会发现你会有意想不到的收获", "target": "neutral"}
+{"input": "所以我刚才在那面墙上打了个洞", "target": "negative"}
+{"input": "你猜我后来看到了谁", "target": "negative"}
+{"input": "你的另一半", "target": "neutral"}
+{"input": "看到了物业和保安", "target": "negative"}
+{"input": "这位听众", "target": "negative"}
+{"input": "当你在打穿那堵墙之前", "target": "negative"}
+{"input": "你应该先确认一下他是不是一堵承重墙", "target": "negative"}
+{"input": "不是你说让我砸墙了吗", "target": "negative"}
+{"input": "不早说他们现在要罚我的钱了怎么办", "target": "negative"}
+{"input": "你听得见吗", "target": "negative"}
+{"input": "先生您好", "target": "neutral"}
+{"input": "先生您好", "target": "negative"}
+{"input": "你好", "target": "negative"}
+{"input": "您的礼金呢", "target": "negative"}
+{"input": "我差点忘了", "target": "negative"}
+{"input": "这是什么", "target": "negative"}
+{"input": "礼金又怎么能表达我对两位新人的祝福", "target": "neutral"}
+{"input": "再说了人人都送礼金", "target": "neutral"}
+{"input": "太俗了", "target": "neutral"}
+{"input": "我这个礼物可是时下最高新科技的结晶", "target": "neutral"}
+{"input": "乔氏神功丸", "target": "neutral"}
+{"input": "保健品", "target": "neutral"}
+{"input": "你错了", "target": "neutral"}
+{"input": "它是由澳大利亚最上层的天然原材料提炼而成", "target": "positive"}
+{"input": "运用了纳米技术", "target": "positive"}
+{"input": "高温冷提取技术", "target": "positive"}
+{"input": "还有克隆技术", "target": "positive"}
+{"input": "每一颗圣神功丸都富含人体所需的营养元素", "target": "positive"}
+{"input": "这么好", "target": "negative"}
+{"input": "他有什么用处的", "target": "negative"}
+{"input": "准确来说", "target": "positive"}
+{"input": "它是一个可以激发人类美好生活向往的床上用品", "target": "positive"}
+{"input": "床上用品", "target": "negative"}
+{"input": "价格公道", "target": "positive"}
+{"input": "破盘价只卖998", "target": "positive"}
+{"input": "今天大喜日子我就只收你500了", "target": "positive"}
+{"input": "剩下的就当我的礼金了", "target": "positive"}
+{"input": "礼物我放这了", "target": "positive"}
+{"input": "找零", "target": "positive"}
+{"input": "我自己拿咯", "target": "positive"}
+{"input": "哪来这么大榔头", "target": "negative"}
+{"input": "你这个流氓 再捣乱我就喊人了", "target": "negative"}
+{"input": "飞碟", "target": "negative"}
+{"input": "胡一菲同志我有话想跟你说", "target": "negative"}
+{"input": "快点说", "target": "neutral"}
+{"input": "没看我这正忙着吗", "target": "neutral"}
+{"input": "我希望你在指挥的时候能不能有一点团队意识", "target": "negative"}
+{"input": "我不明白你的意思", "target": "negative"}
+{"input": "我的团队很好", "target": "neutral"}
+{"input": "有条不紊的", "target": "neutral"}
+{"input": "我指的团队是指参加策划组织这次婚礼的其他成员", "target": "negative"}
+{"input": "比如说", "target": "neutral"}
+{"input": "比如说我", "target": "negative"}
+{"input": "噢 你是主持的", "target": "neutral"}
+{"input": "等我这边忙完了会来找你开会的", "target": "neutral"}
+{"input": "我想强调一下", "target": "negative"}
+{"input": "我是主持人", "target": "negative"}
+{"input": "不是报幕员", "target": "negative"}
+{"input": "有区别吗", "target": "neutral"}
+{"input": "当然有区别", "target": "negative"}
+{"input": "我想新郎委派我来当主持人", "target": "positive"}
+{"input": "是希望由我来控制整个婚礼的现场流程", "target": "positive"}
+{"input": "我想新娘委派我来担当这次婚礼的总导演", "target": "positive"}
+{"input": "是希望我来掌控现场的所有事情", "target": "positive"}
+{"input": "包括主持人", "target": "positive"}
+{"input": "好 好", "target": "negative"}
+{"input": "你既然已经看过了我的演讲稿和我的计划安排", "target": "negative"}
+{"input": "为什么你还", "target": "negative"}
+{"input": "你还没有看过对不对", "target": "negative"}
+{"input": "谁说我没看过", "target": "negative"}
+{"input": "我只是觉得你的那套不是很合适这场婚礼", "target": "negative"}
+{"input": "哪个奇怪大叔写的旧社会婚礼方案 解放这么多年了", "target": "positive"}
+{"input": "不能用的", "target": "positive"}
+{"input": "再怎么奇怪", "target": "negative"}
+{"input": "也比你变态大妈的计划要好吧", "target": "negative"}
+{"input": "我怎么看你都想把婚礼办成一个动物狂欢节", "target": "negative"}
+{"input": "等有空了我再听你叫唤", "target": "negative"}
+{"input": "站住", "target": "negative"}
+{"input": "新郎是我朝夕相处的室友", "target": "neutral"}
+{"input": "我希望给他一个完美的没有遗憾的婚礼", "target": "neutral"}
+{"input": "新娘", "target": "positive"}
+{"input": "可是我大学就在一起的闺中姐妹", "target": "positive"}
+{"input": "我不允许她的婚礼一板一眼", "target": "negative"}
+{"input": "毫无特色", "target": "negative"}
+{"input": "这就是你所谓的特色", "target": "negative"}
+{"input": "你说你弄那么多假洋鬼子来干嘛", "target": "negative"}
+{"input": "新郎新娘又不是外国人", "target": "negative"}
+{"input": "搞不清楚的还以为要嫁到墨西哥去", "target": "negative"}
+{"input": "这样子我说我要是弄点这企鹅过来", "target": "negative"}
+{"input": "新娘还得嫁到南极", "target": "negative"}
+{"input": "是不是", "target": "negative"}
+{"input": "你的方案好 一拜天 二拜地", "target": "negative"}
+{"input": "你这是结婚还是上坟对吧", "target": "negative"}
+{"input": "中国传统 天经地义", "target": "negative"}
+{"input": "不好意思", "target": "positive"}
+{"input": "传统我已经改成西式的", "target": "positive"}
+{"input": "我请了圣母安福会的神父", "target": "positive"}
+{"input": "一定会有一个圣洁的仪式的", "target": "positive"}
+{"input": "那就是不用我主持了", "target": "negative"}
+{"input": "这怎么行 热场节目的时候你可以报幕嘛", "target": "positive"}
+{"input": "作为导演", "target": "negative"}
+{"input": "你应该考虑到每一个来宾的感受", "target": "negative"}
+{"input": "来宾都是我请的", "target": "positive"}
+{"input": "我也有请 我在节目里都做了广告了", "target": "negative"}
+{"input": "我最好的朋友要结婚", "target": "positive"}
+{"input": "会有很多我的粉丝来捧我的", "target": "positive"}
+{"input": "人家的粉丝名字多好听", "target": "positive"}
+{"input": "什么玉米凉粉的", "target": "positive"}
+{"input": "偏偏有个人的粉丝叫咸菜", "target": "negative"}
+{"input": "怎么听着都觉得让人寒酸的想掉眼泪", "target": "negative"}
+{"input": "他们一定会支持我的", "target": "negative"}
+{"input": "那你就走着瞧", "target": "negative"}
+{"input": "年纪大了", "target": "negative"}
+{"input": "肠胃不好", "target": "negative"}
+{"input": "我父亲也有这样的毛病", "target": "neutral"}
+{"input": "肠胃缺乏有机调理", "target": "neutral"}
+{"input": "导致消化功能紊乱", "target": "neutral"}
+{"input": "再加上现在地球自转越来越慢", "target": "neutral"}
+{"input": "引力越来越小", "target": "neutral"}
+{"input": "不容易啊", "target": "neutral"}
+{"input": "您是神父吧", "target": "neutral"}
+{"input": "是啊", "target": "negative"}
+{"input": "都请我主持婚礼", "target": "negative"}
+{"input": "把我这肠胃都吃坏了", "target": "negative"}
+{"input": "要不你可以试试美国最新研制的肠胃", "target": "positive"}
+{"input": "保健品 一颗就见效", "target": "positive"}
+{"input": "由澳大利亚最上乘的天然原材料制成", "target": "positive"}
+{"input": "是吗", "target": "positive"}
+{"input": "太好了", "target": "positive"}
+{"input": "给我一颗", "target": "positive"}
+{"input": "一颗只卖380", "target": "positive"}
+{"input": "颗颗精品立竿见影", "target": "positive"}
+{"input": "您真是识货", "target": "positive"}
+{"input": "如果你感兴趣的话可以推荐给你的亲朋好友", "target": "positive"}
+{"input": "我将返你8%的提成", "target": "positive"}
+{"input": "这药不但可以保护肠胃", "target": "neutral"}
+{"input": "还可以润肠通便", "target": "neutral"}
+{"input": "你说什么", "target": "negative"}
+{"input": "没事吧", "target": "negative"}
+{"input": "被你害死了", "target": "negative"}
+{"input": "有吗", "target": "negative"}
+{"input": "神父 长者 大师", "target": "negative"}
+{"input": "神父你的讲稿呢", "target": "neutral"}
+{"input": "什么讲稿", "target": "neutral"}
+{"input": "就是主持新郎新娘说 你愿意啊 我愿意 白头到老不分离的讲稿", "target": "neutral"}
+{"input": "我电视上有看过", "target": "positive"}
+{"input": "电视上", "target": "negative"}
+{"input": "我是说我主持过很多次了", "target": "positive"}
+{"input": "电视台有过来拍过", "target": "positive"}
+{"input": "ok 不过这次我们要改一改", "target": "positive"}
+{"input": "没问题", "target": "positive"}
+{"input": "怎么改", "target": "positive"}
+{"input": "用英语说", "target": "positive"}
+{"input": "新娘从小是在英国长大的", "target": "neutral"}
+{"input": "他希望有一个原汁原味的西式婚礼", "target": "neutral"}
+{"input": "所以我才专程找你呀", "target": "positive"}
+{"input": "圣母安福会的神父最正宗", "target": "positive"}
+{"input": "我在你们那听过礼拜", "target": "neutral"}
+{"input": "你好像是新来的", "target": "neutral"}
+{"input": "其实 其实你误会了", "target": "negative"}
+{"input": "结束之后去领你的红包", "target": "neutral"}
+{"input": "我都安排好了", "target": "neutral"}
+{"input": "你刚刚说什么误会了", "target": "neutral"}
+{"input": "没有", "target": "negative"}
+{"input": "我是说没问题", "target": "positive"}
+{"input": "No problem", "target": "positive"}
+{"input": "OK", "target": "positive"}
+{"input": "陈美嘉", "target": "negative"}
+{"input": "怎么会是你", "target": "negative"}
+{"input": "这好像应该是我的台词", "target": "negative"}
+{"input": "你玩cosplay啊", "target": "negative"}
+{"input": "我是今天的神父", "target": "neutral"}
+{"input": "神父 神经吧你 你什么时候信教", "target": "negative"}
+{"input": "你不是韩国人吗", "target": "negative"}
+{"input": "我现在的追求已经不一样", "target": "neutral"}
+{"input": "所以别人今天是特地请我来的", "target": "positive"}
+{"input": "你混到这来干嘛", "target": "neutral"}
+{"input": "你管得着吗你", "target": "negative"}
+{"input": "我是新娘的朋友", "target": "negative"}
+{"input": "说新娘叫什么名字", "target": "neutral"}
+{"input": "叫 我就不信你知道", "target": "negative"}
+{"input": "哼哼就知道你又是来骗吃骗喝的", "target": "positive"}
+{"input": "你想怎么样", "target": "negative"}
+{"input": "我今天可是带男朋友来的", "target": "negative"}
+{"input": "我好怕怕啊", "target": "positive"}
+{"input": "你男朋友在哪把他拉出来", "target": "positive"}
+{"input": "我给他好好超度超度", "target": "positive"}
+{"input": "他去厕所了 我这就找他过来", "target": "negative"}
+{"input": "厕所在那边 得了吧", "target": "positive"}
+{"input": "我刚从厕所出来的", "target": "neutral"}
+{"input": "里面就花甲老爷爷一名", "target": "neutral"}
+{"input": "你男人应该不是撇下你跑了吧", "target": "positive"}
+{"input": "你以为全天下男人都跟你一样 花心大萝卜 撇掉了大美女 自个儿跑", "target": "negative"}
+{"input": "我那个时候是为了你好", "target": "neutral"}
+{"input": "大美女 整个一红颜祸水", "target": "negative"}
+{"input": "慢着 红颜还算不上", "target": "negative"}
+{"input": "整个一祸水", "target": "negative"}
+{"input": "你怎么就不学人家吴三桂", "target": "negative"}
+{"input": "做男人要懂得忍辱负重", "target": "negative"}
+{"input": "那要看对谁了", "target": "neutral"}
+{"input": "人家可是陈圆圆", "target": "neutral"}
+{"input": "有什么了不起的", "target": "negative"}
+{"input": "我也姓陈", "target": "negative"}
+{"input": "人家陈圆圆 你 陈扁扁 ", "target": "neutral"}
+{"input": "你 吕子乔", "target": "negative"}
+{"input": "正是在下 怎么地", "target": "neutral"}
+{"input": "你这件大褂也是坑来的吧", "target": "negative"}
+{"input": "怎么会", "target": "neutral"}
+{"input": "领子上写着汤姆森克鲁斯 哪偷的", "target": "negative"}
+{"input": "好啊你", "target": "positive"}
+{"input": "我顶多吃两个蛋糕当游客", "target": "negative"}
+{"input": "你乔装打扮居心叵测", "target": "negative"}
+{"input": "完全可以定义为恐怖分子", "target": "negative"}
+{"input": "好好好", "target": "negative"}
+{"input": "都是为了求财嘛", "target": "negative"}
+{"input": "何必两败俱伤呢", "target": "negative"}
+{"input": "大路朝天各走一边", "target": "negative"}
+{"input": "我们井水不犯河水好不好", "target": "negative"}
+{"input": "3 1", "target": "negative"}
+{"input": "再数也没用", "target": "negative"}
+{"input": "还能多出一张来", "target": "negative"}
+{"input": "没听说过一句老话", "target": "neutral"}
+{"input": "只知道数钱的人", "target": "neutral"}
+{"input": "最终无钱可数", "target": "neutral"}
+{"input": "你不说话你嘴巴长溃疡啊", "target": "negative"}
+{"input": "我倒是听过另外一句话", "target": "neutral"}
+{"input": "是我的总是我 不是我的还是我的", "target": "positive"}
+{"input": "那你就整天跑到人家婚礼上推销什么", "target": "negative"}
+{"input": "神功丸 追求巅峰", "target": "negative"}
+{"input": "感受缔造幸福人生", "target": "negative"}
+{"input": "本小姐只在希望你面对现实", "target": "neutral"}
+{"input": "要不是当年你对我的拖累", "target": "negative"}
+{"input": "我的现实要比现在宏大1000倍1万倍", "target": "negative"}
+{"input": "你以为你是谁啊", "target": "negative"}
+{"input": "我是谁", "target": "positive"}
+{"input": "算命的说过", "target": "positive"}
+{"input": "我有少爷的命", "target": "positive"}
+{"input": "吕少爷 我猜你要多给那算命瞎子一点钱", "target": "positive"}
+{"input": "他肯定说你有老爷的命", "target": "positive"}
+{"input": "谁说算命的一定是瞎子", "target": "negative"}
+{"input": "那他干嘛睁着眼说瞎话", "target": "positive"}
+{"input": "你才说瞎话呢", "target": "negative"}
+{"input": "他明明是个哑巴", "target": "negative"}
+{"input": "少爷这俩字是你那算命哑巴 在阿巴的时候", "target": "negative"}
+{"input": "你自己遐想出来的吧", "target": "negative"}
+{"input": "你懂什么 算命是可以写的", "target": "negative"}
+{"input": "他有没有写你6岁就家道中落了啊", "target": "positive"}
+{"input": "我看你是少爷的身子", "target": "positive"}
+{"input": "跑堂的命", "target": "positive"}
+{"input": "陈美嘉", "target": "negative"}
+{"input": "本少爷正式通知你下星期要交房租了", "target": "negative"}
+{"input": "你的那份呢", "target": "negative"}
+{"input": "我早就准备好了", "target": "positive"}
+{"input": "Give me", "target": "neutral"}
+{"input": "拿走 这都什么", "target": "negative"}
+{"input": "干嘛啊 没见过人民币啊", "target": "negative"}
+{"input": "这些连零头都不够交的", "target": "negative"}
+{"input": "我们不是房租减半", "target": "neutral"}
+{"input": "水电全免吗", "target": "neutral"}
+{"input": "小姐", "target": "negative"}
+{"input": "你脑袋是不是被门给挤了", "target": "negative"}
+{"input": "隔壁4个人一间", "target": "negative"}
+{"input": "我们2个人一间 减半是没错", "target": "negative"}
+{"input": "算下来还是要交一人份", "target": "negative"}
+{"input": "是吗", "target": "negative"}
+{"input": "一七得七 二七十四 三八妇女节五一劳动节", "target": "negative"}
+{"input": "六一 算下来你说的对噢", "target": "negative"}
+{"input": "对你个头啊", "target": "neutral"}
+{"input": "别怪我没提醒你", "target": "neutral"}
+{"input": "我的那份已经找到办法解决了", "target": "positive"}
+{"input": "你自己赶紧吧", "target": "neutral"}
+{"input": "我上哪去想办法啊", "target": "negative"}
+{"input": "这是我全部家当了", "target": "negative"}
+{"input": "成天只知道看漫画买洋娃娃", "target": "negative"}
+{"input": "本少爷旨在希望你面对现实", "target": "positive"}
+{"input": "你怎么能这样", "target": "negative"}
+{"input": "子乔", "target": "negative"}
+{"input": "我们是一对 经济问题应该由男人来解决", "target": "negative"}
+{"input": "打住打住 关起门来", "target": "negative"}
+{"input": "假冒归假冒", "target": "negative"}
+{"input": "井水不犯河水", "target": "negative"}
+{"input": "那现在井水", "target": "negative"}
+{"input": "有难了 国家还提出南水北调呢", "target": "negative"}
+{"input": "少来 经济问题就是原则问题", "target": "negative"}
+{"input": "那我就告诉大伙", "target": "negative"}
+{"input": "我说你欺负我", "target": "negative"}
+{"input": "虐待我", "target": "negative"}
+{"input": "还推卸男人责任", "target": "negative"}
+{"input": "泼妇你想敲诈是不是", "target": "negative"}
+{"input": "泼妇骂谁", "target": "negative"}
+{"input": "泼妇骂你", "target": "negative"}
+{"input": "知道自己时泼妇就好了", "target": "negative"}
+{"input": "我打你又怎么样", "target": "negative"}
+{"input": "你试试", "target": "negative"}
+{"input": "怕你", "target": "negative"}
+{"input": "你还敢打我", "target": "negative"}
+{"input": "你还来劲了是吧", "target": "negative"}
+{"input": "你再来一下试试", "target": "negative"}
+{"input": "怕你啊我", "target": "negative"}
+{"input": "子乔君", "target": "positive"}
+{"input": "你真是孔武有力", "target": "positive"}
+{"input": "臂力过人", "target": "positive"}
+{"input": "你真是男人中的男人", "target": "positive"}
+{"input": "吕布中的吕布", "target": "positive"}
+{"input": "你看这俊秀的脸", "target": "positive"}
+{"input": "我真的是没有办法说服自己的手离开你片刻", "target": "positive"}
+{"input": "我只希望塑两个泥人", "target": "positive"}
+{"input": "一个是你", "target": "positive"}
+{"input": "一个是我", "target": "positive"}
+{"input": "然后再将你我打碎", "target": "positive"}
+{"input": "用水调和", "target": "positive"}
+{"input": "永不分离", "target": "positive"}
+{"input": "美嘉妹妹 我也是这么想的", "target": "positive"}
+{"input": "我也舍不得放开你的手", "target": "positive"}
+{"input": "海可枯", "target": "positive"}
+{"input": "石可烂", "target": "positive"}
+{"input": "天可崩", "target": "positive"}
+{"input": "地可裂", "target": "positive"}
+{"input": "我们肩并着肩", "target": "positive"}
+{"input": "手牵着手", "target": "positive"}
+{"input": "你是我的情人呐", "target": "positive"}
+{"input": "像玫瑰花一样的女人", "target": "positive"}
+{"input": "用你那厚厚的大嘴唇啊", "target": "positive"}
+{"input": "姐你耍我", "target": "negative"}
+{"input": "我敲我的桌子", "target": "positive"}
+{"input": "你那么兴奋干嘛", "target": "positive"}
+{"input": "我出去可没见你这么主动", "target": "positive"}
+{"input": "你从小几根肚肠我还不知道", "target": "positive"}
+{"input": "大肠小肠一共两根", "target": "negative"}
+{"input": "最近你们两个挺热乎的嘛", "target": "positive"}
+{"input": "哪有", "target": "negative"}
+{"input": "三分 耶", "target": "positive"}
+{"input": "你干嘛", "target": "negative"}
+{"input": "吓我", "target": "negative"}
+{"input": "我没见你张开嘴接我的球", "target": "positive"}
+{"input": "我都观察好几天了", "target": "neutral"}
+{"input": "老实交代 是不是对人家有意思", "target": "positive"}
+{"input": "没有 只是有点共同爱好而已", "target": "positive"}
+{"input": "我们这是爱情公寓", "target": "negative"}
+{"input": "又不是单相思公寓", "target": "negative"}
+{"input": "拿出点勇敢和气魄 爱就爱 好就好", "target": "neutral"}
+{"input": "又没什么见不得人的", "target": "neutral"}
+{"input": "真的没什么", "target": "negative"}
+{"input": "我最讨厌口是心非的男人了", "target": "negative"}
+{"input": "喜欢就去追", "target": "positive"}
+{"input": "快刀斩乱麻", "target": "positive"}
+{"input": "生米煮成熟饭", "target": "positive"}
+{"input": "我们这样挺好的", "target": "negative"}
+{"input": "你们能发展发展就更好了", "target": "negative"}
+{"input": "不行的", "target": "negative"}
+{"input": "我从来都没有谈过恋爱的", "target": "negative"}
+{"input": "没谈过才要勇敢的迈出第一步", "target": "positive"}
+{"input": "有我在我会教你的", "target": "positive"}
+{"input": "我不干", "target": "negative"}
+{"input": "我还没准备好呢", "target": "negative"}
+{"input": "我也不勉强你", "target": "negative"}
+{"input": "这样一切看天意", "target": "neutral"}
+{"input": "麦迪这个球进 你就听我的", "target": "neutral"}
+{"input": "要是不进我就随便你们", "target": "neutral"}
+{"input": "怎么样", "target": "positive"}
+{"input": "这就是天意", "target": "positive"}
+{"input": "可这是重播", "target": "negative"}
+{"input": "姐你别逼我了", "target": "negative"}
+{"input": "你从小到大哪件事情不是我逼出来的", "target": "neutral"}
+{"input": "你爸妈让你过来跟着我", "target": "neutral"}
+{"input": "就是为了让我来引导你", "target": "neutral"}
+{"input": "这么多不良青年我都收拾了", "target": "neutral"}
+{"input": "你我还教不会", "target": "negative"}
+{"input": "除非你跟我说你一点都不喜欢宛瑜", "target": "positive"}
+{"input": "要是你这么说了", "target": "neutral"}
+{"input": "我就去告诉她", "target": "neutral"}
+{"input": "别别别 那你要我怎么办嘛", "target": "negative"}
+{"input": "约会啊", "target": "neutral"}
+{"input": "晚上约他吃饭 单独的", "target": "positive"}
+{"input": "你们有没有苗头马上就见分晓", "target": "positive"}
+{"input": "我一点都不了解宛瑜", "target": "negative"}
+{"input": "而且我从来没有跟女孩子单独吃过饭", "target": "negative"}
+{"input": "怪怪的", "target": "negative"}
+{"input": "约会就是用来相互了解的", "target": "neutral"}
+{"input": "学历家庭背景", "target": "neutral"}
+{"input": "爱好脾气都搞清楚了", "target": "neutral"}
+{"input": "就算他是非洲食人族酋长的女儿", "target": "positive"}
+{"input": "你也照样可以搞定", "target": "positive"}
+{"input": "食人族", "target": "negative"}
+{"input": "到时候你就带着隐形耳机", "target": "neutral"}
+{"input": "我远程监控照我说的做", "target": "neutral"}
+{"input": "为保万无一失", "target": "neutral"}
+{"input": "我还会教你江湖上失传多年的三浪真言", "target": "neutral"}
+{"input": "什么", "target": "negative"}
+{"input": "三浪真言", "target": "negative"}
+{"input": "浪漫浪费浪叫保证你手到擒来", "target": "positive"}
+{"input": "还说股票打了鸡血", "target": "negative"}
+{"input": "我看你才打了鸡血", "target": "negative"}
+{"input": "你说什么", "target": "negative"}
+{"input": "没有", "target": "negative"}
+{"input": "我说刚才你不是心情不好吗", "target": "neutral"}
+{"input": "现在怎么那么开心", "target": "neutral"}
+{"input": "钱财身外之物", "target": "positive"}
+{"input": "振兴我们家族才是头等大事", "target": "positive"}
+{"input": "好了 不说了", "target": "positive"}
+{"input": "给她打电话 就说晚上约她吃饭", "target": "positive"}
+{"input": "关谷兄怎么办", "target": "negative"}
+{"input": "这态度太恶劣了", "target": "negative"}
+{"input": "我太受不了了", "target": "negative"}
+{"input": "你现在怎么办", "target": "negative"}
+{"input": "我也不知道", "target": "negative"}
+{"input": "我想找一个地方可以住下", "target": "negative"}
+{"input": "但是酒店太贵了", "target": "negative"}
+{"input": "你知道她说的爱情公寓", "target": "negative"}
+{"input": "我知道啊 就是这儿 就是这", "target": "neutral"}
+{"input": "真的吗", "target": "negative"}
+{"input": "我可以住在这里吗", "target": "positive"}
+{"input": "关谷兄啊 这套房子是我租下来的", "target": "negative"}
+{"input": "我喜欢宽敞", "target": "neutral"}
+{"input": "我可以交房租", "target": "positive"}
+{"input": "这么大的房子我都租了", "target": "neutral"}
+{"input": "那点房租我不在乎", "target": "neutral"}
+{"input": "我出双倍", "target": "neutral"}
+{"input": "成交", "target": "positive"}
+{"input": "我们千里有缘来相会", "target": "positive"}
+{"input": "里面那间就归你了", "target": "neutral"}
+{"input": "不过我要先收一点房租的押金", "target": "positive"}
+{"input": "你看这些够吗", "target": "neutral"}
+{"input": "够了", "target": "negative"}
+{"input": "够了", "target": "negative"}
+{"input": "我让我的室友帮你拿行李", "target": "positive"}
+{"input": "记得来找我", "target": "positive"}
+{"input": "对对不起", "target": "negative"}
+{"input": "对不起对不起", "target": "negative"}
+{"input": "没事", "target": "negative"}
+{"input": "我是怕你不好意思", "target": "negative"}
+{"input": "不来麻烦我", "target": "negative"}
+{"input": "我怕你客气", "target": "negative"}
+{"input": "不是这个意思", "target": "negative"}
+{"input": "我很不客气的", "target": "negative"}
+{"input": "你说话真有意思", "target": "positive"}
+{"input": "我的中文不是很有意思", "target": "positive"}
+{"input": "说的不好真是不好意思", "target": "positive"}
+{"input": "虽然有点晕", "target": "neutral"}
+{"input": "但是我都能明白的", "target": "neutral"}
+{"input": "谢谢", "target": "positive"}
+{"input": "美嘉 你跟爱森公寓的前台一样", "target": "negative"}
+{"input": "喜欢鬼叫", "target": "negative"}
+{"input": "你也喜欢收藏漫画", "target": "positive"}
+{"input": "你说这个 这是我画的", "target": "positive"}
+{"input": "真的是你画的吗", "target": "positive"}
+{"input": "这是爱情三脚猫", "target": "positive"}
+{"input": "我超爱 我的超爱 你知道吗", "target": "positive"}
+{"input": "我只看过三本都是在网上看的", "target": "positive"}
+{"input": "我们这里没有发行的", "target": "positive"}
+{"input": "后来就没有了", "target": "negative"}
+{"input": "也是我的超爱", "target": "positive"}
+{"input": "但是发行上觉得不够商业化", "target": "negative"}
+{"input": "他们要我加入更加刺激火爆的情节", "target": "negative"}
+{"input": "否则他们就不在出版了", "target": "negative"}
+{"input": "没有", "target": "negative"}
+{"input": "我觉得你原来的故事很好", "target": "neutral"}
+{"input": "我很喜欢的", "target": "neutral"}
+{"input": "我不太喜欢那些乱七八糟的东西", "target": "neutral"}
+{"input": "所以我就辞职", "target": "neutral"}
+{"input": "所以到了这里", "target": "neutral"}
+{"input": "我不是再也看不见了", "target": "negative"}
+{"input": "这些可以送给你", "target": "neutral"}
+{"input": "不 你等着 我有东西送你", "target": "positive"}
+{"input": "你看", "target": "positive"}
+{"input": "我知道 这是中国的武松打虎", "target": "positive"}
+{"input": "这是我画的爱情三角猫", "target": "negative"}
+{"input": "我知道我画的很难看", "target": "negative"}
+{"input": "但是我真的很喜欢这部漫画", "target": "negative"}
+{"input": "你可以上网看一下有多少人等着出续集呢", "target": "negative"}
+{"input": "怎么能就这样封笔了呢", "target": "negative"}
+{"input": "我没用粉笔", "target": "negative"}
+{"input": "我用铅笔", "target": "negative"}
+{"input": "好", "target": "negative"}
+{"input": "铅笔 我给你削铅笔", "target": "positive"}
+{"input": "只要你能继续画下去", "target": "positive"}
+{"input": "我就可以做你的助手", "target": "positive"}
+{"input": "这里就是你的新画室怎么样", "target": "positive"}
+{"input": "谢谢", "target": "positive"}
+{"input": "嘘", "target": "negative"}
+{"input": "干嘛呢你 做主持人做到心理变态 开始偷窥了", "target": "negative"}
+{"input": "出大事儿", "target": "negative"}
+{"input": "怎么了", "target": "neutral"}
+{"input": "如果我现在要选择一个卡通人物来形容子乔的话", "target": "negative"}
+{"input": "那就是绿巨人了", "target": "negative"}
+{"input": "绿 股票跌了", "target": "neutral"}
+{"input": "跌你个头啊", "target": "negative"}
+{"input": "绿帽子", "target": "negative"}
+{"input": "再这么发展下去", "target": "negative"}
+{"input": "子乔很快就会绿的跟油菜花一样了", "target": "negative"}
+{"input": "你说的是西兰花吧", "target": "neutral"}
+{"input": "油菜花那是黄的", "target": "neutral"}
+{"input": "ok 我说的是西兰花", "target": "negative"}
+{"input": "呸 我说的是子乔", "target": "negative"}
+{"input": "子乔很酷的", "target": "neutral"}
+{"input": "我老弟有他一半我就省心了", "target": "negative"}
+{"input": "强中自有强中手", "target": "neutral"}
+{"input": "一枝红杏出墙来", "target": "neutral"}
+{"input": "你说美嘉她", "target": "neutral"}
+{"input": "知人知面不知心", "target": "neutral"}
+{"input": "天若有情", "target": "neutral"}
+{"input": "天亦老", "target": "neutral"}
+{"input": "你这都什么诗", "target": "negative"}
+{"input": "过来过来", "target": "neutral"}
+{"input": "曾小贤 帮我鉴定一下这个", "target": "negative"}
+{"input": "什么味道", "target": "neutral"}
+{"input": "这是我从子乔套间垃圾桶里找到的", "target": "neutral"}
+{"input": "干嘛啦", "target": "negative"}
+{"input": "我只是觉得子乔最近行为比较反常", "target": "neutral"}
+{"input": "白天不醒晚上不睡", "target": "neutral"}
+{"input": "买了点绿帽子还整天念念有词", "target": "negative"}
+{"input": "你说他是不是因为感情破裂而心理变态了", "target": "negative"}
+{"input": "他至少没有变态到没事去翻别人垃圾桶", "target": "negative"}
+{"input": "亏你想的出来你恶不恶心", "target": "negative"}
+{"input": "你至少应该戴个手套再去翻对不对", "target": "negative"}
+{"input": "有没有翻过我垃圾桶", "target": "negative"}
+{"input": "最近没有 我本来只想看关谷和美嘉有没有留下什么出轨的新证据", "target": "neutral"}
+{"input": "真是八卦", "target": "negative"}
+{"input": "那你后来找到没有", "target": "neutral"}
+{"input": "帮我看看上面写的什么", "target": "negative"}
+{"input": "这么潦草", "target": "negative"}
+{"input": "我怎么一个字都看不出来", "target": "neutral"}
+{"input": "是不是火星文", "target": "neutral"}
+{"input": "你看出什么了吗", "target": "neutral"}
+{"input": "你拿反了", "target": "negative"}
+{"input": "我已经把我的伤口化作玫瑰", "target": "neutral"}
+{"input": "我的泪水已经变成雨水", "target": "neutral"}
+{"input": "早已轮回", "target": "neutral"}
+{"input": "为了梦中的橄榄树", "target": "neutral"}
+{"input": "橄榄树 文才斐然", "target": "neutral"}
+{"input": "你确定这不是在我的垃圾桶里找到的", "target": "neutral"}
+{"input": "橄榄树也是绿的", "target": "negative"}
+{"input": "他不会已经察觉到自己被戴绿帽子吧", "target": "negative"}
+{"input": "关谷君", "target": "positive"}
+{"input": "你回来啦", "target": "positive"}
+{"input": "中文学习班怎么样了", "target": "neutral"}
+{"input": "还好吧", "target": "negative"}
+{"input": "我觉得我们老师不喜欢我", "target": "negative"}
+{"input": "怎么会呢", "target": "neutral"}
+{"input": "我觉得你现在的中文发音比原来好了很多", "target": "neutral"}
+{"input": "可我的成语和造句都很有问题", "target": "negative"}
+{"input": "今天老师要我们找一个成语造句", "target": "negative"}
+{"input": "形容一个人很开心的样子", "target": "negative"}
+{"input": "你说了什么", "target": "neutral"}
+{"input": "含笑九泉", "target": "negative"}
+{"input": "其实这样的成语有很多了", "target": "neutral"}
+{"input": "来你跟着我说", "target": "neutral"}
+{"input": "看到你我兴高采烈", "target": "positive"}
+{"input": "一见钟情", "target": "positive"}
+{"input": "看到你我 美嘉 你又调皮了", "target": "neutral"}
+{"input": "我就说了关谷君你的中文还是很好的", "target": "neutral"}
+{"input": "今天还有两个泰国同学给我起绰号", "target": "negative"}
+{"input": "他说在他们家乡最好的朋友都要叫p什么", "target": "negative"}
+{"input": "P什么什么", "target": "negative"}
+{"input": "比方说美嘉你是我的朋友", "target": "neutral"}
+{"input": "你姓陈我就叫你屁陈", "target": "neutral"}
+{"input": "子乔君", "target": "neutral"}
+{"input": "子乔君他姓吕", "target": "neutral"}
+{"input": "我就叫他P吕", "target": "neutral"}
+{"input": "没有什么问题", "target": "neutral"}
+{"input": "你就叫P关谷嘛", "target": "neutral"}
+{"input": "问题就在这里", "target": "negative"}
+{"input": "他们觉得麻烦一定要叫我屁股", "target": "negative"}
+{"input": "依我看 他只是暂时性的低潮期", "target": "neutral"}
+{"input": "男人每个月都有那么几天很正常", "target": "positive"}
+{"input": "据我多年临床经验 遭受这么大打击", "target": "negative"}
+{"input": "导致心理调节能力极度紊乱", "target": "negative"}
+{"input": "这是非常典型的忧郁症", "target": "negative"}
+{"input": "其中因劈腿导致的占41%", "target": "negative"}
+{"input": "你不是教政治的吗 这个你也懂", "target": "negative"}
+{"input": "我们家有精神病史", "target": "neutral"}
+{"input": "怪不得你这么变态", "target": "positive"}
+{"input": "我的意思是我姑姑", "target": "neutral"}
+{"input": "是展博的姑姑有精神病史", "target": "neutral"}
+{"input": "展博的姑姑不就是你的姑姑吗", "target": "neutral"}
+{"input": "你们俩不是连体婴儿吗", "target": "neutral"}
+{"input": "情况是这样的", "target": "neutral"}
+{"input": "事实上我妈是展博的后妈 他爸是我的后爸", "target": "neutral"}
+{"input": "所以从小我虽然管他的姑姑也叫姑姑", "target": "neutral"}
+{"input": "但是展播他姑姑只是他自己的姑姑并不是我真是的姑姑", "target": "neutral"}
+{"input": "我爸是独生子", "target": "neutral"}
+{"input": "所以我并没有姑姑 明白", "target": "neutral"}
+{"input": "一目了然", "target": "negative"}
+{"input": "我知道以你的智商要理解起来有一定的难度", "target": "neutral"}
+{"input": "这么跟你说", "target": "neutral"}
+{"input": "我们从小是重组家庭", "target": "neutral"}
+{"input": "我和展博一起长大", "target": "neutral"}
+{"input": "虽然我们情同手足", "target": "neutral"}
+{"input": "但是从基因上来讲是有本质区别的", "target": "neutral"}
+{"input": "就是说你姑姑的病和你的关系不大", "target": "neutral"}
+{"input": "那和子乔有什么关系", "target": "neutral"}
+{"input": "症状相似呀", "target": "negative"}
+{"input": "年轻的时候我姑姑也是一表人才", "target": "negative"}
+{"input": "她聪明有魅力", "target": "negative"}
+{"input": "后来经历了一次情感的失败之后就发病了", "target": "neutral"}
+{"input": "白天不醒晚上不睡", "target": "neutral"}
+{"input": "买了顶小红帽还整天念念有词", "target": "neutral"}
+{"input": "后来她就被送到了精神病院", "target": "neutral"}
+{"input": "一直到现在", "target": "neutral"}
+{"input": "叔叔你好", "target": "neutral"}
+{"input": "我们为北极熊捐款", "target": "neutral"}
+{"input": "你要不要参加", "target": "neutral"}
+{"input": "捐款是什么", "target": "positive"}
+{"input": "你看这是北极熊照片", "target": "neutral"}
+{"input": "南极下了冻雨", "target": "neutral"}
+{"input": "很多北极熊都被淋湿后冻死了", "target": "neutral"}
+{"input": "哦 南极下了冻雨", "target": "negative"}
+{"input": "为什么北极熊冻死了", "target": "negative"}
+{"input": "你是不是小时候没钱上学", "target": "neutral"}
+{"input": "所以普通话不标准", "target": "neutral"}
+{"input": "我 其实叔叔是从很遥远的地方来的", "target": "positive"}
+{"input": "你不要说你是从奥特曼故乡来的", "target": "positive"}
+{"input": "我确实是从奥特曼的故乡来的", "target": "positive"}
+{"input": "你哄小孩子啊 隔壁还有一个神经病", "target": "negative"}
+{"input": "说自己有亲戚住在纳尼亚", "target": "negative"}
+{"input": "叔叔你到底有没有钱啊", "target": "negative"}
+{"input": "你捐款的话我们可以送你一盆小花", "target": "neutral"}
+{"input": "你既为北极熊捐了钱", "target": "neutral"}
+{"input": "又为绿化地球做出了贡献", "target": "neutral"}
+{"input": "给你 我拿这个", "target": "neutral"}
+{"input": "花给你", "target": "neutral"}
+{"input": "替我向北极熊问好", "target": "positive"}
+{"input": "曾小贤 你别老吓唬我弟弟", "target": "negative"}
+{"input": "他什么都当真的", "target": "negative"}
+{"input": "万一吓傻了你养他呀", "target": "negative"}
+{"input": "展博人呢", "target": "neutral"}
+{"input": "去看姑姑了", "target": "negative"}
+{"input": "他说要办手续把姑姑保释出来", "target": "neutral"}
+{"input": "你们家还有另外一个姑姑在牢里", "target": "negative"}
+{"input": "疗养院说最近姑姑的情况挺稳定的", "target": "neutral"}
+{"input": "所以他想把他接回来坐坐", "target": "neutral"}
+{"input": "不危险吧", "target": "negative"}
+{"input": "不危险", "target": "neutral"}
+{"input": "没有暴力倾向", "target": "neutral"}
+{"input": "我还是回去把菜刀什么都藏起来了", "target": "negative"}
+{"input": "那你要怎么解决子乔的问题", "target": "neutral"}
+{"input": "他的问题才严重呢", "target": "negative"}
+{"input": "和姑姑当年的症状简直一模一样", "target": "negative"}
+{"input": "也是没完没了的抄纸条", "target": "negative"}
+{"input": "要不给他找一个心理医生", "target": "negative"}
+{"input": "我觉得给她找心理医生他会更加紧张", "target": "negative"}
+{"input": "找一个专业的医生", "target": "neutral"}
+{"input": "总比听那些只会说风凉话的广播节目主持人要强吧", "target": "negative"}
+{"input": "我只是建议我们要从长计议", "target": "negative"}
+{"input": "不能贸然行事", "target": "neutral"}
+{"input": "这完全不等于说风凉话", "target": "neutral"}
+{"input": "而且现在的心理医生就和那些所谓的咨询公司一样", "target": "negative"}
+{"input": "拿出你的手表给你看一下", "target": "negative"}
+{"input": "告诉你时间", "target": "negative"}
+{"input": "并且最后放到了自己的口袋里", "target": "negative"}
+{"input": "这完全属于强盗行为", "target": "negative"}
+{"input": "你又没看过心理医生", "target": "neutral"}
+{"input": "你怎么知道", "target": "neutral"}
+{"input": "谁说我没看过", "target": "negative"}
+{"input": "真的吗", "target": "positive"}
+{"input": "所以 你也去了纳尼亚", "target": "positive"}
+{"input": "你才去纳尼亚呢", "target": "negative"}
+{"input": "子乔的情况我很清楚", "target": "neutral"}
+{"input": "不开心 来得快去得也快", "target": "neutral"}
+{"input": "给他买个冰淇淋就好了", "target": "positive"}
+{"input": "以前我们家人也是这么对待姑姑的", "target": "neutral"}
+{"input": "结果三个月之后她就开始幻想自己是一台冰箱", "target": "negative"}
+{"input": "然后就拿手指头往插座里戳", "target": "negative"}
+{"input": "关键要有爱", "target": "negative"}
+{"input": "有爱", "target": "negative"}
+{"input": "子乔需要的是真正的爱", "target": "neutral"}
+{"input": "来自人性的关怀", "target": "neutral"}
+{"input": "你要让他知道这个世界上还有很多朋友在关心着他", "target": "neutral"}
+{"input": "这样他才能从失恋的阴霾中挣脱出来", "target": "neutral"}
+{"input": "我们要送温暖", "target": "neutral"}
+{"input": "送温暖", "target": "neutral"}
+{"input": "你打算怎么送", "target": "neutral"}
+{"input": "吕子乔 我说你多少次了", "target": "negative"}
+{"input": "为什么上厕所又不冲", "target": "negative"}
+{"input": "你帮我冲一下好了", "target": "neutral"}
+{"input": "没看见我正忙着呢吗", "target": "neutral"}
+{"input": "你在忙什么", "target": "negative"}
+{"input": "你老人家懒得连手都不肯动一下了", "target": "negative"}
+{"input": "你下次也不用上厕所", "target": "negative"}
+{"input": "干脆直接在床上解决就算了", "target": "negative"}
+{"input": "反正你懒得下床", "target": "negative"}
+{"input": "不要跟我比懒", "target": "neutral"}
+{"input": "我懒得跟你比", "target": "neutral"}
+{"input": "我现在是个病人", "target": "neutral"}
+{"input": "疯牛病还是禽流感", "target": "negative"}
+{"input": "曾老师他们鉴定过了", "target": "neutral"}
+{"input": "说我这是忧郁症", "target": "neutral"}
+{"input": "我一口盐汽水喷死你", "target": "negative"}
+{"input": "忧郁 忧郁俩字你会写吗", "target": "negative"}
+{"input": "可能是一种与生俱来的气质", "target": "neutral"}
+{"input": "你还真入戏", "target": "negative"}
+{"input": "这是什么", "target": "negative"}
+{"input": "早日康复", "target": "negative"}
+{"input": "重新振作", "target": "negative"}
+{"input": "永不放弃", "target": "negative"}
+{"input": "再创辉煌", "target": "negative"}
+{"input": "什么乱七八糟的", "target": "negative"}
+{"input": "隔壁小贤送的", "target": "neutral"}
+{"input": "这不是展博的游戏机吗", "target": "negative"}
+{"input": "一菲拿过来让我解闷", "target": "neutral"}
+{"input": "你这两天究竟耍了什么花招 又是好吃的", "target": "negative"}
+{"input": "又是好喝的", "target": "negative"}
+{"input": "再是好玩的 游戏机 DVD 像供祖宗一样供着你", "target": "negative"}
+{"input": "你究竟耍什么花招", "target": "negative"}
+{"input": "我对天发誓这次我什么都没有干", "target": "neutral"}
+{"input": "你少给我发4还发5", "target": "negative"}
+{"input": "你看看你家里一点家务都不做", "target": "negative"}
+{"input": "我还要伺候你个少爷冲马桶", "target": "negative"}
+{"input": "这算哪门子事", "target": "negative"}
+{"input": "我也很纳闷", "target": "negative"}
+{"input": "事情怎么会演变成这样", "target": "negative"}
+{"input": "我真是有少爷的命", "target": "negative"}
+{"input": "我改天也应该送你一个花圈", "target": "negative"}
+{"input": "上面就写着吕大忽悠 音容犹在 千古混蛋 死不瞑目", "target": "negative"}
+{"input": "美嘉", "target": "negative"}
+{"input": "你居然对我说这样的话", "target": "negative"}
+{"input": "我的心一下子好痛 好痛", "target": "negative"}
+{"input": "既然忧郁这么久 何必还苦苦挣扎 电门就在那", "target": "negative"}
+{"input": "摸一下很快的 别在这里害人害己", "target": "negative"}
+{"input": "你这些概念都是从哪来的 妙手仁心", "target": "neutral"}
+{"input": "还是Jason Seaver", "target": "negative"}
+{"input": "不是这样吗", "target": "neutral"}
+{"input": "那你以前为什么去看心理医生", "target": "neutral"}
+{"input": "我去看", "target": "negative"}
+{"input": "那是因为工作压力太大了", "target": "negative"}
+{"input": "所以我才去的", "target": "negative"}
+{"input": "后来发现其实根本就没事儿", "target": "negative"}
+{"input": "那就带子乔去", "target": "neutral"}
+{"input": "反正你已经熟门熟路了", "target": "neutral"}
+{"input": "看医生就是这样", "target": "negative"}
+{"input": "一旦开始就没有结束", "target": "negative"}
+{"input": "他们就会告诉你ADD OCb n double a CPA BC d根本听不懂的专有名词", "target": "negative"}
+{"input": "然后就开一大堆乱七八糟的药", "target": "negative"}
+{"input": "你就吃去吧", "target": "negative"}
+{"input": "能治病就行了", "target": "neutral"}
+{"input": "后来我主持你的月亮我的心", "target": "neutral"}
+{"input": "我才发现其实每个人多多少少都有一点心理疾病", "target": "neutral"}
+{"input": "就好像皮肤上有细菌一样", "target": "neutral"}
+{"input": "你难道需要每天24小时都带着一块舒肤佳香皂", "target": "neutral"}
+{"input": "那你衣服口袋里的什么东西", "target": "positive"}
+{"input": "这是消毒面巾纸", "target": "negative"}
+{"input": "不是香皂", "target": "negative"}
+{"input": "姑姑这就是我的房间", "target": "positive"}
+{"input": "你小心点", "target": "positive"}
+{"input": "我说孩子 这个房间宽敞多了", "target": "positive"}
+{"input": "你刚才带我去的那间也是你的", "target": "neutral"}
+{"input": "太小了", "target": "negative"}
+{"input": "又没窗的 这个好耶", "target": "negative"}
+{"input": "姑姑", "target": "neutral"}
+{"input": "刚才那是电梯", "target": "neutral"}
+{"input": "哦 是电视机啊", "target": "positive"}
+{"input": "我从来不看电视", "target": "positive"}
+{"input": "我就爱听广播", "target": "positive"}
+{"input": "而且喜欢半夜三更的听很傻帽的广播员给大家讲故事", "target": "positive"}
+{"input": "你也听广播啊", "target": "negative"}
+{"input": "是啊", "target": "positive"}
+{"input": "你的病多久了 应该不会遗传吧", "target": "negative"}
+{"input": "没事的", "target": "positive"}
+{"input": "姑姑的病不严重", "target": "positive"}
+{"input": "傻姑娘", "target": "negative"}
+{"input": "对不起对不起", "target": "positive"}
+{"input": "姑姑讲错了", "target": "positive"}
+{"input": "姑姑喝水", "target": "positive"}
+{"input": "在姑姑眼里 你永远就是这么高", "target": "positive"}
+{"input": "是个长也长不大的小孩子", "target": "positive"}
+{"input": "瞧瞧 没几年的 都长成大姑娘了", "target": "positive"}
+{"input": "是不能随便乱叫了", "target": "positive"}
+{"input": "姑姑你搞错了", "target": "negative"}
+{"input": "怎么会搞错呢", "target": "positive"}
+{"input": "一菲啊 小时候姑姑最疼你了 是不是", "target": "positive"}
+{"input": "我不是一菲", "target": "negative"}
+{"input": "我是展博", "target": "negative"}
+{"input": "你不记得了", "target": "negative"}
+{"input": "小时候你一直带我出去玩", "target": "negative"}
+{"input": "还给我买变形金刚", "target": "negative"}
+{"input": "我一直保存到现在的", "target": "negative"}
+{"input": "你是展博", "target": "positive"}
+{"input": "对呀", "target": "positive"}
+{"input": "小屁孩别扯了", "target": "positive"}
+{"input": "不可能", "target": "positive"}
+{"input": "姑姑", "target": "negative"}
+{"input": "我真的是展博呀", "target": "negative"}
+{"input": "计划生育规定", "target": "neutral"}
+{"input": "一家只能生一个孩子", "target": "neutral"}
+{"input": "你们家凭什么生两个 扯淡扯淡", "target": "neutral"}
+{"input": "你忘记了", "target": "negative"}
+{"input": "我们家是重组家庭", "target": "negative"}
+{"input": "我是你的亲外甥", "target": "negative"}
+{"input": "这不是展博吗", "target": "positive"}
+{"input": "你看姑姑这脑子姑姑记起来记起来了", "target": "positive"}
+{"input": "我的宝贝我的宝贝", "target": "positive"}
+{"input": "你不是出国了吗", "target": "positive"}
+{"input": "有出息了", "target": "positive"}
+{"input": "现在我回来了", "target": "positive"}
+{"input": "对了", "target": "positive"}
+{"input": "您一个人住在疗养院还习惯吗", "target": "neutral"}
+{"input": "你们都不来看我", "target": "negative"}
+{"input": "姑姑觉得很孤单", "target": "negative"}
+{"input": "我不知道您一个人住在疗养院里", "target": "negative"}
+{"input": "爸妈都说你去了", "target": "negative"}
+{"input": "纳尼亚", "target": "negative"}
+{"input": "其实他们还有一件很重要的事情瞒了你很久", "target": "negative"}
+{"input": "什么事情", "target": "negative"}
+{"input": "你不是你爸爸妈妈生的", "target": "negative"}
+{"input": "我才是你的亲妈", "target": "negative"}
+{"input": "什么", "target": "negative"}
+{"input": "那你最恐怖的梦是什么", "target": "neutral"}
+{"input": "最恐怖的梦", "target": "negative"}
+{"input": "对", "target": "neutral"}
+{"input": "让你能够突然警醒的梦", "target": "neutral"}
+{"input": "还是我读高中的时候", "target": "negative"}
+{"input": "有一天我梦到自己在考试", "target": "negative"}
+{"input": "太恐怖了", "target": "negative"}
+{"input": "好", "target": "negative"}
+{"input": "继续", "target": "neutral"}
+{"input": "后来我就一下子惊醒了", "target": "negative"}
+{"input": "更恐怖的事情发生了", "target": "negative"}
+{"input": "原来我真的在考试", "target": "negative"}
+{"input": "好好", "target": "negative"}
+{"input": "咱们继续下一个问题", "target": "neutral"}
+{"input": "你依旧怀念的最美好的事是什么", "target": "neutral"}
+{"input": "现在的世界有太多事情让我黯然神伤", "target": "negative"}
+{"input": "我是个被命运诅咒的人", "target": "negative"}
+{"input": "你的犹豫痛苦历史有多久", "target": "neutral"}
+{"input": "一周", "target": "neutral"}
+{"input": "一个月还是半年", "target": "neutral"}
+{"input": "我的忧郁历史要从8岁开始说起", "target": "negative"}
+{"input": "那时候", "target": "negative"}
+{"input": "天还是蓝的", "target": "negative"}
+{"input": "水也是绿的", "target": "negative"}
+{"input": "鸡鸭是没有禽流感的", "target": "negative"}
+{"input": "猪肉是可以放心吃的", "target": "negative"}
+{"input": "那时候照相是要穿衣服", "target": "negative"}
+{"input": "欠债是要还钱", "target": "negative"}
+{"input": "丈母娘嫁闺女是不图你房子的", "target": "negative"}
+{"input": "孩子的爸爸也是明确的", "target": "negative"}
+{"input": "在屋里还打着伞", "target": "negative"}
+{"input": "你在看什么", "target": "negative"}
+{"input": "我是个漂亮的香菇", "target": "neutral"}
+{"input": "你也是吗", "target": "neutral"}
+{"input": "姑姑你别闹了", "target": "negative"}
+{"input": "又叫我姑姑", "target": "negative"}
+{"input": "我是你妈", "target": "neutral"}
+{"input": "我都问过我老姐了", "target": "negative"}
+{"input": "你老是寻我开心", "target": "negative"}
+{"input": "你姐知道什么", "target": "negative"}
+{"input": "她也是我生的", "target": "negative"}
+{"input": "你们这群没心没肺的东西", "target": "negative"}
+{"input": "你是不是该吃药了", "target": "negative"}
+{"input": "要不我送你回去吧", "target": "negative"}
+{"input": "不过在临走之前", "target": "neutral"}
+{"input": "我有一个传家宝贝要送给你", "target": "neutral"}
+{"input": "这可是我们祖传下来的无价之宝", "target": "neutral"}
+{"input": "向来都是只传男不传女的", "target": "neutral"}
+{"input": "尚方宝剑", "target": "positive"}
+{"input": "姑姑你从哪弄来的", "target": "negative"}
+{"input": "别这样 危险", "target": "negative"}
+{"input": "这把宝剑吹毛断发削铁如泥", "target": "neutral"}
+{"input": "上斩昏君", "target": "neutral"}
+{"input": "下斩奸臣", "target": "neutral"}
+{"input": "倚天不出 谁与争锋", "target": "neutral"}
+{"input": "现在送给你了", "target": "neutral"}
+{"input": "快放下", "target": "negative"}
+{"input": "这个会伤人的", "target": "negative"}
+{"input": "伤人", "target": "positive"}
+{"input": "我这把宝剑从来就是见血封喉", "target": "positive"}
+{"input": "只杀人不伤人", "target": "positive"}
+{"input": "一刀见血 很痛快的别跑", "target": "positive"}
+{"input": "我只杀人不伤人的", "target": "positive"}
+{"input": "关谷君我们什么时候重新开工画画呀", "target": "neutral"}
+{"input": "我也不知道", "target": "negative"}
+{"input": "最近状态不好", "target": "negative"}
+{"input": "6天了", "target": "negative"}
+{"input": "我只花了一点点", "target": "negative"}
+{"input": "一集 一页", "target": "neutral"}
+{"input": "一个猫头", "target": "negative"}
+{"input": "你6天就画了一个猫头", "target": "negative"}
+{"input": "找不到画画的感觉了", "target": "negative"}
+{"input": "遇到瓶颈的时候要先放松", "target": "neutral"}
+{"input": "要不我陪你出去走走", "target": "neutral"}
+{"input": "其实我不高兴的时候", "target": "negative"}
+{"input": "只要去超市逛逛就可以了", "target": "positive"}
+{"input": "你要买什么我帮你去买", "target": "neutral"}
+{"input": "不用不用", "target": "negative"}
+{"input": "其实我是去找乐子的", "target": "positive"}
+{"input": "变态 是流氓行为 你知道吗", "target": "negative"}
+{"input": "不", "target": "negative"}
+{"input": "你误会了", "target": "negative"}
+{"input": "我是去捏方便面的", "target": "neutral"}
+{"input": "方便面", "target": "negative"}
+{"input": "捏方便面", "target": "positive"}
+{"input": "可是这还是很变态", "target": "negative"}
+{"input": "有一次我的漫画被退稿了", "target": "neutral"}
+{"input": "我很不开心", "target": "neutral"}
+{"input": "在便利店的时候", "target": "neutral"}
+{"input": "我不小心把一包方面面给捏碎了", "target": "neutral"}
+{"input": "突然之间觉得心里非常的舒畅", "target": "neutral"}
+{"input": "后来我拿起一瓶可乐偷偷的打开瓶盖", "target": "positive"}
+{"input": "突然间一下子就有了灵感", "target": "positive"}
+{"input": "我就马上冲回去画画了", "target": "positive"}
+{"input": "你没买", "target": "negative"}
+{"input": "当然了我不喜欢吃方便面", "target": "neutral"}
+{"input": "而且我一捏就是一大箱 买回去太浪费了", "target": "positive"}
+{"input": "你还真是损人不利己", "target": "negative"}
+{"input": "经过我的研究", "target": "positive"}
+{"input": "不同牌子的方便面捏碎的声音是不一样的", "target": "positive"}
+{"input": "出前一丁碎的声音是卡啦啦啦", "target": "positive"}
+{"input": "统一方便面捏碎的声音是哗啦啦啦 最厉害的一个", "target": "positive"}
+{"input": "是叫康师傅的方便面", "target": "positive"}
+{"input": "捏碎的声音是稀里哗啦的", "target": "positive"}
+{"input": "关谷 捏超市方便面这个行为是不提倡的", "target": "negative"}
+{"input": "还有什么其他方法可以激发你的灵感", "target": "positive"}
+{"input": "我没有别的爱好了", "target": "neutral"}
+{"input": "有时候我也会捏饼干和薯片", "target": "positive"}
+{"input": "有了", "target": "neutral"}
+{"input": "昨天隔壁小胡从淀山湖给我带来一条野生大鲫鱼", "target": "neutral"}
+{"input": "我给你熬一锅鲫鱼汤是最补脑子", "target": "positive"}
+{"input": "吃了一定会有灵感", "target": "positive"}
+{"input": "不过你要答应我 不捏方便面", "target": "positive"}
+{"input": "好吧", "target": "neutral"}
+{"input": "谢谢你 美嘉", "target": "positive"}
+{"input": "别客气", "target": "positive"}
+{"input": "谁让我是你助理呢", "target": "positive"}
+{"input": "对不起", "target": "neutral"}
+{"input": "Lisa", "target": "negative"}
+{"input": "是你 曾小贤", "target": "positive"}
+{"input": "你认识我", "target": "neutral"}
+{"input": "我同学的大表舅邻居和你妹夫的表叔是亲家", "target": "positive"}
+{"input": "是吗", "target": "positive"}
+{"input": "太巧了", "target": "positive"}
+{"input": "不好意思", "target": "neutral"}
+{"input": "我走路太不小心了", "target": "neutral"}
+{"input": "我还庆幸你撞了我 我们台里出了一档新的节目", "target": "positive"}
+{"input": "需要一个英俊潇洒、气度不凡的主持人", "target": "positive"}
+{"input": "你来帮我好吗", "target": "positive"}
+{"input": "好", "target": "positive"}
+{"input": "非常荣幸", "target": "positive"}
+{"input": "不过我可能没有时间", "target": "neutral"}
+{"input": "我回去排一下档期", "target": "neutral"}
+{"input": "就你了", "target": "positive"}
+{"input": "我节目的收视率就靠你 答应我嘛", "target": "positive"}
+{"input": "丽萨", "target": "neutral"}
+{"input": "有事", "target": "neutral"}
+{"input": "你可能不认识我 我自我介绍一下", "target": "positive"}
+{"input": "我叫曾小贤", "target": "positive"}
+{"input": "我同事的表叔和你同学的大表舅的姐夫的妹夫的是", "target": "positive"}
+{"input": "邻居的亲家", "target": "positive"}
+{"input": "曾小贤", "target": "neutral"}
+{"input": "你就是那主持人吧", "target": "negative"}
+{"input": "没想到你听过我的节目", "target": "positive"}
+{"input": "何止是听过我们以前还是同事", "target": "neutral"}
+{"input": "我以前在电台做一档叫水晶之恋的节目", "target": "neutral"}
+{"input": "原来是你做的", "target": "positive"}
+{"input": "我可喜欢听了", "target": "positive"}
+{"input": "每次都听你主持得真是太棒了", "target": "positive"}
+{"input": "谢谢", "target": "neutral"}
+{"input": "我觉得你应该去医院看一下", "target": "neutral"}
+{"input": "那档节目的主持人是个老头子", "target": "neutral"}
+{"input": "我只是制片人", "target": "negative"}
+{"input": "可能我搞错了", "target": "negative"}
+{"input": "既然我们共事过，说明我们还是很有缘分", "target": "positive"}
+{"input": "对不对", "target": "positive"}
+{"input": "何止是缘分", "target": "negative"}
+{"input": "简直是渊源", "target": "negative"}
+{"input": "那时候我节目的收听率一直不好", "target": "negative"}
+{"input": "快到年底总评的时候", "target": "negative"}
+{"input": "我觉得我肯定垫底了", "target": "negative"}
+{"input": "连辞职报告都写好了", "target": "negative"}
+{"input": "不过还好有你 你救了我", "target": "neutral"}
+{"input": "我不记得 是我帮你求领导的吗", "target": "positive"}
+{"input": "我看到节目总评表的时候", "target": "neutral"}
+{"input": "发现你的节目收听率垫在我的下面", "target": "neutral"}
+{"input": "你才是最后一个", "target": "negative"}
+{"input": "应该的", "target": "negative"}
+{"input": "关谷你在干嘛", "target": "neutral"}
+{"input": "有奖竞猜", "target": "neutral"}
+{"input": "据说是青岛啤酒的一项促销活动", "target": "neutral"}
+{"input": "每瓶啤酒的标签背面都有一个关于世界旅游的题目", "target": "neutral"}
+{"input": "如果我收集了30个标签", "target": "neutral"}
+{"input": "并且答对所有的题目", "target": "neutral"}
+{"input": "我就可以抽大奖了", "target": "positive"}
+{"input": "你哪来这么多标签", "target": "negative"}
+{"input": "我刚才逛超市的时候路过啤酒专柜", "target": "neutral"}
+{"input": "然后他们就自己莫名其妙地掉下来", "target": "positive"}
+{"input": "关谷 你是不是又做了不好的事情", "target": "negative"}
+{"input": "我保证是最后一次了", "target": "negative"}
+{"input": "其实我的目的不在标签 是旅游", "target": "neutral"}
+{"input": "我突然发现旅游可以激发我的灵感", "target": "positive"}
+{"input": "什么旅游", "target": "neutral"}
+{"input": "答对所有问题的大奖就是旅游", "target": "positive"}
+{"input": "欧洲自由双人行", "target": "neutral"}
+{"input": "真的吗", "target": "positive"}
+{"input": "不如", "target": "positive"}
+{"input": "我帮你多撕点标签", "target": "positive"}
+{"input": "后来发现那么多的标签都没有用", "target": "negative"}
+{"input": "他的题目太难", "target": "negative"}
+{"input": "第一道题目我就答不出来", "target": "negative"}
+{"input": "请问柬埔寨为什么叫柬埔寨", "target": "neutral"}
+{"input": "柬埔寨", "target": "neutral"}
+{"input": "我知道 一定是他们寨主", "target": "neutral"}
+{"input": "平时很节省", "target": "neutral"}
+{"input": "生活过得很简朴", "target": "neutral"}
+{"input": "所以就叫柬埔寨了", "target": "neutral"}
+{"input": "柬埔寨是一个国家", "target": "negative"}
+{"input": "你去百度谷歌一下不就可以了", "target": "positive"}
+{"input": "他们出题的人的智商比我们高那么一点点", "target": "negative"}
+{"input": "如果那么容易Google那不是人人都能大奖了吗", "target": "neutral"}
+{"input": "看来我还要再花点功夫", "target": "positive"}
+{"input": "好吧", "target": "positive"}
+{"input": "我去做鱼汤 关谷君", "target": "positive"}
+{"input": "我支持你 欧洲双人自由行", "target": "positive"}
+{"input": "我已经看到夏威夷在向我们招手了", "target": "positive"}
+{"input": "夏威夷在太平洋", "target": "negative"}
+{"input": "现在你已经是金牌制作人了", "target": "positive"}
+{"input": "真是厉害", "target": "positive"}
+{"input": "你也很厉害", "target": "neutral"}
+{"input": "没想到你居然还在电台", "target": "negative"}
+{"input": "我不常在楼里看到你 还以为你被调去半夜了", "target": "neutral"}
+{"input": "我的节目是暂时被调到半夜了", "target": "negative"}
+{"input": "所以难怪见不到你正常人半夜是不会来电台的", "target": "neutral"}
+{"input": "听说电视台最近要开个新的栏目", "target": "positive"}
+{"input": "是有关于青少年教育的", "target": "positive"}
+{"input": "你们是不是正在招人", "target": "positive"}
+{"input": "消息还挺灵通", "target": "neutral"}
+{"input": "不过我们已经不招场工了", "target": "neutral"}
+{"input": "不是 我的意思是 你们的主持人还没定对吧", "target": "positive"}
+{"input": "是啊 你不会是想", "target": "positive"}
+{"input": "我不知道你笑", "target": "positive"}
+{"input": "我就陪着你一起笑哈哈哈", "target": "positive"}
+{"input": "丽萨 我恳求你给我一次机会", "target": "positive"}
+{"input": "让我当电视台主持人的机会", "target": "positive"}
+{"input": "你可以面试我", "target": "positive"}
+{"input": "你什么时候有空我可以去你办公室", "target": "positive"}
+{"input": "你知道竞争很激烈", "target": "neutral"}
+{"input": "也许我的硬件条件不是最好的", "target": "positive"}
+{"input": "但是我真的为这个节目做了很多的功课", "target": "positive"}
+{"input": "我的软件一定是最符合这个节目的", "target": "positive"}
+{"input": "不是软件的问题", "target": "neutral"}
+{"input": "你该换台显示器", "target": "negative"}
+{"input": "丽萨 看在我帮过你的份上 你也帮我一回", "target": "negative"}
+{"input": "你不知道我对电视是有多么的热爱", "target": "positive"}
+{"input": "或者我可以请你吃饭", "target": "positive"}
+{"input": "我们一边面试一边吃饭", "target": "positive"}
+{"input": "川菜还是粤菜", "target": "positive"}
+{"input": "电视台楼下那家就不错", "target": "positive"}
+{"input": "你让我很为难", "target": "neutral"}
+{"input": "那不用为难", "target": "positive"}
+{"input": "川菜粤菜都可以", "target": "positive"}
+{"input": "只要你喜欢我们可以都点", "target": "positive"}
+{"input": "曾老师 借你们家冰箱用一下", "target": "neutral"}
+{"input": "忙什么呢", "target": "neutral"}
+{"input": "打扫房间啊", "target": "neutral"}
+{"input": "你身上什么味道 这么臭啊", "target": "negative"}
+{"input": "一点意外事故", "target": "neutral"}
+{"input": "你去钓鱼了", "target": "negative"}
+{"input": "对啊", "target": "negative"}
+{"input": "我怎么觉得鱼钓了你啊", "target": "negative"}
+{"input": "我带齐了所有的东西 鱼竿、鱼钩、鱼饵", "target": "negative"}
+{"input": "我就是忘了带鱼桶", "target": "negative"}
+{"input": "So你这鱼是怎么带回来的", "target": "negative"}
+{"input": "你赶紧放完走人", "target": "negative"}
+{"input": "还约了人呢", "target": "negative"}
+{"input": "约了人", "target": "positive"}
+{"input": "是不是约了美女", "target": "positive"}
+{"input": "带我一个", "target": "positive"}
+{"input": "你别胡说啊", "target": "positive"}
+{"input": "这可是我的顶头上司", "target": "negative"}
+{"input": "金牌制作人", "target": "negative"}
+{"input": "我能不能上电视就看今天了", "target": "negative"}
+{"input": "那上司我更要看看他是不是美女了", "target": "positive"}
+{"input": "你放心", "target": "positive"}
+{"input": "我一定发挥我所有的能耐帮你搞定他", "target": "positive"}
+{"input": "发挥 你还是把你身上的味道挥发一下", "target": "negative"}
+{"input": "钓了一晚上鱼了", "target": "positive"}
+{"input": "美嘉也该服我了", "target": "positive"}
+{"input": "你怎么可以臭到这个程度", "target": "negative"}
+{"input": "全世界都该服你了 走开", "target": "negative"}
+{"input": "这样闻起来有点儿像碳烤八爪鱼", "target": "positive"}
+{"input": "拜托你赶紧回自己屋", "target": "negative"}
+{"input": "我想1个人待会儿", "target": "negative"}
+{"input": "我对付女上司可有一套", "target": "positive"}
+{"input": "我可以帮你从3个层面5个角度8种绝技秒杀她", "target": "positive"}
+{"input": "秒杀 今天要是搞砸了", "target": "negative"}
+{"input": "我就秒杀了你", "target": "negative"}
+{"input": "有个像我这样英俊潇洒的帮你撑场面也好", "target": "positive"}
+{"input": "真是好兄弟", "target": "negative"}
+{"input": "死出去", "target": "negative"}
+{"input": "要不然这样我先洗个澡", "target": "positive"}
+{"input": "然后我马上就过来好吧", "target": "positive"}
+{"input": "嗨 小贤", "target": "neutral"}
+{"input": "嗨 丽萨", "target": "positive"}
+{"input": "请进", "target": "positive"}
+{"input": "喝点什么", "target": "positive"}
+{"input": "冰水就好了", "target": "neutral"}
+{"input": "你一个人住啊", "target": "neutral"}
+{"input": "和一些朋友", "target": "positive"}
+{"input": "你知道的", "target": "neutral"}
+{"input": "我们做主持人的需要时时刻刻搜集生活中的素材", "target": "neutral"}
+{"input": "所以我选择了爱情公寓", "target": "neutral"}
+{"input": "爱是世界上最美丽的语言", "target": "neutral"}
+{"input": "他无处不在", "target": "positive"}
+{"input": "这么大把年纪了", "target": "negative"}
+{"input": "还能保持一颗年轻活力的心", "target": "neutral"}
+{"input": "原来是爱情公寓的缘故", "target": "neutral"}
+{"input": "其实我的年纪并不像你想象的那样", "target": "positive"}
+{"input": "我觉得我们的节目还是需要一个成熟稳重一点的主持人", "target": "neutral"}
+{"input": "这样可以给年轻人正确的导向", "target": "neutral"}
+{"input": "太对了", "target": "positive"}
+{"input": "不知不觉我都已经这么老了", "target": "negative"}
+{"input": "时光飞逝", "target": "negative"}
+{"input": "岁月不饶人", "target": "negative"}
+{"input": "你对我们这档新节目的背景了解有多少", "target": "neutral"}
+{"input": "非常彻底", "target": "positive"}
+{"input": "这档节目说的是年轻人情感问题的案例", "target": "positive"}
+{"input": "来正确的引导他们", "target": "positive"}
+{"input": "现在的糟粕文化大量的充斥着年轻人的思想", "target": "positive"}
+{"input": "未婚先孕", "target": "negative"}
+{"input": "一夜情 乱搞男女关系", "target": "negative"}
+{"input": "这一切都是资产阶级自由化所造成的恶果", "target": "negative"}
+{"input": "我觉得这档节目应该把主持人和栏目更加紧密的联系在一起", "target": "neutral"}
+{"input": "成为一个品牌", "target": "neutral"}
+{"input": "把主持人的名字和栏目联系在一起", "target": "neutral"}
+{"input": "比如说", "target": "neutral"}
+{"input": "比如小贤倾听 小贤有约 小贤有话说", "target": "positive"}
+{"input": "小贤看世界", "target": "positive"}
+{"input": "我记得好像我告诉过你", "target": "neutral"}
+{"input": "有很多主持人竞争上岗", "target": "neutral"}
+{"input": "我需要进行慎重考察", "target": "neutral"}
+{"input": "我有信心", "target": "positive"}
+{"input": "你刚才是不是吃过炭烤八爪鱼", "target": "negative"}
+{"input": "这个 你要不要来点", "target": "positive"}
+{"input": "不用了", "target": "neutral"}
+{"input": "我对海鲜过敏 闻到鱼腥味儿", "target": "neutral"}
+{"input": "我就会有一种莫名的冲动", "target": "neutral"}
+{"input": "你的主持风格和对话题的把握还是非常有经验的", "target": "neutral"}
+{"input": "而且一点不紧张", "target": "neutral"}
+{"input": "我觉得你会是一个不错的主持人", "target": "neutral"}
+{"input": "过奖", "target": "positive"}
+{"input": "我也觉得我们很投缘", "target": "positive"}
+{"input": "失陪一下", "target": "neutral"}
+{"input": "我去一下洗手间", "target": "neutral"}
+{"input": "进门左转", "target": "neutral"}
+{"input": "怎么了", "target": "negative"}
+{"input": "小布", "target": "negative"}
+{"input": "你认识", "target": "negative"}
+{"input": "小布", "target": "negative"}
+{"input": "小布", "target": "negative"}
+{"input": "谁啊", "target": "negative"}
+{"input": "就是他", "target": "negative"}
+{"input": "可是他叫吕", "target": "negative"}
+{"input": "小布", "target": "negative"}
+{"input": "我们曾经共度过一个美好的夜晚", "target": "negative"}
+{"input": "第二天早上他说他会打电话给我", "target": "negative"}
+{"input": "可是我等了三天三夜", "target": "negative"}
+{"input": "还是没有打来", "target": "negative"}
+{"input": "你别生气了", "target": "negative"}
+{"input": "说不定他遇到了什么意外", "target": "negative"}
+{"input": "比如说他出了车祸", "target": "negative"}
+{"input": "醒来之后发现自己失忆了", "target": "negative"}
+{"input": "医生检查", "target": "negative"}
+{"input": "然后告诉他顺便发现了他得了", "target": "negative"}
+{"input": "肝癌晚期", "target": "negative"}
+{"input": "感冒了", "target": "negative"}
+{"input": "他是你朋友", "target": "negative"}
+{"input": "没有", "target": "negative"}
+{"input": "我根本不认识他", "target": "negative"}
+{"input": "我确定一定以及肯定不认识他", "target": "negative"}
+{"input": "可是明明有他照片", "target": "negative"}
+{"input": "眼睛眉毛鼻子一看就是小布", "target": "negative"}
+{"input": "烧成灰我也认识", "target": "negative"}
+{"input": "那可能是几年前 街道举办的和看望癌症晚期病人的联谊会", "target": "negative"}
+{"input": "这是那个时候的照片", "target": "negative"}
+{"input": "我是公寓下属住户委员会的副主席", "target": "negative"}
+{"input": "我当然要去参加了", "target": "neutral"}
+{"input": "他在哪家医院带我去找", "target": "negative"}
+{"input": "已经过去这么长时间了", "target": "negative"}
+{"input": "他可能已经康复了", "target": "negative"}
+{"input": "要是没有康复", "target": "negative"}
+{"input": "肝癌晚期就很难说了", "target": "negative"}
+{"input": "真的吗", "target": "negative"}
+{"input": "小布", "target": "negative"}
+{"input": "小布", "target": "negative"}
+{"input": "你节哀啊", "target": "negative"}
+{"input": "对不起 这都是我个人的事情", "target": "negative"}
+{"input": "我不该说这些", "target": "negative"}
+{"input": "你不会去和别人说吧", "target": "negative"}
+{"input": "放心领导", "target": "neutral"}
+{"input": "我这个人的嘴巴最紧了", "target": "neutral"}
+{"input": "好啊", "target": "negative"}
+{"input": "你无情无义的", "target": "negative"}
+{"input": "居然还敢到这来", "target": "negative"}
+{"input": "我等了你那么多年", "target": "negative"}
+{"input": "你居然一个电话都没有给我打过", "target": "negative"}
+{"input": "你在说什么", "target": "negative"}
+{"input": "你可能都忘记我的名字了吧", "target": "negative"}
+{"input": "我告诉你我叫", "target": "negative"}
+{"input": "我叫吕布", "target": "negative"}
+{"input": "大家亲切叫我小布", "target": "negative"}
+{"input": "没错", "target": "negative"}
+{"input": "小布我要找的就是你", "target": "negative"}
+{"input": "难道我当时也和现在一样的心态", "target": "negative"}
+{"input": "你别胡搅蛮缠了", "target": "negative"}
+{"input": "你的名字印在了我的心里", "target": "negative"}
+{"input": "刻在了我的骨头上", "target": "negative"}
+{"input": "每天晚上做梦我都在呼喊你的名字", "target": "negative"}
+{"input": "制片人", "target": "negative"}
+{"input": "但是我记得当时是我给了你电话号码", "target": "negative"}
+{"input": "你没有打给我", "target": "negative"}
+{"input": "而且当时你也没有手机", "target": "negative"}
+{"input": "你别转移话题", "target": "negative"}
+{"input": "我会没有手机吗", "target": "negative"}
+{"input": "你是说我买不起手机", "target": "negative"}
+{"input": "那天在酒吧里", "target": "negative"}
+{"input": "你是问我借电话", "target": "negative"}
+{"input": "然后跟我搭讪", "target": "negative"}
+{"input": "而且你口袋里只有三毛钱", "target": "negative"}
+{"input": "你搜过我裤子", "target": "negative"}
+{"input": "房费也是我出的", "target": "negative"}
+{"input": "是吗", "target": "negative"}
+{"input": "我非常确定我给你留了电话号码", "target": "negative"}
+{"input": "而且你也答应我第二天会给我打电话", "target": "negative"}
+{"input": "拜托", "target": "negative"}
+{"input": "你用脑子想想好不好", "target": "negative"}
+{"input": "我全身上下只有三毛钱硬币", "target": "negative"}
+{"input": "我上哪去给你打电话", "target": "negative"}
+{"input": "再跟一个女孩问他借电话", "target": "negative"}
+{"input": "我是那样的人吗", "target": "negative"}
+{"input": "那天晚上你一直喝着粉红玛丽", "target": "negative"}
+{"input": "粉红玛丽", "target": "negative"}
+{"input": "你性感的嘴唇闪闪发光", "target": "negative"}
+{"input": "你身上CD香水的味道仅仅缠绕着我", "target": "negative"}
+{"input": "可是你知道我是从来不用CD香水的", "target": "negative"}
+{"input": "小布", "target": "negative"}
+{"input": "那这么说", "target": "negative"}
+{"input": "你从来没有忘记过", "target": "negative"}
+{"input": "没有", "target": "negative"}
+{"input": "我从来都没有 你是我见过一等一的美女", "target": "negative"}
+{"input": "温柔漂亮、善良、性感、前卫、奔放、魅力四射", "target": "neutral"}
+{"input": "我跟你在一起是那么的快乐", "target": "neutral"}
+{"input": "我如果有你电话为什么不给你打", "target": "neutral"}
+{"input": "我不是有毛病吗", "target": "negative"}
+{"input": "小布 这肯定有误会", "target": "negative"}
+{"input": "我很抱歉 我", "target": "negative"}
+{"input": "别 别抱歉", "target": "negative"}
+{"input": "你知道吗", "target": "neutral"}
+{"input": "你深深的伤害了我", "target": "negative"}
+{"input": "从那之后我经常找女孩借电话", "target": "negative"}
+{"input": "你知道我要借多少个电话才能 才能将你遗忘", "target": "negative"}
+{"input": "是你 剥夺了我做一个好人的机会", "target": "negative"}
+{"input": "非常抱歉让你看到这一幕", "target": "negative"}
+{"input": "我完全可以理解", "target": "neutral"}
+{"input": "很多年轻人都是这样把持不住才误入歧途的", "target": "neutral"}
+{"input": "我是说你的心态很年轻", "target": "negative"}
+{"input": "这一点很好", "target": "negative"}
+{"input": "我很敬仰", "target": "negative"}
+{"input": "你不会说出去吧", "target": "negative"}
+{"input": "不会", "target": "neutral"}
+{"input": "当然不会", "target": "neutral"}
+{"input": "我的女上司在我的心中永远是非常完美的女性形象", "target": "neutral"}
+{"input": "太好了", "target": "neutral"}
+{"input": "看来你已经具备了一个优秀节目主持人所需要的所有素质", "target": "neutral"}
+{"input": "我还能说什么", "target": "neutral"}
+{"input": "我们这档新栏目的节目主持人人选就你了", "target": "neutral"}
+{"input": "真的吗", "target": "positive"}
+{"input": "下周不是还要领导考核吗", "target": "positive"}
+{"input": "让领导去死", "target": "neutral"}
+{"input": "就这样", "target": "neutral"}
+{"input": "下周你来录像", "target": "neutral"}
+{"input": "Lisa", "target": "positive"}
+{"input": "真是太感谢你了", "target": "positive"}
+{"input": "你就是我的再生父母Lisa", "target": "positive"}
+{"input": "看不出", "target": "positive"}
+{"input": "一菲姐你也在网上开店", "target": "neutral"}
+{"input": "我姨妈做食品批发的", "target": "neutral"}
+{"input": "没事帮他卖点杏仁核桃瓜子什么的", "target": "neutral"}
+{"input": "赚点外快", "target": "neutral"}
+{"input": "早知道我就找你买了", "target": "negative"}
+{"input": "上星期我刚买了两斤脆梅", "target": "negative"}
+{"input": "拆开一看 脆梅变成了话梅", "target": "negative"}
+{"input": "跟我要的完全不一样", "target": "negative"}
+{"input": "结果店主还振振有词的说", "target": "negative"}
+{"input": "大概是因为时间长干了 无良", "target": "negative"}
+{"input": "奸商", "target": "negative"}
+{"input": "网上不靠谱的事多了", "target": "neutral"}
+{"input": "你想鸟大了什么林子都有", "target": "neutral"}
+{"input": "据说网上开店 又轻松又赚钱", "target": "positive"}
+{"input": "真的吗", "target": "positive"}
+{"input": "很累的好吧", "target": "negative"}
+{"input": "尤其像我这种美女做店主很容易被人骚扰的", "target": "positive"}
+{"input": "一群傻男人的啵嘚啵跟你聊半个月", "target": "negative"}
+{"input": "最后才买二两瓜子", "target": "negative"}
+{"input": "我以前也是经常在网上被人骚扰的", "target": "neutral"}
+{"input": "后来我发现起什么用户名很重要", "target": "neutral"}
+{"input": "你什么用户名啊", "target": "neutral"}
+{"input": "工作账号谢绝闲聊", "target": "neutral"}
+{"input": "若要强聊 每字五毛 标点符号 半价收费", "target": "neutral"}
+{"input": "千字以上8折优惠", "target": "neutral"}
+{"input": "语音视频暂未开通 先款后聊 款到再聊 在线支付提供发票", "target": "neutral"}
+{"input": "诚征代理", "target": "neutral"}
+{"input": "还有人骚扰你吗", "target": "positive"}
+{"input": "那还用说再也没人理过我", "target": "negative"}
+{"input": "婉瑜", "target": "positive"}
+{"input": "我给你准备了个礼物", "target": "positive"}
+{"input": "想知道里面是什么吗", "target": "positive"}
+{"input": "你除了哦 能不能说点别的", "target": "negative"}
+{"input": "不好意思", "target": "neutral"}
+{"input": "我刚刚走神了", "target": "neutral"}
+{"input": "礼物", "target": "neutral"}
+{"input": "可是我的生日还没到", "target": "neutral"}
+{"input": "这不是生日礼物", "target": "positive"}
+{"input": "今天是我们入住爱情公寓三个月的忌日", "target": "positive"}
+{"input": "不 纪念日", "target": "positive"}
+{"input": "是啊 三个月了", "target": "negative"}
+{"input": "我又该交房租了", "target": "negative"}
+{"input": "你说什么", "target": "negative"}
+{"input": "没什么", "target": "negative"}
+{"input": "这么大", "target": "positive"}
+{"input": "里面是什么", "target": "positive"}
+{"input": "里面都是我最有价值的收藏品", "target": "positive"}
+{"input": "我花了10年时间才收齐的", "target": "positive"}
+{"input": "个个都是典藏版", "target": "positive"}
+{"input": "价值连城", "target": "positive"}
+{"input": "价值连城", "target": "positive"}
+{"input": "是迪奥 Gucci还是LV的包包", "target": "positive"}
+{"input": "更棒", "target": "positive"}
+{"input": "我保证你一定会喜欢", "target": "positive"}
+{"input": "是吗", "target": "positive"}
+{"input": "你送我这么贵重的礼物", "target": "positive"}
+{"input": "我怎么能收呢", "target": "positive"}
+{"input": "我能打开吗", "target": "positive"}
+{"input": "当然 surprise", "target": "positive"}
+{"input": "我很喜欢", "target": "negative"}
+{"input": "这是美少女战士吗", "target": "negative"}
+{"input": "就知道你一定会成功的", "target": "positive"}
+{"input": "出版公司老板还专程从东京飞过来跟我谈", "target": "positive"}
+{"input": "他们还打算把爱情三角猫续集的电影版权买走", "target": "positive"}
+{"input": "我重返日本漫画界的梦想就要实现了", "target": "positive"}
+{"input": "太好了", "target": "positive"}
+{"input": "真的谢谢你", "target": "positive"}
+{"input": "我的成功离不开你的帮助", "target": "positive"}
+{"input": "关谷君", "target": "negative"}
+{"input": "这是你这么久以来第一次和我有肉体接触", "target": "negative"}
+{"input": "我也没有做什么", "target": "positive"}
+{"input": "只要你不嫌我给你帮倒忙就好", "target": "positive"}
+{"input": "怎么会 你一直都做得很好", "target": "negative"}
+{"input": "你一直帮我整理画稿", "target": "negative"}
+{"input": "校对", "target": "negative"}
+{"input": "然后帮我 帮我打蟑螂", "target": "negative"}
+{"input": "对呀", "target": "positive"}
+{"input": "上次我就是用你的画稿打的蟑螂", "target": "positive"}
+{"input": "怪不得发行商说画稿少了4页", "target": "negative"}
+{"input": "对不起", "target": "negative"}
+{"input": "没关系啦", "target": "positive"}
+{"input": "展博", "target": "positive"}
+{"input": "宛瑜你怎么来了", "target": "positive"}
+{"input": "我想谢谢你", "target": "positive"}
+{"input": "谢我", "target": "positive"}
+{"input": "对啊 你送给我的玩具我很喜欢 你能不能跟我说说它的具体情况", "target": "positive"}
+{"input": "这不是玩具", "target": "negative"}
+{"input": "这是艺术品", "target": "negative"}
+{"input": "这是人类工业设计史上的奇葩", "target": "negative"}
+{"input": "你现在知道他叫什么了", "target": "neutral"}
+{"input": "钢铁侠", "target": "neutral"}
+{"input": "这是变形金刚", "target": "negative"}
+{"input": "金刚不是爬到屋顶上打飞机的大猩猩吗", "target": "neutral"}
+{"input": "你小时候都不看动画片吗", "target": "negative"}
+{"input": "这是擎天柱啊", "target": "negative"}
+{"input": "我想起来了", "target": "neutral"}
+{"input": "其实我很喜欢的", "target": "neutral"}
+{"input": "你知道每个女孩从小都有一个梦想", "target": "neutral"}
+{"input": "嫁给变形金刚", "target": "neutral"}
+{"input": "真的吗", "target": "negative"}
+{"input": "对", "target": "neutral"}
+{"input": "你能不能再告诉我一点", "target": "neutral"}
+{"input": "关于这个玩具 不关于这朵工业奇葩的具体细节", "target": "neutral"}
+{"input": "比方说历史文化", "target": "neutral"}
+{"input": "还有价格", "target": "neutral"}
+{"input": "这一切的一切都要从500万年前赛博坦星球大战开始说起", "target": "positive"}
+{"input": "当时擎天", "target": "positive"}
+{"input": "停 不用从那么远开始说吧 我们直接跳过", "target": "neutral"}
+{"input": "最后怎么样了", "target": "neutral"}
+{"input": "擎天柱死了", "target": "neutral"}
+{"input": "第八十六集的时候死了", "target": "positive"}
+{"input": "不过了又复活了", "target": "positive"}
+{"input": "不过最后还是死了", "target": "negative"}
+{"input": "这就很复杂", "target": "positive"}
+{"input": "要从500万年", "target": "positive"}
+{"input": "停 我还是买一套动画片自己看", "target": "neutral"}
+{"input": "这是很珍贵的收藏", "target": "neutral"}
+{"input": "当然 这些都是绝版的", "target": "positive"}
+{"input": "他们哪个最厉害", "target": "neutral"}
+{"input": "当然是擎天柱了", "target": "positive"}
+{"input": "他是汽车人的领袖", "target": "positive"}
+{"input": "只要追溯到500万年前", "target": "positive"}
+{"input": "展博", "target": "neutral"}
+{"input": "谢谢你", "target": "neutral"}
+{"input": "今天讲的实在是太精彩了", "target": "neutral"}
+{"input": "陈美嘉", "target": "negative"}
+{"input": "本姑娘在此有何指教", "target": "negative"}
+{"input": "你非得这么一惊一乍的啊", "target": "negative"}
+{"input": "你没看见我在打电话了吗", "target": "negative"}
+{"input": "你打你电话 我收我快递 我碍着你了吗", "target": "negative"}
+{"input": "对了", "target": "neutral"}
+{"input": "你什么时候又改名了", "target": "negative"}
+{"input": "吕小布", "target": "negative"}
+{"input": "你懂什么人在江湖漂安全很重要", "target": "neutral"}
+{"input": "吕小布是我的笔名", "target": "neutral"}
+{"input": "为了保险起见", "target": "neutral"}
+{"input": "我在江湖上神龙摆尾的时候", "target": "positive"}
+{"input": "一般都用笔名", "target": "positive"}
+{"input": "什么神龙摆尾 神经发作", "target": "negative"}
+{"input": "那条龙的屁股上怎么还有只加菲猫啊", "target": "negative"}
+{"input": "陈美嘉", "target": "negative"}
+{"input": "我们只是名义上的假情侣", "target": "negative"}
+{"input": "我警告你", "target": "negative"}
+{"input": "到时候千万别妨碍我泡妞", "target": "negative"}
+{"input": "用不着我妨碍", "target": "negative"}
+{"input": "就你这衰样", "target": "negative"}
+{"input": "估计没啥戏", "target": "negative"}
+{"input": "对了", "target": "neutral"}
+{"input": "我送你那台山寨手机的录音效果怎么样", "target": "neutral"}
+{"input": "小雪已经答应我明晚约会了", "target": "positive"}
+{"input": "要约会你去外头", "target": "negative"}
+{"input": "这里我定了", "target": "positive"}
+{"input": "凭什么 这是合租公寓", "target": "negative"}
+{"input": "凭什么你待着我就得被驱逐", "target": "negative"}
+{"input": "你都买了些什么呀", "target": "negative"}
+{"input": "管不着", "target": "negative"}
+{"input": "蜡烛、红酒、性感内衣不会吧", "target": "positive"}
+{"input": "我明白了", "target": "positive"}
+{"input": "怪不得你要赶我走", "target": "positive"}
+{"input": "原来在家里摆迷魂阵", "target": "positive"}
+{"input": "就允许你沾花惹草", "target": "negative"}
+{"input": "就不允许我追求真爱", "target": "negative"}
+{"input": "看你这架势", "target": "positive"}
+{"input": "可是下了血本的", "target": "positive"}
+{"input": "我只是想知道 哪个男人那么没有追求 说来听听", "target": "positive"}
+{"input": "我凭什么告诉你啊", "target": "negative"}
+{"input": "至少比你强", "target": "negative"}
+{"input": "不说拉倒", "target": "neutral"}
+{"input": "我明天倒要看看这个倒霉蛋到底什么来头", "target": "neutral"}
+{"input": "吕子乔 你成心了是吧", "target": "negative"}
+{"input": "要我出去约会也可以", "target": "positive"}
+{"input": "子乔 我就知道你真好了", "target": "positive"}
+{"input": "你换频道也太快了", "target": "negative"}
+{"input": "135归你 我绝不打扰", "target": "positive"}
+{"input": "我还没说完", "target": "negative"}
+{"input": "让我出去约会也可以", "target": "neutral"}
+{"input": "不过这年头带个女孩出去太贵了", "target": "negative"}
+{"input": "吃个饭总要吧 看个电影总要吧 看完电影吃个甜点总要吧", "target": "negative"}
+{"input": "再加上来回打车费", "target": "negative"}
+{"input": "都不如在家里来的经济实惠", "target": "neutral"}
+{"input": "吕子乔 你敲诈是吧", "target": "negative"}
+{"input": "我只是抱怨一下都市生活的巨大压力和日益升高的物价而已", "target": "neutral"}
+{"input": "爽快", "target": "positive"}
+{"input": "祝你有个难忘的约会", "target": "positive"}
+{"input": "我保证明天一定不会出现", "target": "positive"}
+{"input": "对啦", "target": "positive"}
+{"input": "祝你和你的MR.倒霉蛋", "target": "positive"}
+{"input": "春梦了无痕", "target": "positive"}
+{"input": "我一口盐汽水", "target": "negative"}
+{"input": "喷死你", "target": "negative"}
+{"input": "曾老师", "target": "neutral"}
+{"input": "你看现在网上开店的商家服务态度真是江河日下", "target": "negative"}
+{"input": "我问他 为什么你的核桃和别人家的不一样", "target": "negative"}
+{"input": "他竟然问我为什么你和别人长的不一样", "target": "negative"}
+{"input": "这什么素质", "target": "negative"}
+{"input": "曾老师我想麻烦你帮个忙", "target": "neutral"}
+{"input": "别客气 说吧", "target": "neutral"}
+{"input": "你可不可以把你的淘宝账号借我用一下", "target": "neutral"}
+{"input": "淘宝 你要买东西", "target": "neutral"}
+{"input": "你自己注册一个不就行了吗", "target": "neutral"}
+{"input": "我可以把电脑借给你", "target": "neutral"}
+{"input": "可是卖家的身份认证需要三天左右才能通过的", "target": "negative"}
+{"input": "这有什么关系", "target": "neutral"}
+{"input": "你又不着急这几天", "target": "neutral"}
+{"input": "其实我 我等着钱交房租", "target": "negative"}
+{"input": "你别开玩笑了", "target": "neutral"}
+{"input": "你们家可是全球500强", "target": "neutral"}
+{"input": "真的", "target": "negative"}
+{"input": "我从我爸爸那里逃出来", "target": "negative"}
+{"input": "钱带的不多", "target": "negative"}
+{"input": "后天又要交房租了", "target": "negative"}
+{"input": "我来不及了", "target": "negative"}
+{"input": "我别急我帮你想办法", "target": "negative"}
+{"input": "你不用太担心", "target": "neutral"}
+{"input": "人生在世不能光是为了钱", "target": "neutral"}
+{"input": "不是还有卡吗", "target": "neutral"}
+{"input": "爸爸把我的信用卡都停了", "target": "negative"}
+{"input": "他想我知难而退", "target": "negative"}
+{"input": "乖乖回美国去结婚", "target": "negative"}
+{"input": "你有困难为什么不告诉大家", "target": "negative"}
+{"input": "我就是不想告诉大家", "target": "negative"}
+{"input": "他们知道了我多不好意思", "target": "negative"}
+{"input": "只要解决了这个月的下个月我一定能找到工作", "target": "positive"}
+{"input": "曾老师你也在网上卖东西啊", "target": "positive"}
+{"input": "是啊 卖我的签名照片", "target": "positive"}
+{"input": "太好了", "target": "positive"}
+{"input": "那我委托你帮我卖吧", "target": "positive"}
+{"input": "行没问题", "target": "positive"}
+{"input": "你准备卖什么", "target": "positive"}
+{"input": "汽车", "target": "positive"}
+{"input": "是汽车人", "target": "neutral"}
+{"input": "你怎么也喜欢这个", "target": "negative"}
+{"input": "我以为只有展博才喜欢这种东西", "target": "negative"}
+{"input": "这是我小时候的 我最宝贝他了", "target": "neutral"}
+{"input": "每天抱着他睡觉", "target": "neutral"}
+{"input": "所以一直带在身边", "target": "neutral"}
+{"input": "你看这个能卖多少钱", "target": "neutral"}
+{"input": "我小时候也玩变形金刚", "target": "neutral"}
+{"input": "大概50块钱", "target": "neutral"}
+{"input": "现在不知道有没有人买了", "target": "neutral"}
+{"input": "我帮你挂上去看看", "target": "neutral"}
+{"input": "定多少价钱", "target": "neutral"}
+{"input": "这可是人类工业设计史上的一朵奇葩", "target": "positive"}
+{"input": "变形金刚最厉害的", "target": "positive"}
+{"input": "那就定250块4毛1 250是你", "target": "positive"}
+{"input": "希望能碰到个250给买了", "target": "neutral"}
+{"input": "如果这个能卖掉", "target": "neutral"}
+{"input": "我那里还有4个", "target": "neutral"}
+{"input": "这样我的房租就有办法了", "target": "neutral"}
+{"input": "Ok试试看", "target": "neutral"}
+{"input": "一菲姐", "target": "negative"}
+{"input": "你那次跟我说的印度神油 不印度香薰", "target": "positive"}
+{"input": "你这还有吗", "target": "positive"}
+{"input": "你是说一见钟情", "target": "neutral"}
+{"input": "我还没开始正式销售", "target": "neutral"}
+{"input": "就只有一小瓶样品", "target": "neutral"}
+{"input": "你用过没有", "target": "negative"}
+{"input": "没有", "target": "neutral"}
+{"input": "不过据说效果惊人", "target": "neutral"}
+{"input": "国外都用这东西来让濒危动物繁衍后代的", "target": "positive"}
+{"input": "根据实验数据它的药力很强", "target": "neutral"}
+{"input": "仅需几小滴就足够", "target": "neutral"}
+{"input": "两头成年野猪坠入爱河", "target": "neutral"}
+{"input": "你要买吗", "target": "neutral"}
+{"input": "是这样的", "target": "positive"}
+{"input": "我回去说给子乔听", "target": "positive"}
+{"input": "他很好奇", "target": "positive"}
+{"input": "想见识见识", "target": "positive"}
+{"input": "就托我来问 能不能给我们一点点", "target": "positive"}
+{"input": "我们也想重温一下坠入爱河的感觉", "target": "positive"}
+{"input": "是这样", "target": "neutral"}
+{"input": "我这瓶送给你好了", "target": "neutral"}
+{"input": "真的", "target": "positive"}
+{"input": "助人为乐是我一贯的美德", "target": "neutral"}
+{"input": "一菲姐 你真的太棒了", "target": "positive"}
+{"input": "什么都能买得到", "target": "positive"}
+{"input": "什么都能买得到", "target": "neutral"}
+{"input": "不见得吧 有些东西你就买不到", "target": "neutral"}
+{"input": "什么东西啊", "target": "neutral"}
+{"input": "限量版的变形金刚", "target": "neutral"}
+{"input": "就你那些破玩具啊", "target": "neutral"}
+{"input": "那不是玩具", "target": "negative"}
+{"input": "那是艺术品", "target": "negative"}
+{"input": "这是人类工业设计史上的奇葩", "target": "negative"}
+{"input": "老说这句话累不累", "target": "negative"}
+{"input": "玩具就是玩具", "target": "neutral"}
+{"input": "别自欺欺人了", "target": "neutral"}
+{"input": "你们女人永远也无法领略到其中的价值", "target": "neutral"}
+{"input": "除了宛瑜以外", "target": "neutral"}
+{"input": "宛瑜", "target": "negative"}
+{"input": "我把我的那套限量版变形金刚全送给他", "target": "positive"}
+{"input": "他别提有多高兴了", "target": "positive"}
+{"input": "我没听错吧", "target": "neutral"}
+{"input": "你拿变形金刚做礼物送女生", "target": "neutral"}
+{"input": "好小子你", "target": "positive"}
+{"input": "很有心是吧", "target": "neutral"}
+{"input": "你缺心眼你 以后在外面", "target": "negative"}
+{"input": "千万别说你是我弟弟", "target": "negative"}
+{"input": "怎么了", "target": "negative"}
+{"input": "这些都是美国20年前原产限量版", "target": "positive"}
+{"input": "全球都不再卖了", "target": "positive"}
+{"input": "很珍贵", "target": "negative"}
+{"input": "一个现在都要卖几千块钱", "target": "positive"}
+{"input": "而且你有钱还不一定买得到", "target": "negative"}
+{"input": "别幼稚了", "target": "negative"}
+{"input": "肯定有", "target": "negative"}
+{"input": "我上百度Google一下给你看", "target": "neutral"}
+{"input": "看这就有一个", "target": "neutral"}
+{"input": "什么 擎天柱只卖250块4毛1", "target": "negative"}
+{"input": "这怎么可能", "target": "negative"}
+{"input": "这数字倒挺好的", "target": "neutral"}
+{"input": "250是你 只有250才会买这个吧", "target": "neutral"}
+{"input": "这么便宜", "target": "negative"}
+{"input": "去偷啊", "target": "negative"}
+{"input": "节哀顺变吧", "target": "neutral"}
+{"input": "老弟 都有人出价了", "target": "neutral"}
+{"input": "我发誓 擎天柱最少要卖3000块钱", "target": "negative"}
+{"input": "卖家是不是脑子有毛病", "target": "negative"}
+{"input": "这破坏市场嘛", "target": "negative"}
+{"input": "婉瑜要是知道你送给他", "target": "neutral"}
+{"input": "这宝贝只值250", "target": "neutral"}
+{"input": "他肯定以为你也是个250", "target": "positive"}
+{"input": "不是我要把价格抬上去", "target": "negative"}
+{"input": "我出3000", "target": "negative"}
+{"input": "这年头真是世风日下", "target": "negative"}
+{"input": "居然有人在卖梁朝伟出道前用过的7成新马桶圈", "target": "negative"}
+{"input": "就是呀", "target": "neutral"}
+{"input": "万一买回来不是梁朝伟用过的", "target": "neutral"}
+{"input": "那买家不就亏大了吗", "target": "neutral"}
+{"input": "你可以要求做DNA检测", "target": "neutral"}
+{"input": "说不定马桶圈内还有汤唯的签名", "target": "positive"}
+{"input": "让我看看你帮我买的变形金刚怎么样", "target": "neutral"}
+{"input": "我帮你在很多主要的交易网站上都挂了拍卖信息", "target": "neutral"}
+{"input": "应该有人回复了", "target": "neutral"}
+{"input": "人不能在一棵树上吊死", "target": "neutral"}
+{"input": "要在附近的几棵树上多死几次试试", "target": "positive"}
+{"input": "你看这个名字帅得被人砍", "target": "positive"}
+{"input": "我猜这个人一定长的不咋地哼哼", "target": "positive"}
+{"input": "这是我的名字", "target": "negative"}
+{"input": "有人给我留言了 要加我", "target": "neutral"}
+{"input": "是这个吗 唐僧洗头爱飘柔", "target": "neutral"}
+{"input": "帅兄 你这个擎天柱 除了高度和长度", "target": "neutral"}
+{"input": "其他的尺寸有没有 铁皮厚度、轮胎宽度、保险杠底沿高度 挡风玻璃的偏振周期是多少", "target": "neutral"}
+{"input": "不好意思啊", "target": "negative"}
+{"input": "唐兄 没那么精确", "target": "negative"}
+{"input": "顾客是上帝", "target": "negative"}
+{"input": "你连尺寸都不清楚做什么生意", "target": "negative"}
+{"input": "上帝求你告诉我挡风玻璃的偏振周期是多少吧", "target": "negative"}
+{"input": "算了", "target": "negative"}
+{"input": "那见面交易行吗", "target": "negative"}
+{"input": "抱歉 不行哦", "target": "neutral"}
+{"input": "我们只接受邮购", "target": "neutral"}
+{"input": "你说个地方 我去", "target": "neutral"}
+{"input": "当面交易确实不方便呐", "target": "neutral"}
+{"input": "你可以蒙面", "target": "neutral"}
+{"input": "天哪", "target": "negative"}
+{"input": "我是不是眼花了", "target": "negative"}
+{"input": "婉瑜你看看这有没有小数点", "target": "negative"}
+{"input": "我看看", "target": "neutral"}
+{"input": "天呐", "target": "positive"}
+{"input": "3000", "target": "positive"}
+{"input": "这个唐僧居然会出价3000块", "target": "positive"}
+{"input": "太惊天地泣鬼神了", "target": "positive"}
+{"input": "不会吧", "target": "positive"}
+{"input": "这玩意那么值钱啊", "target": "positive"}
+{"input": "我看到有人卖 自己被暴打一顿也只要2500", "target": "neutral"}
+{"input": "那我应该把我那些被狗咬过的DVD", "target": "positive"}
+{"input": "还有我出道前用过的马桶圈都卖掉", "target": "positive"}
+{"input": "一定能赚大钱", "target": "positive"}
+{"input": "3000块 我们卖了它", "target": "positive"}
+{"input": "现在还不能卖", "target": "neutral"}
+{"input": "为什么", "target": "negative"}
+{"input": "我觉得这个价钱还会更高", "target": "neutral"}
+{"input": "如果这个笨蛋愿意出3000块买变形金刚", "target": "neutral"}
+{"input": "说明他一定是个执着的笨蛋", "target": "neutral"}
+{"input": "而且还挺有钱的", "target": "positive"}
+{"input": "你想想3000都出了", "target": "positive"}
+{"input": "他一定不在乎再多出", "target": "positive"}
+{"input": "500", "target": "positive"}
+{"input": "你的意思是", "target": "neutral"}
+{"input": "我可以再注册一个账号和他竞价", "target": "neutral"}
+{"input": "然后把价格抬高", "target": "neutral"}
+{"input": "不太好吧", "target": "negative"}
+{"input": "相信我我出了3500他就会出4000", "target": "positive"}
+{"input": "这样你两个月的房租不就都有了吗", "target": "positive"}
+{"input": "是啊", "target": "neutral"}
+{"input": "看我的 没问题", "target": "positive"}
+{"input": "小雪我们去看电影", "target": "positive"}
+{"input": "最近有一部叫赤壁的搞笑片很不错", "target": "positive"}
+{"input": "然后我们再去晚餐和甜点", "target": "positive"}
+{"input": "我都已经准备好了", "target": "positive"}
+{"input": "又看电影", "target": "negative"}
+{"input": "没新意", "target": "negative"}
+{"input": "你就不能干点别的事情", "target": "negative"}
+{"input": "你是说我们可以干别的事情", "target": "positive"}
+{"input": "不如去你家吧", "target": "neutral"}
+{"input": "这么便宜我 居然比我还奔放", "target": "negative"}
+{"input": "太快了", "target": "positive"}
+{"input": "你别误会", "target": "neutral"}
+{"input": "都说看一个独居男人的卧室就能看出他的性格", "target": "neutral"}
+{"input": "下次会有机会让你看到我的卧室的", "target": "positive"}
+{"input": "今天不方便", "target": "neutral"}
+{"input": "小雪", "target": "negative"}
+{"input": "我觉得我们的关系应该循序渐进", "target": "negative"}
+{"input": "我是一个很传统的人", "target": "negative"}
+{"input": "第一次就回家", "target": "negative"}
+{"input": "我会很不习惯的", "target": "negative"}
+{"input": "你真老土", "target": "negative"}
+{"input": "这是谁", "target": "negative"}
+{"input": "他是我远房表妹 乡下来的", "target": "negative"}
+{"input": "第一次来我们这儿", "target": "negative"}
+{"input": "带她四处转转", "target": "negative"}
+{"input": "表妹怎么约在这", "target": "neutral"}
+{"input": "不带回家坐坐", "target": "neutral"}
+{"input": "别编 没人能骗得了我胡一菲", "target": "neutral"}
+{"input": "你都知道了", "target": "negative"}
+{"input": "你和美嘉吵架了吧", "target": "neutral"}
+{"input": "是 这个女人脑子有毛病", "target": "negative"}
+{"input": "气死我了", "target": "negative"}
+{"input": "两口床头吵架床尾合的", "target": "neutral"}
+{"input": "别那么小气", "target": "neutral"}
+{"input": "大男人让女孩子应该的 回去吧", "target": "neutral"}
+{"input": "不行", "target": "negative"}
+{"input": "我还是不能回去", "target": "negative"}
+{"input": "为什么", "target": "negative"}
+{"input": "因为关谷 我表妹她有日本人恐惧症 都是日本鬼片给闹的", "target": "negative"}
+{"input": "她一看到日本人他就害怕", "target": "negative"}
+{"input": "万一回去看见关谷 发起病来又流口水又挠墙", "target": "negative"}
+{"input": "很吓人的", "target": "negative"}
+{"input": "我还是带他去别的地方逛逛", "target": "negative"}
+{"input": "子乔 我还是实话告诉你", "target": "negative"}
+{"input": "我刚才看着美嘉拿着箱子出去了", "target": "negative"}
+{"input": "出去了去哪了", "target": "neutral"}
+{"input": "不知道", "target": "neutral"}
+{"input": "估计是跟你吵架的缘故", "target": "neutral"}
+{"input": "他说他要回娘家", "target": "neutral"}
+{"input": "还说让你不要打电话给他", "target": "neutral"}
+{"input": "不信你回去看看", "target": "neutral"}
+{"input": "真的吗", "target": "negative"}
+{"input": "这么严重", "target": "negative"}
+{"input": "曾老师情况怎么样了", "target": "positive"}
+{"input": "没动静再等等", "target": "neutral"}
+{"input": "又怎么了", "target": "negative"}
+{"input": "对不起 我忍不住了", "target": "positive"}
+{"input": "这个名字实在是太贱了", "target": "positive"}
+{"input": "丑得想整容", "target": "positive"}
+{"input": "比你的还贱", "target": "positive"}
+{"input": "这是我刚改的新名字", "target": "negative"}
+{"input": "你不是叫帅的被人砍吗", "target": "negative"}
+{"input": "我想低调的有错吗", "target": "negative"}
+{"input": "来了来了", "target": "neutral"}
+{"input": "这个唐僧果然出价4000", "target": "positive"}
+{"input": "太好了出手吧 ", "target": "positive"}
+{"input": "不行 ", "target": "neutral"}
+{"input": "才过了10分钟就上了1000块钱", "target": "neutral"}
+{"input": "看来他接受我们的挑战很坚决", "target": "neutral"}
+{"input": "你的意思是", "target": "neutral"}
+{"input": "我们要继续挑战他", "target": "positive"}
+{"input": "直接上到5000", "target": "positive"}
+{"input": "看他的反应", "target": "positive"}
+{"input": "太多了吧", "target": "negative"}
+{"input": "一不做二不休", "target": "positive"}
+{"input": "舍不得孩子", "target": "positive"}
+{"input": "套不着钱", "target": "positive"}
+{"input": "多谢了", "target": "positive"}
+{"input": "反应真快", "target": "positive"}
+{"input": "我一口盐洗水喷死你", "target": "negative"}
+{"input": "你个屁股长在脸上整天放屁的王八蛋", "target": "negative"}
+{"input": "收了我半个月工资还敢毁约", "target": "negative"}
+{"input": "你人品也太烂了点", "target": "negative"}
+{"input": "你现在给我出去 光速有的快你给我滚多快", "target": "negative"}
+{"input": "我不知道呀 是一菲跟我说你出去了 我被诓了", "target": "negative"}
+{"input": "她吃饱事情没饭做", "target": "negative"}
+{"input": "诓你", "target": "negative"}
+{"input": "问得好", "target": "negative"}
+{"input": "我也想知道为什么吃饱了撑的诓我", "target": "negative"}
+{"input": "不用谢我", "target": "neutral"}
+{"input": "我们那嘎达都是活雷锋", "target": "neutral"}
+{"input": "胡一菲", "target": "neutral"}
+{"input": "你一会帮我跟小雪解释一下", "target": "negative"}
+{"input": "我还被鄙视了", "target": "negative"}
+{"input": "他全家土包子", "target": "negative"}
+{"input": "美嘉 求你了", "target": "negative"}
+{"input": "你帮我给他解释一下好不好", "target": "negative"}
+{"input": "好吧", "target": "negative"}
+{"input": "反正我的约会也黄了", "target": "negative"}
+{"input": "要死我们一起死", "target": "negative"}
+{"input": "你说什么我都答应你", "target": "negative"}
+{"input": "真的", "target": "positive"}
+{"input": "真的", "target": "negative"}
+{"input": "双倍", "target": "positive"}
+{"input": "你抢劫啊", "target": "negative"}
+{"input": "美女其实我是子乔的", "target": "positive"}
+{"input": "双倍就双倍", "target": "negative"}
+{"input": "还有赶紧带着土包子撤退", "target": "negative"}
+{"input": "246是我的", "target": "negative"}
+{"input": "你也太狠了", "target": "negative"}
+{"input": "对敌人的宽容就是对自己的残忍", "target": "positive"}
+{"input": "行", "target": "negative"}
+{"input": "撤退就撤退", "target": "negative"}
+{"input": "等会儿", "target": "neutral"}
+{"input": "你刚才穿着杜兜", "target": "negative"}
+{"input": "谁说我穿肚兜", "target": "negative"}
+{"input": "你把睡衣脱下来给我看看", "target": "neutral"}
+{"input": "我吕子乔行走江湖这么多年", "target": "positive"}
+{"input": "没见过穿肚兜约会的", "target": "positive"}
+{"input": "我愿意 你管得着吗你", "target": "negative"}
+{"input": "这越想越不对劲", "target": "negative"}
+{"input": "外面点着蜡烛", "target": "negative"}
+{"input": "热着二锅头", "target": "negative"}
+{"input": "你又穿着肚兜", "target": "negative"}
+{"input": "看这架势", "target": "positive"}
+{"input": "你是要吃人", "target": "positive"}
+{"input": "什么二锅头 那是香薰", "target": "negative"}
+{"input": "你到底约了谁 这么如狼似虎的", "target": "positive"}
+{"input": "我干嘛告诉你 你是我谁", "target": "negative"}
+{"input": "我是你表哥", "target": "positive"}
+{"input": "不会是", "target": "positive"}
+{"input": "你别猜了", "target": "negative"}
+{"input": "你快走吧", "target": "negative"}
+{"input": "谁都比你强", "target": "negative"}
+{"input": "要是一会他回来了", "target": "negative"}
+{"input": "我肯定跟你同归于尽", "target": "negative"}
+{"input": "你刚才说回来", "target": "negative"}
+{"input": "你约会的不会是关谷", "target": "negative"}
+{"input": "你约的真的是关谷", "target": "negative"}
+{"input": "是又怎么样", "target": "negative"}
+{"input": "小姐", "target": "negative"}
+{"input": "你小时候被猪亲过", "target": "negative"}
+{"input": "你约谁不行", "target": "negative"}
+{"input": "你约关谷 你跟关谷约会了", "target": "negative"}
+{"input": "咱俩的事不就穿帮了吗", "target": "negative"}
+{"input": "本来就没什么事", "target": "negative"}
+{"input": "我是说房租减半", "target": "negative"}
+{"input": "水电全免的事儿", "target": "negative"}
+{"input": "我知道了", "target": "negative"}
+{"input": "你跟关谷约会了", "target": "negative"}
+{"input": "照样可以房租减半", "target": "negative"}
+{"input": "我就成炮灰了", "target": "negative"}
+{"input": "对哦", "target": "positive"}
+{"input": "没想到我的计划那么完美", "target": "positive"}
+{"input": "我也一口盐汽水喷死你", "target": "negative"}
+{"input": "我跟关谷好了", "target": "positive"}
+{"input": "我可以帮你交房租的", "target": "positive"}
+{"input": "我人品还是可以的", "target": "positive"}
+{"input": "你跟谁约会都可以", "target": "negative"}
+{"input": "你跟关谷不行", "target": "negative"}
+{"input": "要是大家知道了我的面子往哪放", "target": "negative"}
+{"input": "我不成天顶着一顶绿帽子过日子吗", "target": "negative"}
+{"input": "你本来就有一顶", "target": "negative"}
+{"input": "什么", "target": "negative"}
+{"input": "展博还是小贤", "target": "negative"}
+{"input": "我说你自己买的那顶", "target": "negative"}
+{"input": "总之放卫星也得有个轨道", "target": "negative"}
+{"input": "你跟关谷的事情绝对没门", "target": "negative"}
+{"input": "我是关谷神奇", "target": "positive"}
+{"input": "我叫小雪", "target": "neutral"}
+{"input": "你好", "target": "neutral"}
+{"input": "你在这里做什么", "target": "neutral"}
+{"input": "我朋友住在这里", "target": "neutral"}
+{"input": "那她人呢", "target": "positive"}
+{"input": "她在里面 说要给我一个惊喜", "target": "neutral"}
+{"input": "这些都是他准备的吗", "target": "positive"}
+{"input": "是啊", "target": "neutral"}
+{"input": "那我陪你聊聊吧", "target": "positive"}
+{"input": "坐", "target": "positive"}
+{"input": "我是从日本横滨来的", "target": "positive"}
+{"input": "我是画漫画的", "target": "positive"}
+{"input": "你呢", "target": "positive"}
+{"input": "我是平面设计师", "target": "neutral"}
+{"input": "真的吗", "target": "positive"}
+{"input": "我们算是同行", "target": "positive"}
+{"input": "我正好还会说一点日语呢", "target": "positive"}
+{"input": "太巧了", "target": "positive"}
+{"input": "真是有缘千里来相会", "target": "positive"}
+{"input": "一江春水向东流", "target": "positive"}
+{"input": "我觉得你很漂亮", "target": "positive"}
+{"input": "哪里 头发、眼睛、眉毛、嘴巴、鼻子耳朵都很漂亮", "target": "positive"}
+{"input": "虽然我看不清你的眉毛", "target": "positive"}
+{"input": "但是我感觉得到", "target": "positive"}
+{"input": "你说话真搞笑", "target": "positive"}
+{"input": "其实我一直想问这个是什么", "target": "neutral"}
+{"input": "我朋友说这是二锅头", "target": "neutral"}
+{"input": "就是你们日本的烧酒", "target": "neutral"}
+{"input": "烧酒", "target": "positive"}
+{"input": "我在日本喝过的", "target": "positive"}
+{"input": "味道有点怪", "target": "negative"}
+{"input": "不过蛮特别的", "target": "positive"}
+{"input": "你要尝一口吗", "target": "positive"}
+{"input": "我怎么觉得二锅头有一种印度飞饼的味道", "target": "negative"}
+{"input": "印度飞饼", "target": "positive"}
+{"input": "我不要 我就是要和关谷约会", "target": "negative"}
+{"input": "我说小姐咱俩就别在这耗着了行吗", "target": "negative"}
+{"input": "小雪还在外面等着", "target": "negative"}
+{"input": "你让我少死点脑细胞好不好", "target": "negative"}
+{"input": "本来就没什么脑细胞 死光算数", "target": "negative"}
+{"input": "还不是你出的馊主意", "target": "negative"}
+{"input": "亏你想得出来", "target": "negative"}
+{"input": "办什么假情侣 害人害己", "target": "negative"}
+{"input": "现在掉井里了", "target": "negative"}
+{"input": "谁说是我想出来的", "target": "negative"}
+{"input": "是你听说爱情公寓情侣入住可以", "target": "negative"}
+{"input": "房租减半", "target": "negative"}
+{"input": "水电全免", "target": "negative"}
+{"input": "你眼睛都绿的发蓝了", "target": "negative"}
+{"input": "我拉都拉不住", "target": "negative"}
+{"input": "好像是你一分钱都没有", "target": "negative"}
+{"input": "要不是我救你", "target": "negative"}
+{"input": "你还在火车站卖", "target": "negative"}
+{"input": "大力丸 吕少", "target": "negative"}
+{"input": "我得想个办法把这个问题解决了", "target": "negative"}
+{"input": "婉瑜 我的变形金刚", "target": "positive"}
+{"input": "怎么了", "target": "negative"}
+{"input": "我给你那个擎天柱 现在市场价已经卖到了14250", "target": "positive"}
+{"input": "厉害吧", "target": "positive"}
+{"input": "真的吗", "target": "positive"}
+{"input": "这么贵", "target": "positive"}
+{"input": "要不然怎么是典藏版", "target": "positive"}
+{"input": "赶紧拿出来给我老姐看看 她不信", "target": "positive"}
+{"input": "其实变形金刚不见了", "target": "negative"}
+{"input": "我昨天晚上把汽车放在窗口", "target": "negative"}
+{"input": "让他接受月光的灵气", "target": "negative"}
+{"input": "第二天早上醒来就不见了", "target": "negative"}
+{"input": "月光的灵气", "target": "neutral"}
+{"input": "可能是飞回赛博坦星球去了吧", "target": "negative"}
+{"input": "原来是这样", "target": "negative"}
+{"input": "少来说实话吧", "target": "negative"}
+{"input": "好吧", "target": "negative"}
+{"input": "我弄丢了", "target": "negative"}
+{"input": "对不起", "target": "negative"}
+{"input": "弄丢了", "target": "negative"}
+{"input": "对不起", "target": "negative"}
+{"input": "我真的很喜欢", "target": "negative"}
+{"input": "真的", "target": "negative"}
+{"input": "你不会怪我吧", "target": "negative"}
+{"input": "怎么会", "target": "negative"}
+{"input": "你把眼睛闭起来", "target": "positive"}
+{"input": "我再给你看一样东西", "target": "positive"}
+{"input": "不要惊讶", "target": "positive"}
+{"input": "我到淘宝网上给你又买了一个", "target": "positive"}
+{"input": "14250", "target": "negative"}
+{"input": "亲爱的朋友", "target": "positive"}
+{"input": "您想一睡不醒吗", "target": "positive"}
