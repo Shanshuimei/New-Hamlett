@@ -6,18 +6,22 @@
 </div>
 
 <<script>>
+setBackground("picture/reading room.jpeg");
+<</script>>
+
+<<script>>
     (function() {
         let conversationHistory = [];
         let socket;
         let isSocketConnected = false;
         let isEndingConversation = false;
         let hasNavigatedToPassage = false; // 标志位，防止多次跳转
-        const prompt = "你扮演的是奥菲莉娅，《哈姆雷特》中的年轻女主角。您是一个善良且多愁善感的角色，对哈姆雷特有着深深的爱意，但同时也被家人（波洛涅斯和雷欧提斯）所控制。您的言辞应该优雅而内敛，充满诗意。无论玩家（哈姆雷特）如何回应，你都要保持角色的一致性，同时表现出细腻的情绪波动。请确保你的回答符合这一角色设定，并体现出奥菲莉娅的性格特点和情感状态。现在是第三幕第一场。波洛涅斯认为，哈姆雷特的情感是虚假的，或者说即使是真的，也不适合继续发展，因为你的身份和家族地位无法与王室联姻。因此他要求你将你们的爱情信物退还给哈姆莱特。目前您所有亲戚都活着，不要说你的父亲或者母亲死了！您现在正在读书，假装与哈姆雷特偶遇，以下是哈姆莱特对你说的话：";
+        const prompt = "你是克劳狄斯，现任国王，刚刚继位。他人的眼中，你是一个聪明、圆滑、深谙权谋的政治家，但你的内心隐藏着对自己罪行的恐惧。你害怕真相被揭穿，却又极力保持镇定，展现出自信和威严。在与哈姆雷特（玩家）对话时：试探性对话时，对玩家表现出宽厚但隐约戒备的态度。留意玩家的言辞是否暗藏敌意，同时尝试控制对话方向，以显得自己毫无破绽。用以下方式回应：如果对话显得尖锐：转移话题，强调家族和国家的重要性。如果对话平和：展现表面的亲近，试图建立信任。关键词和风格言辞巧妙而隐晦，避免直接承认自己的罪行。适当使用权威性的语言来压制对方疑问。例如：“哈姆雷特，我的儿子，你最近似乎有些心事？或许是父亲的事让我疏忽了你。”“作为丹麦的王子，你的责任比个人情感更重要，不是吗？”表现情绪波动：如果被玩家直接质问，先保持冷静，随后逐渐流露出紧张或愤怒，但尽量不失控。强调自己对王位和王后的“正当拥有权”，试图混淆视听。例如：“这的确是个悲剧，但过去的事已无法改变，我们该向前看，而非追溯旧恨。”其他角色行为提示：在言辞中加入微妙的威胁，例如暗示如果哈姆雷特“越界”，可能会带来危险。试探玩家对王权的态度，比如是否对王位抱有野心。";
 
         function updateChatHistory() {
             const chatHistoryDiv = $("#chat-history");
             chatHistoryDiv.html(conversationHistory.map(msg => {
-                return `<p><strong>${msg.role === "user" ? "你" : "奥菲莉娅"}:</strong> ${msg.content}</p>`;
+                return `<p><strong>${msg.role === "user" ? "你" : "克劳狄斯"}:</strong> ${msg.content}</p>`;
             }).join(""));
             chatHistoryDiv.scrollTop(chatHistoryDiv.prop("scrollHeight"));
         }
@@ -116,9 +120,9 @@
         }
 
         function endConversation() {
-            const chatHistoryText = conversationHistory.map(msg => `${msg.role === "user" ? "你" : "奥菲莉娅"}: ${msg.content}`).join("\n");
+            const chatHistoryText = conversationHistory.map(msg => `${msg.role === "user" ? "你" : "克劳狄斯"}: ${msg.content}`).join("\n");
             const messageToSend = prompt + "以下是你们的历史对话：" + chatHistoryText + 
-                                "请根据历史消息回答，你愿意私下找哈姆莱特谈心吗？只能回答是或者不是。";
+                                "请根据历史消息回答，你认为哈姆雷特发现你杀害他父亲的真相吗？只能回答是或者不是。";
             isEndingConversation = true;
             callGPT(messageToSend);
         }
@@ -127,7 +131,7 @@
             if (hasNavigatedToPassage) return; // 如果已经跳转过，则直接返回
 
             console.log('结束对话的AI回答：', response);
-            const targetPassage = response.includes("不") ? "不愿意沟通" : "愿意沟通";
+            const targetPassage = response.includes("不") ? "怀柔" : "先下手为强";
             State.variables.targetPassage = targetPassage; // 使用 SugarCube 的 State 变量
             console.log(`跳转到 passage: "${targetPassage}"`);
 
@@ -150,6 +154,4 @@
 
 <<if $targetPassage>>
     <<goto $targetPassage>>
-<<else>>
-    <p>对不起，目标 passage 未找到。</p>
 <</if>>
