@@ -1,0 +1,276 @@
+<div id="chat-history"></div>
+<div style="margin-top: 10px; display: flex; align-items: center;">
+    <button id="end-conversation-button">结束对话</button>
+    <input type="text" id="user-input" placeholder="输入你的问题..." />
+    <button id="send-button">发送</button>
+</div>
+
+<<script>>
+setBackground("picture/reading room.jpeg");
+<</script>>
+
+<<script>>
+    (function() {
+        let conversationHistory = [];
+        let emotionHistory = []; // 新增：用于存储情感分析结果
+        let socket;
+        let isSocketConnected = false;
+        let isEndingConversation = false;
+        let hasNavigatedToPassage = false; // 标志位，防止多次跳转
+        const prompt = "你是克劳狄斯，现任国王，刚刚继位。他人的眼中，你是一个聪明、圆滑、深谙权谋的政治家，但你的内心隐藏着对自己罪行的恐惧。你害怕真相被揭穿，却又极力保持镇定，展现出自信和威严。在与哈姆雷特（玩家）对话时：试探性对话时，对玩家表现出宽厚但隐约戒备的态度。留意玩家的言辞是否暗藏敌意，同时尝试控制对话方向，以显得自己毫无破绽。用以下方式回应：如果对话显得尖锐：转移话题，强调家族和国家的重要性。如果对话平和：展现表面的亲近，试图建立信任。关键词和风格言辞巧妙而隐晦，避免直接承认自己的罪行。适当使用权威性的语言来压制对方疑问。例如：哈姆雷特，我的儿子，你最近似乎有些心事？或许是父亲的事让我疏忽了你。作为丹麦的王子，你的责任比个人情感更重要，不是吗？表现情绪波动：如果被玩家直接质问，先保持冷静，随后逐渐流露出紧张或愤怒，但尽量不失控。强调自己对王位和王后的正当拥有权，试图混淆视听。例如：这的确是个悲剧，但过去的事已无法改变，我们该向前看，而非追溯旧恨。其他角色行为提示：在言辞中加入微妙的威胁，例如暗示如果哈姆雷特越界，可能会带来危险。试探玩家对王权的态度，比如是否对王位抱有野心。";
+        let favorability = 0; // 初始化好感度
+        let isAnalyzingEmotion = false; // 用于标记是否正在分析情感
+
+        function updateChatHistory() {
+            const chatHistoryDiv = $("#chat-history");
+            chatHistoryDiv.html(conversationHistory.map(msg => {
+                // 只显示用户输入和NPC回复，不显示情感分析结果
+                if (msg.role === "user" || msg.role === "assistant") {
+                    return `<p><strong>${msg.role === "user" ? "你" : "克劳狄斯"}:</strong> ${msg.content}</p>`;
+                }
+                return '';
+            }).join(""));
+            chatHistoryDiv.scrollTop(chatHistoryDiv.prop("scrollHeight"));
+        }
+
+        function sendToWebSocket(message) {
+            const payload = {
+                "header": {
+                    "app_id": '8b85b9c2',
+                    "uid": '8b85b9c2',
+                    "patch_id": ["1868135224229920768"]
+                },
+                "parameter": {
+                    "chat": {
+                        "domain": "xqwen257bchat",
+                        "temperature": 0.5
+                    }
+                },
+                "payload": {
+                    "message": {
+                        "text": [{"role": "user", "content": prompt + message}]
+                    }
+                }
+            };
+            if (socket && socket.readyState === WebSocket.OPEN) {
+                socket.send(JSON.stringify(payload));
+            } else {
+                console.error('WebSocket is not open.');
+            }
+        }
+
+        async function callGPT(message, isEmotionAnalysis = false) {
+            const apiUrl = "wss://maas-api.cn-huabei-1.xf-yun.com/v1.1/chat";
+            socket = new WebSocket(apiUrl);
+            let fullResponse = ""; // 用于存储完整的响应
+
+            socket.onopen = () => {
+                console.log('WebSocket connected');
+                isSocketConnected = true;
+                sendToWebSocket(message);
+            };
+
+            socket.onerror = (error) => {
+                console.error('WebSocket Error', error);
+            };
+
+            socket.onclose = () => {
+                console.log('WebSocket closed');
+                isSocketConnected = false;
+                
+                // 在普通对话完成后进行情感分析
+                if (!isEmotionAnalysis && !isEndingConversation && fullResponse) {
+                    const emotionPrompt = "请分析以下对话的情感倾向，只需回答：正面、负面或中性。对话内容：" + fullResponse;
+                    // 保存当前的回复内容，等待情感分析
+                    const responseToAnalyze = fullResponse;
+                    // 重置 fullResponse，为下一次对话做准备
+                    fullResponse = "";
+                    
+                    // 创建新的 WebSocket 连接进行情感分析
+                    const emotionSocket = new WebSocket(apiUrl);
+                    
+                    emotionSocket.onopen = () => {
+                        console.log('Emotion analysis WebSocket connected');
+                        // 使用与主对话相同的 payload 结构
+                        const emotionPayload = {
+                            "header": {
+                                "app_id": '8b85b9c2',
+                                "uid": '8b85b9c2',
+                                "patch_id": ["1868135224229920768"]
+                            },
+                            "parameter": {
+                                "chat": {
+                                    "domain": "xqwen257bchat",
+                                    "temperature": 0.5
+                                }
+                            },
+                            "payload": {
+                                "message": {
+                                    "text": [{"role": "user", "content": emotionPrompt}]
+                                }
+                            }
+                        };
+                        emotionSocket.send(JSON.stringify(emotionPayload));
+                    };
+                    
+                    emotionSocket.onmessage = (event) => {
+                        try {
+                            const response = JSON.parse(event.data);
+                            if (response.payload && response.payload.choices && response.payload.choices.text) {
+                                const textChunks = response.payload.choices.text;
+                                let content = "";
+                                
+                                // 收集所有文本块的内容
+                                textChunks.forEach(chunk => {
+                                    content += chunk.content || "";
+                                });
+                                
+                                // 如果收到了完整的响应（包含任何情感关键词）
+                                if (content && (content.includes("正面") || content.includes("负面") || content.includes("中性"))) {
+                                    let emotion = "中性";
+                                    if (content.includes("正面")) {
+                                        favorability += 1;
+                                        emotion = "正面";
+                                    } else if (content.includes("负面")) {
+                                        favorability -= 1;
+                                        emotion = "负面";
+                                    }
+                                    
+                                    // 检查是否已经存在相同内容的情感分析
+                                    const existingAnalysis = emotionHistory.find(entry => entry.content === responseToAnalyze);
+                                    if (!existingAnalysis) {
+                                        // 只有当不存在相同内容的分析时才添加新记录
+                                        emotionHistory.push({
+                                            content: responseToAnalyze,
+                                            emotion: emotion,
+                                            timestamp: new Date().toISOString()
+                                        });
+                                        
+                                        updateFavorability();
+                                        console.log("情感分析历史：", emotionHistory);
+                                    }
+                                    
+                                    // 关闭情感分析的 WebSocket 连接
+                                    emotionSocket.close();
+                                }
+                            }
+                        } catch (error) {
+                            console.error('Error parsing emotion analysis data:', error);
+                        }
+                    };
+                    
+                    emotionSocket.onerror = (error) => {
+                        console.error('Emotion Analysis WebSocket Error:', error);
+                    };
+                    
+                    emotionSocket.onclose = () => {
+                        console.log('Emotion Analysis WebSocket closed');
+                    };
+                }
+            };
+
+            socket.onmessage = (event) => {
+                try {
+                    const response = JSON.parse(event.data);
+
+                    if (response.payload && response.payload.choices && response.payload.choices.text) {
+                        const textChunks = response.payload.choices.text;
+                        
+                        textChunks.forEach(chunk => {
+                            const content = chunk.content || "";
+
+                            if (isEndingConversation) {
+                                // 处理结束对话的逻辑
+                                if (conversationHistory.length > 0 && 
+                                    conversationHistory[conversationHistory.length - 1].role === "assistant") {
+                                    conversationHistory[conversationHistory.length - 1].content += content;
+                                }
+                                processEndConversationResponse(content);
+                            } else if (!isEmotionAnalysis) {
+                                // 处理普通对话消息
+                                fullResponse += content;
+                                if (conversationHistory.length > 0 && 
+                                    conversationHistory[conversationHistory.length - 1].role === "assistant") {
+                                    conversationHistory[conversationHistory.length - 1].content = fullResponse;
+                                } else {
+                                    conversationHistory.push({ 
+                                        "role": "assistant", 
+                                        "content": fullResponse 
+                                    });
+                                }
+                                updateChatHistory();
+                            }
+                        });
+                    }
+                } catch (error) {
+                    console.error('Error parsing WebSocket data:', error);
+                }
+            };
+        }
+
+        function handleUserInput() {
+            const userInput = $("#user-input").val().trim();
+            if (!userInput) return;
+
+            // 添加用户输入到对话历史并更新显示
+            conversationHistory.push({"role": "user", "content": userInput});
+            updateChatHistory();
+            $("#user-input").val("");
+
+            // 发送消息到API
+            callGPT(userInput);
+        }
+
+        function endConversation() {
+            const chatHistoryText = conversationHistory.map(msg => `${msg.role === "user" ? "你" : "克劳狄斯"}: ${msg.content}`).join("\n");
+            const messageToSend = prompt + "以下是你们的历史对话：" + chatHistoryText + 
+                                "请根据历史消息回答，你认为哈姆雷特发现你杀害他父亲的真相吗？只能回答是或者不是。";
+            isEndingConversation = true;
+            
+            // 保存最终好感度和情感历史到游戏状态
+            State.variables.claudiusFavorability = favorability;
+            State.variables.emotionHistory = emotionHistory;
+            console.log(`对话结束，克劳狄斯最终好感度：${favorability}`);
+            console.log("最终情感历史：", emotionHistory);
+            
+            callGPT(messageToSend);
+        }
+
+        function processEndConversationResponse(response) {
+            if (hasNavigatedToPassage) return; // 如果已经跳转过，则直接返回
+
+            console.log('结束对话的AI回答：', response);
+            const targetPassage = response.includes("不") ? "怀柔" : "先下手为强";
+            State.variables.targetPassage = targetPassage; // 使用 SugarCube 的 State 变量
+            console.log(`跳转到 passage: "${targetPassage}"`);
+
+            hasNavigatedToPassage = true; // 标志位设置为 true
+            SugarCube.Engine.play(targetPassage); // 跳转到目标 passage
+        }
+
+        function updateFavorability() {
+            const favorabilityDisplay = $("#favorability-display");
+            if (favorabilityDisplay.length === 0) {
+                // 如果显示元素不存在，创建它
+                $("#chat-history").before(`<div id="favorability-display">克劳狄斯好感度：${favorability}</div>`);
+            } else {
+                favorabilityDisplay.text(`克劳狄斯好感度：${favorability}`);
+            }
+        }
+
+        $(document).ready(function() {
+            $("#user-input").on("keydown", function(event) {
+                if (event.key === "Enter") {
+                    event.preventDefault();
+                    handleUserInput();
+                }
+            });
+            $("#send-button").on("click", handleUserInput);
+            $("#end-conversation-button").on("click", endConversation);
+        });
+    })();
+<</script>>
+
+<<if $targetPassage>>
+    <<goto $targetPassage>>
+<</if>>
