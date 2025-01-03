@@ -104,73 +104,7 @@ var LZString=function(){var r=String.fromCharCode,o="ABCDEFGHIJKLMNOPQRSTUVWXYZa
 		<div id="init-lacking"><p>Browser lacks capabilities required to play.</p><p>Upgrade or switch to another browser.</p></div>
 		<div id="init-loading"><div>Loading&hellip;</div></div>
 	</div>
-	<tw-storydata name="新王子复仇记" startnode="1" creator="Twine" creator-version="2.10.0" format="SugarCube" format-version="2.37.3" ifid="F880D3DD-8527-4C21-A729-871FCCCD9A7A" options="" tags="" zoom="1" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">#chat-history {
-    margin-top: 10px;
-    padding: 10px;
-    height: 300px;
-    overflow-y: auto;
-    background-color: rgba(255, 255, 255, 0.25);
-    backdrop-filter: blur(6px);
-    -webkit-backdrop-filter: blur(6px);
-    border: 0.8px solid rgba(255, 255, 255, 0.18);
-    box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
-    -webkit-box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
-    border-radius: 12px;
-    -webkit-border-radius: 12px;
-    color: rgba(0, 0, 0, 0.8); /* 深色文字 */
-}
-
-input[type="text"] {
-    flex: 1;
-    padding: 10px;
-    border: none;
-    border-radius: 8px;
-    background-color: rgba(255, 255, 255, 0.25) !important; /* 固定透明度 */
-    backdrop-filter: blur(6px);
-    -webkit-backdrop-filter: blur(6px);
-    font-size: 16px;
-    color: rgba(0, 0, 0, 0.8);
-    margin-left: 5px;
-    margin-right: 5px;
-    box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
-    -webkit-box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
-    height: 40px;
-    box-sizing: border-box;
-}
-
-/* 移除焦点和悬停状态的背景色变化 */
-input[type="text"]:hover,
-input[type="text"]:focus {
-    background-color: rgba(255, 255, 255, 0.25) !important; /* 保持与普通状态相同的透明度 */
-    color: rgba(0, 0, 0, 0.8);
-    outline: none;
-}
-
-/* 确保输入文字时的背景保持不变 */
-input[type="text"]:not(:placeholder-shown) {
-    background-color: rgba(255, 255, 255, 0.25) !important;
-    color: rgba(0, 0, 0, 0.8);
-}
-
-button {
-    padding: 10px;
-    border: none;
-    background-color: rgba(255, 255, 255, 0.25);
-    backdrop-filter: blur(6px);
-    -webkit-backdrop-filter: blur(6px);
-    color: rgba(0, 0, 0, 0.8); /* 深色文字 */
-    border-radius: 8px;
-    cursor: pointer;
-    font-size: 16px;
-    box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
-    -webkit-box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
-    height: 40px;
-    box-sizing: border-box;
-}
-
-button:hover {
-    background-color: rgba(255, 255, 255, 0.35); /* 更亮的透明背景 */
-}</style><script role="script" id="twine-user-script" type="text/twine-javascript">// 动态设置背景
+	<tw-storydata name="新王子复仇记" startnode="1" creator="Twine" creator-version="2.10.0" format="SugarCube" format-version="2.37.3" ifid="F880D3DD-8527-4C21-A729-871FCCCD9A7A" options="" tags="" zoom="1" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript">// 动态设置背景
 function setBackground(imageUrl) {
     document.body.style.backgroundImage = `url("${imageUrl}")`;
     document.body.style.backgroundSize = "cover";
@@ -182,6 +116,7 @@ function setBackground(imageUrl) {
 window.setBackground = setBackground;</script><tw-passagedata pid="1" name="序章：幽灵的告知" tags="" position="950,575" size="100,100">&lt;&lt;script&gt;&gt;
 setBackground(&quot;picture/paper.jpeg&quot;);
 &lt;&lt;/script&gt;&gt;
+
 &lt;span style=&quot;color: #000000;&quot;&gt;
 背景设定
 玩家扮演哈姆雷特，刚刚得知父亲去世，母亲与叔叔克劳狄斯迅速成婚。
@@ -191,7 +126,10 @@ setBackground(&quot;picture/paper.jpeg&quot;);
 玩家可以通过对话选择相信或质疑幽灵，为后续剧情分支奠定基础。
 &lt;/span&gt;
 
-[[与幽灵对话]] </tw-passagedata><tw-passagedata pid="2" name="第一章：宫廷中的权谋" tags="" position="1075,575" size="100,100">[[与克劳狄斯对话]]
+[[与幽灵对话]] </tw-passagedata><tw-passagedata pid="2" name="第一章：宫廷中的权谋" tags="" position="1075,575" size="100,100">&lt;&lt;script&gt;&gt;
+setBackground(&quot;picture/paper.jpeg&quot;);
+&lt;&lt;/script&gt;&gt;
+[[与克劳狄斯对话]]
 &lt;span style=&quot;color: #000000;&quot;&gt;
 玩家可以选择试探性地质问克劳狄斯，也可以表现得若无其事。
 对话内容会影响克劳狄斯的戒备程度，改变后续剧情难度。
@@ -218,7 +156,10 @@ setBackground(&quot;picture/paper.jpeg&quot;);
 奥菲利娅的命运
 如果玩家疏远奥菲利娅，她可能陷入悲剧；如果支持她，她或许会成为盟友。
 &lt;/span&gt;
-[[最终章：复仇与抉择]] </tw-passagedata><tw-passagedata pid="5" name="最终章：复仇与抉择" tags="" position="1450,575" size="100,100">&lt;span style=&quot;color: #000000;&quot;&gt;
+[[最终章：复仇与抉择]] </tw-passagedata><tw-passagedata pid="5" name="最终章：复仇与抉择" tags="" position="1450,575" size="100,100">&lt;&lt;script&gt;&gt;
+setBackground(&quot;picture/paper.jpeg&quot;);
+&lt;&lt;/script&gt;&gt;
+&lt;span style=&quot;color: #000000;&quot;&gt;
 决战时刻
 玩家可以选择直接对抗克劳狄斯、与雷欧提斯决斗，或者策划更复杂的复仇计划。
 多结局设计
@@ -226,7 +167,9 @@ setBackground(&quot;picture/paper.jpeg&quot;);
 和平结局：与克劳狄斯达成某种协议，终结血腥循环。
 新悲剧结局：复仇失败，国家陷入更深的动荡。
 &lt;/span&gt;
-[[后记]]</tw-passagedata><tw-passagedata pid="6" name="与奥菲利娅对话" tags="" position="1075,700" size="100,100">&lt;div id=&quot;chat-history&quot;&gt;&lt;/div&gt;
+[[后记]]</tw-passagedata><tw-passagedata pid="6" name="与奥菲利娅对话" tags="" position="1075,700" size="100,100">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;light_style.css&quot;&gt;
+
+&lt;div id=&quot;chat-history&quot;&gt;&lt;/div&gt;
 &lt;div style=&quot;margin-top: 10px; display: flex; align-items: center;&quot;&gt;
     &lt;button id=&quot;end-conversation-button&quot;&gt;结束对话&lt;/button&gt;
     &lt;input type=&quot;text&quot; id=&quot;user-input&quot; placeholder=&quot;输入你的问题...&quot; /&gt;
@@ -382,22 +325,33 @@ setBackground(&quot;picture/reading room.jpeg&quot;);
 
 &lt;&lt;if $targetPassage&gt;&gt;
     &lt;&lt;goto $targetPassage&gt;&gt;
-&lt;&lt;/if&gt;&gt;</tw-passagedata><tw-passagedata pid="7" name="不愿意沟通" tags="" position="1000,900" size="100,100">&lt;span style=&quot;color: #000000;&quot;&gt;
+&lt;&lt;/if&gt;&gt;</tw-passagedata><tw-passagedata pid="7" name="不愿意沟通" tags="" position="975,900" size="100,100">&lt;&lt;script&gt;&gt;
+setBackground(&quot;picture/paper.jpeg&quot;);
+&lt;&lt;/script&gt;&gt;
+&lt;span style=&quot;color: #000000;&quot;&gt;
 奥菲利娅感受到了背叛，同时又无法摆脱家人和社会的压力，她可能陷入更深的精神困扰。
 &lt;/span&gt;
 [[第二章：复仇与阴谋]] 
-&lt;&lt;set $targetPassage to &quot;&quot;&gt;&gt;</tw-passagedata><tw-passagedata pid="8" name="愿意沟通" tags="" position="1100,900" size="100,100">&lt;span style=&quot;color: #000000;&quot;&gt;
+&lt;&lt;set $targetPassage to &quot;&quot;&gt;&gt;</tw-passagedata><tw-passagedata pid="8" name="愿意沟通" tags="" position="1100,900" size="100,100">&lt;&lt;script&gt;&gt;
+setBackground(&quot;picture/paper.jpeg&quot;);
+&lt;&lt;/script&gt;&gt;
+&lt;span style=&quot;color: #000000;&quot;&gt;
 奥菲利娅执意要寻求一个解答。她私下找您进行又一次沟通。
 &lt;/span&gt;
 [[第二章：复仇与阴谋]] 
-&lt;&lt;set $targetPassage to &quot;&quot;&gt;&gt;</tw-passagedata><tw-passagedata pid="9" name="后记" tags="" position="1450,700" size="100,100">&lt;span style=&quot;color: #000000;&quot;&gt;
+&lt;&lt;set $targetPassage to &quot;&quot;&gt;&gt;</tw-passagedata><tw-passagedata pid="9" name="后记" tags="" position="1450,700" size="100,100">&lt;&lt;script&gt;&gt;
+setBackground(&quot;picture/paper.jpeg&quot;);
+&lt;&lt;/script&gt;&gt;
+&lt;span style=&quot;color: #000000;&quot;&gt;
 非常抱歉，新王子复仇记demo到这里就结束了。
 因为我本人是第一次做游戏，而且只接触过一次前端，所以游戏内容很贫乏。
 我也不是文学专业的呀，可恶！
 但是我相信就算是悲剧，主角们也应该有更美好的结局，所以选择了互动游戏的方式，希望能创造出不同的结局。
 可惜我感觉AI比人类还死板......
 无论如何，感谢您的观看！
-&lt;/span&gt;</tw-passagedata><tw-passagedata pid="10" name="与幽灵对话" tags="" position="950,700" size="100,100">&lt;div id=&quot;chat-history&quot;&gt;&lt;/div&gt;
+&lt;/span&gt;</tw-passagedata><tw-passagedata pid="10" name="与幽灵对话" tags="" position="950,700" size="100,100">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;light_style.css&quot;&gt;
+
+&lt;div id=&quot;chat-history&quot;&gt;&lt;/div&gt;
 &lt;div style=&quot;margin-top: 10px; display: flex; align-items: center;&quot;&gt;
     &lt;button id=&quot;end-conversation-button&quot;&gt;结束对话&lt;/button&gt;
     &lt;input type=&quot;text&quot; id=&quot;user-input&quot; placeholder=&quot;输入你的问题...&quot; /&gt;
@@ -405,7 +359,7 @@ setBackground(&quot;picture/reading room.jpeg&quot;);
 &lt;/div&gt;
 
 &lt;&lt;script&gt;&gt;
-setBackground(&quot;picture/paper.jpeg&quot;);
+setBackground(&quot;picture/reading room.jpeg&quot;);
 &lt;&lt;/script&gt;&gt;
 
 &lt;&lt;script&gt;&gt;
@@ -553,15 +507,23 @@ setBackground(&quot;picture/paper.jpeg&quot;);
 
 &lt;&lt;if $targetPassage&gt;&gt;
     &lt;&lt;goto $targetPassage&gt;&gt;
-&lt;&lt;/if&gt;&gt;</tw-passagedata><tw-passagedata pid="11" name="相信幽灵" tags="" position="700,900" size="100,100">&lt;span style=&quot;color: #000000;&quot;&gt;
+&lt;&lt;/if&gt;&gt;</tw-passagedata><tw-passagedata pid="11" name="相信幽灵" tags="" position="700,900" size="100,100">&lt;&lt;script&gt;&gt;
+setBackground(&quot;picture/paper.jpeg&quot;);
+&lt;&lt;/script&gt;&gt;
+&lt;span style=&quot;color: #000000;&quot;&gt;
 相信幽灵
 &lt;/span&gt;
 [[第一章：宫廷中的权谋]] 
-&lt;&lt;set $targetPassage to &quot;&quot;&gt;&gt;</tw-passagedata><tw-passagedata pid="12" name="质疑幽灵" tags="" position="800,900" size="100,100">&lt;span style=&quot;color: #000000;&quot;&gt;
+&lt;&lt;set $targetPassage to &quot;&quot;&gt;&gt;</tw-passagedata><tw-passagedata pid="12" name="质疑幽灵" tags="" position="800,900" size="100,100">&lt;&lt;script&gt;&gt;
+setBackground(&quot;picture/paper.jpeg&quot;);
+&lt;&lt;/script&gt;&gt;
+&lt;span style=&quot;color: #000000;&quot;&gt;
 质疑幽灵
 &lt;/span&gt;
 [[第一章：宫廷中的权谋]] 
-&lt;&lt;set $targetPassage to &quot;&quot;&gt;&gt;</tw-passagedata><tw-passagedata pid="13" name="与克劳狄斯对话" tags="" position="1075,425" size="100,100">&lt;div id=&quot;chat-history&quot;&gt;&lt;/div&gt;
+&lt;&lt;set $targetPassage to &quot;&quot;&gt;&gt;</tw-passagedata><tw-passagedata pid="13" name="与克劳狄斯对话" tags="" position="1075,425" size="100,100">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;light_style.css&quot;&gt;
+
+&lt;div id=&quot;chat-history&quot;&gt;&lt;/div&gt;
 &lt;div style=&quot;margin-top: 10px; display: flex; align-items: center;&quot;&gt;
     &lt;button id=&quot;end-conversation-button&quot;&gt;结束对话&lt;/button&gt;
     &lt;input type=&quot;text&quot; id=&quot;user-input&quot; placeholder=&quot;输入你的问题...&quot; /&gt;
@@ -836,11 +798,17 @@ setBackground(&quot;picture/reading room.jpeg&quot;);
 
 &lt;&lt;if $targetPassage&gt;&gt;
     &lt;&lt;goto $targetPassage&gt;&gt;
-&lt;&lt;/if&gt;&gt;</tw-passagedata><tw-passagedata pid="14" name="怀柔" tags="" position="1000,300" size="100,100">&lt;span style=&quot;color: #000000;&quot;&gt;
+&lt;&lt;/if&gt;&gt;</tw-passagedata><tw-passagedata pid="14" name="怀柔" tags="" position="1000,300" size="100,100">&lt;&lt;script&gt;&gt;
+setBackground(&quot;picture/paper.jpeg&quot;);
+&lt;&lt;/script&gt;&gt;
+&lt;span style=&quot;color: #000000;&quot;&gt;
 怀柔
 &lt;/span&gt;
 [[第一章：宫廷中的权谋]] 
-&lt;&lt;set $targetPassage to &quot;&quot;&gt;&gt;</tw-passagedata><tw-passagedata pid="15" name="先下手为强" tags="" position="1125,300" size="100,100">&lt;span style=&quot;color: #000000;&quot;&gt;
+&lt;&lt;set $targetPassage to &quot;&quot;&gt;&gt;</tw-passagedata><tw-passagedata pid="15" name="先下手为强" tags="" position="1125,300" size="100,100">&lt;&lt;script&gt;&gt;
+setBackground(&quot;picture/paper.jpeg&quot;);
+&lt;&lt;/script&gt;&gt;
+&lt;span style=&quot;color: #000000;&quot;&gt;
 先下手为强
 &lt;/span&gt;
 [[第一章：宫廷中的权谋]] 

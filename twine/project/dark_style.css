@@ -1,0 +1,67 @@
+#chat-history {
+    margin-top: 10px;
+    padding: 10px;
+    height: 300px;
+    overflow-y: auto;
+    background-color: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    border: 0.8px solid rgba(255, 255, 255, 0.18);
+    box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
+    -webkit-box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    color: rgba(0, 0, 0, 0.8); /* 深色文字 */
+}
+
+input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.25) !important; /* 固定透明度 */
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.8);
+    margin-left: 5px;
+    margin-right: 5px;
+    box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
+    -webkit-box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
+    height: 40px;
+    box-sizing: border-box;
+}
+
+/* 移除焦点和悬停状态的背景色变化 */
+input[type="text"]:hover,
+input[type="text"]:focus {
+    background-color: rgba(255, 255, 255, 0.25) !important; /* 保持与普通状态相同的透明度 */
+    color: rgba(0, 0, 0, 0.8);
+    outline: none;
+}
+
+/* 确保输入文字时的背景保持不变 */
+input[type="text"]:not(:placeholder-shown) {
+    background-color: rgba(255, 255, 255, 0.25) !important;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+button {
+    padding: 10px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    color: rgba(0, 0, 0, 0.8); /* 深色文字 */
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
+    -webkit-box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
+    height: 40px;
+    box-sizing: border-box;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.35); /* 更亮的透明背景 */
+}
