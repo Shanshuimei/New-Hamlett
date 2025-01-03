@@ -12,6 +12,28 @@
     border-radius: 12px;
     -webkit-border-radius: 12px;
     color: rgba(255, 255, 255, 0.8); /* 白色文字 */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* 添加灰色阴影效果 */
+}
+
+/* 自定义滚动条样式 */
+html body #chat-history::-webkit-scrollbar {
+    width: 8px !important;  /* 滚动条宽度 */
+}
+
+html body #chat-history::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.759) !important;  /* 滚动条轨道 */
+    border-radius: 4px !important;
+}
+
+html body #chat-history::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.884) !important;  /* 滚动条滑块 */
+    border-radius: 4px !important;
+    backdrop-filter: blur(6px) !important;
+    -webkit-backdrop-filter: blur(6px) !important;
+}
+
+html body #chat-history::-webkit-scrollbar-thumb:hover {
+    background: rgb(255, 255, 255) !important;  /* 滚动条滑块悬停状态 */
 }
 
 input[type="text"] {
